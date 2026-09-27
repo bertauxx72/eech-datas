@@ -1,0 +1,11 @@
+#water info file for eech version 162w2 and further
+#by gotcha, 050818
+#dynamic water textures, texture 1 is BOTTOM texture, texture 2 is DYNAMIC TOP texture
+#alpha: transparency of dynamic texture added to exsisting alpha(+255 is transparent,-255 is obscure)
+river1 = riverbot.tga,100,64       # bottom, delay factor, scale
+river2 = rivn,3,0,49,0,32       # dynamic, 1=bmp/2=dds/3=tga, start, end number, alpha, scale
+sea1   = water.tga,120,2048  # bottom, delay factor, scale
+sea2   = Sea0,1,1,50,0,64       # dynamic, 1=bmp/2=dds/3=tga, start, end number, alpha, scale
+reserv1 = reservoir1.tga,100,1024 # bottom, delay factor, scale
+reserv2 = asea,3,1,16,-10,64      # dynamic, 1=bmp/2=dds/3=tga, start, end number, alpha, scale
+
