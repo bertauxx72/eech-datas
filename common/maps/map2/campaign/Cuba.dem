@@ -1,0 +1,741 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:START
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:WARZONE_NAME Cuba
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:LANGUAGE_TEXT_START
+
+:LANGUAGE_ENGLISH
+:TITLE Cuban Crisis
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_GERMAN
+:TITLE Kubakrise 
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_FRENCH
+:TITLE Crise à Cuba
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_ITALIAN
+:TITLE Crisi cubana
+:LANGUAGE_TEXT_END
+	
+:LANGUAGE_SPANISH
+:TITLE La Crisis Cubana
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_TEXT_STOP
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:LANGUAGE_TEXT_START
+
+:LANGUAGE_ENGLISH
+:SHORT_TEXT_START
+In CUBA, Fidel Castro's heirs want the US out of
+Guantanamo Bay, and they're saying it with
+artillery. The USA has only two options, evacuate
+or invade, and one of those is unthinkable...
+:TEXT_END
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_GERMAN
+:SHORT_TEXT_START
+In KUBA geben Fidel Castros Erben den USA
+mit Artillerieeinsatz zu verstehen, daß sie
+aus der Bucht von Guantánamo abziehen sollen.
+Die USA haben die Wahl zwischen abziehen und
+einmarschieren, doch eine von beiden
+Möglichkeiten ist undenkbar...
+:TEXT_END
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_FRENCH
+:SHORT_TEXT_START
+A CUBA, les héritiers de Fidel Castro veulent que
+les Etats-Unis quittent la baie de Guantánamo, et
+ils expriment leurs revendications au moyen de
+l'artillerie. Seules deux options s'ouvrent aux USA:
+l'évacuation ou l'invasion,
+et l'une de ces options est hors de question...
+:TEXT_END
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_ITALIAN
+:SHORT_TEXT_START
+A CUBA, gli eredi di Fidel Castro vogliono
+espellere gli americani dalla baia di Guantánamo
+e sono intenzionati a farlo con l'artiglieria.
+Gli USA hanno solo due possibilità: evacuare o
+invadere l'area; la scelta è ovviamente obbligata.
+:TEXT_END
+:LANGUAGE_TEXT_END
+	
+:LANGUAGE_SPANISH
+:SHORT_TEXT_START
+En CUBA, los herederos de Fidel Castro quieren a
+los E.E.U.U. fuera de la Bahia de Guantamano, y
+lo muestran con artilleria. Los E.E.U.U. tiene
+dos opciones, evacuar o invadir, y uno de estos
+no queremos ni imaginar...
+:TEXT_END
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_TEXT_STOP
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:CAMPAIGN_DATA
+:FILENAME ..\COMMON\MAPS\MAP2\CAMPAIGN\CUBA.SID
+:FILENAME ..\COMMON\MAPS\MAP2\CAMPAIGN\CUBA.BIN
+
+:MAP_X_SIZE 120
+:MAP_Z_SIZE 64
+:MAP_SECTOR_SIZE 4096
+
+:FACTION
+:SIDE SIDE_BLUE_FORCE
+:COLOUR COL_BLUE
+
+:FACTION
+:SIDE SIDE_RED_FORCE
+:COLOUR COL_RED
+
+:DATE 8 7 1996
+
+:PLANNER_DATA
+:ZOOM 5
+
+:TOUR_OF_DUTY
+:HOURS 1
+:MINUTES 30
+:SECONDS 0
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:FACTION
+:SIDE SIDE_BLUE_FORCE
+:COLOUR COL_BLUE
+:ATTITUDE FORCE_ATTITUDE_DESTRUCTIVE
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:TASK_GENERATION
+:TYPE TASK_ADVANCE 50 50 50
+:TYPE TASK_BATTLEFIELD_AIR_INTERDICTION 50 50 50
+:TYPE TASK_CLOSE_AIR_SUPPORT 50 50 50
+:TYPE TASK_COMBAT_AIR_PATROL 50 50 50
+:TYPE TASK_DEEP_STRIKE 50 50 50
+:TYPE TASK_ENGAGE 50 50 50
+:TYPE TASK_FARP_RECON 50 50 50
+:TYPE TASK_INTERCEPT 50 50 50
+:TYPE TASK_PICK_UP_AND_DROP_OFF 50 50 50
+:TYPE TASK_RECON 50 50 50
+:TYPE TASK_REPAIR 50 50 50
+:TYPE TASK_RESCUE 50 50 50
+:TYPE TASK_RETREAT 50 50 50
+:TYPE TASK_RETURN 50 50 50
+:TYPE TASK_SCOUT 1 1 50
+:TYPE TASK_SECTOR_RECON 1 1 50
+:TYPE TASK_SUPPRESSION_OF_ENEMY_AIR_DEFENCES 50 50 50
+:TYPE TASK_TANK_BUSTING 50 50 50
+:TYPE TASK_TRANSFER 50 50 50
+:TYPE TASK_TROOP_INSERTION 50 50 50
+:TYPE TASK_VISIT 50 50 50
+
+:HARDWARE_RESERVES
+:TYPE ARMED_FIXED_WING
+:COUNT 400
+:TYPE UNARMED_FIXED_WING
+:COUNT 200
+:TYPE ARMED_HELICOPTER
+:COUNT 400
+:TYPE UNARMED_HELICOPTER
+:COUNT 200
+:TYPE ARMED_ROUTED_VEHICLE
+:COUNT 500
+:TYPE UNARMED_ROUTED_VEHICLE
+:COUNT 500
+:TYPE ARMED_SHIP_VEHICLE
+:COUNT 100
+:TYPE UNARMED_SHIP_VEHICLE
+:COUNT 100
+
+///////////////////////////////////////////
+:FRONTLINE_FORCES 10
+///////////////////////////////////////////
+
+:CAMPAIGN_CRITERIA
+        :CRITERIA CAPTURED_SECTORS
+        :GOAL 35
+        :RESULT SUCCESS
+        :CRITERIA BALANCE_OF_POWER
+        :GOAL 60
+        :RESULT SUCCESS
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_ANCHORAGE
+:NAME USS TARAWA
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+/////////////////////////////////////////////
+
+:CREATE_MEMBERS
+:GROUP GROUP_ASSAULT_SHIP
+:MEMBER VEHICLE_TARAWA_CLASS
+:COUNT 1
+:MOBILE_KEYSITE
+:FORMATION_COMPONENT AIRCRAFT_CARRIER_GROUP
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_FRIGATE
+:TYPE FRIGATE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_LANDING_CRAFT
+:TYPE LANDING_GROUP
+// 3 members
+
+:START_BASE
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_ANCHORAGE
+:NAME USS SAIPAN
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+/////////////////////////////////////////////
+
+:CREATE_MEMBERS
+:GROUP GROUP_ASSAULT_SHIP
+:MEMBER VEHICLE_TARAWA_CLASS
+:COUNT 1
+:MOBILE_KEYSITE
+:FORMATION_COMPONENT AIRCRAFT_CARRIER_GROUP
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_FRIGATE
+:TYPE FRIGATE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_LANDING_CRAFT
+:TYPE LANDING_GROUP
+// 3 members
+
+:START_BASE
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_ANCHORAGE
+:NAME USS NASSAU
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+/////////////////////////////////////////////
+
+:CREATE_MEMBERS
+:GROUP GROUP_ASSAULT_SHIP
+:MEMBER VEHICLE_TARAWA_CLASS
+:COUNT 1
+:MOBILE_KEYSITE
+:FORMATION_COMPONENT AIRCRAFT_CARRIER_GROUP
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_MARINE_ASSAULT_HELICOPTER
+:TYPE HELICOPTER_MARINE_ASSAULT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_FRIGATE
+:TYPE FRIGATE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_LANDING_CRAFT
+:TYPE LANDING_GROUP
+// 3 members
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_ANCHORAGE
+:NAME USS PELELIU
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+/////////////////////////////////////////////
+
+:CREATE_MEMBERS
+:GROUP GROUP_ASSAULT_SHIP
+:MEMBER VEHICLE_TARAWA_CLASS
+:COUNT 1
+:MOBILE_KEYSITE
+:FORMATION_COMPONENT AIRCRAFT_CARRIER_GROUP
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_FRIGATE
+:TYPE FRIGATE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_LANDING_CRAFT
+:TYPE LANDING_GROUP
+// 3 members
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME GUANTANAMO BAY
+:TYPE LANDING_FIXED_WING
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_ESCORT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MEDIUM_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_MEDIUM_LIFT_GROUP
+// 2 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+//:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_MULTI_ROLE_FIGHTER
+//:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_ATTACK_AIRCRAFT
+:TYPE FIXED_WING_CARRIER_BORNE_STRIKE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_INTERCEPTOR
+:TYPE FIXED_WING_CARRIER_BORNE_INTERCEPTOR_GROUP
+// 2 members
+
+:START_BASE
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:FACTION
+:SIDE SIDE_RED_FORCE
+:COLOUR COL_RED
+:ATTITUDE FORCE_ATTITUDE_DESTRUCTIVE
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:TASK_GENERATION
+:TYPE TASK_ADVANCE 50 50 50
+:TYPE TASK_BATTLEFIELD_AIR_INTERDICTION 50 50 50
+:TYPE TASK_CLOSE_AIR_SUPPORT 50 50 50
+:TYPE TASK_COMBAT_AIR_PATROL 50 50 50
+:TYPE TASK_DEEP_STRIKE 50 50 50
+:TYPE TASK_ENGAGE 50 50 50
+:TYPE TASK_FARP_RECON 50 50 50
+:TYPE TASK_INTERCEPT 50 50 50
+:TYPE TASK_PICK_UP_AND_DROP_OFF 50 50 50
+:TYPE TASK_RECON 50 50 50
+:TYPE TASK_REPAIR 50 50 50
+:TYPE TASK_RESCUE 50 50 50
+:TYPE TASK_RETREAT 50 50 50
+:TYPE TASK_RETURN 50 50 50
+:TYPE TASK_SCOUT 1 1 50
+:TYPE TASK_SECTOR_RECON 1 1 50
+:TYPE TASK_SUPPRESSION_OF_ENEMY_AIR_DEFENCES 50 50 50
+:TYPE TASK_TANK_BUSTING 50 50 50
+:TYPE TASK_TRANSFER 50 50 50
+:TYPE TASK_TROOP_INSERTION 50 50 50
+:TYPE TASK_VISIT 50 50 50
+
+:HARDWARE_RESERVES
+:TYPE ARMED_FIXED_WING
+:COUNT 400
+:TYPE UNARMED_FIXED_WING
+:COUNT 200
+:TYPE ARMED_HELICOPTER
+:COUNT 400
+:TYPE UNARMED_HELICOPTER
+:COUNT 200
+:TYPE ARMED_ROUTED_VEHICLE
+:COUNT 500
+:TYPE UNARMED_ROUTED_VEHICLE
+:COUNT 500
+:TYPE ARMED_SHIP_VEHICLE
+:COUNT 100
+:TYPE UNARMED_SHIP_VEHICLE
+:COUNT 100
+
+///////////////////////////////////////////
+:FRONTLINE_FORCES 10
+///////////////////////////////////////////
+
+:CAMPAIGN_CRITERIA
+        :CRITERIA CAPTURED_SECTORS
+        :GOAL 55
+        :RESULT SUCCESS
+        :CRITERIA BALANCE_OF_POWER
+        :GOAL 75
+        :RESULT SUCCESS
+		  
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME GUANTANAMO
+:TYPE LANDING_FIXED_WING
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_ESCORT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MEDIUM_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_MEDIUM_LIFT_GROUP
+// 2 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+//:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_MULTI_ROLE_FIGHTER
+//:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_ATTACK_AIRCRAFT
+:TYPE FIXED_WING_CARRIER_BORNE_STRIKE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_INTERCEPTOR
+:TYPE FIXED_WING_CARRIER_BORNE_INTERCEPTOR_GROUP
+// 2 members
+
+:START_BASE
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME ANTONIO MACEO
+:TYPE LANDING_FIXED_WING
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_ESCORT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+//:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_ATTACK_AIRCRAFT
+:TYPE FIXED_WING_CARRIER_BORNE_STRIKE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_INTERCEPTOR
+:TYPE FIXED_WING_CARRIER_BORNE_INTERCEPTOR_GROUP
+// 2 members
+
+:START_BASE
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME MOA
+:TYPE LANDING_FIXED_WING
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_ESCORT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_ATTACK_HELICOPTER
+//:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+//:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_ATTACK_AIRCRAFT
+:TYPE FIXED_WING_CARRIER_BORNE_STRIKE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_INTERCEPTOR
+:TYPE FIXED_WING_CARRIER_BORNE_INTERCEPTOR_GROUP
+// 2 members
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_ANCHORAGE
+:NAME BODRY
+:TYPE LANDING_HELICOPTER
+:TYPE LANDING_SEA
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+/////////////////////////////////////////////
+
+:CREATE_MEMBERS
+:GROUP GROUP_ASSAULT_SHIP
+:MEMBER VEHICLE_KIEV_CLASS
+:COUNT 1
+:MOBILE_KEYSITE
+:FORMATION_COMPONENT AIRCRAFT_CARRIER_GROUP
+
+///////////////////////////////////////////
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_MARINE_ASSAULT_HELICOPTER
+:TYPE HELICOPTER_MARINE_ASSAULT_GROUP
+// 3 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_FRIGATE
+:TYPE FRIGATE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_LANDING_CRAFT
+:TYPE LANDING_GROUP
+// 3 members
+
+:START_BASE
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ General campaign flags
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:FLAG_PYLONS 1
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:END
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+

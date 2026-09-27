@@ -1,0 +1,976 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+:START
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+:LANGUAGE_TEXT_START
+////////////////////////////////////////////////////////////////////////////////////////////////////
+:LANGUAGE_ENGLISH
+
+:TYPE TASK_NOTHING
+:BRIEFING_ALLIED_CAUSE_TEXT Due to of an allied nothing
+:BRIEFING_ENEMY_CAUSE_TEXT because of an enemy nothing
+:BRIEFING_EFFECT_TEXT we're doing nothing
+:DEBRIEFING_TEXT Failed Mission
+:DEBRIEFING_TEXT Successful Mission
+
+:TYPE TASK_ADVANCE
+:BRIEFING_ALLIED_CAUSE_TEXT After the RESULT allied Frontline advance (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Following the RESULT Advancement of the enemy forces (MISSION)
+:BRIEFING_EFFECT_TEXT Enemy frontline forces are weak, so support an Advance (MISSION)
+:DEBRIEFING_TEXT You failed to support the Allied advance.
+:DEBRIEFING_TEXT The Allied Advance was a success, thanks for your support.
+
+:TYPE TASK_BATTLEFIELD_AIR_INTERDICTION
+:BRIEFING_ALLIED_CAUSE_TEXT Due to an allied Battlefield air interdiction (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT After the enemy Battlefield air interdiction at sector SECTOR (MISSION)
+:BRIEFING_EFFECT_TEXT Battlefield air interdiction (MISSION) is planned to weaken frontline forces in sector SECTOR
+:DEBRIEFING_TEXT Mission failure, the Allied Battlefield units failed to weaken Enemy forces significantly.
+:DEBRIEFING_TEXT Successful mission! Allied forces now dominate the battlefield.
+
+:TYPE TASK_CLOSE_AIR_SUPPORT
+:BRIEFING_ALLIED_CAUSE_TEXT Following the allied Close air support (MISSION) over SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Due to an enemy Close air support (MISSION)
+:BRIEFING_EFFECT_TEXT Frontline forces near sector SECTOR are requesting Close air support (MISSION)
+:DEBRIEFING_TEXT Allied forces failed to provide adequate Close air support.
+:DEBRIEFING_TEXT Successful mission. Allied forces were provided with good Close air support.
+
+:TYPE TASK_COMBAT_AIR_PATROL
+:BRIEFING_ALLIED_CAUSE_TEXT Following the RESULT allied C.A.P (MISSION) in sector SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT In result of the enemy C.A.P (MISSION) near sector SECTOR
+:BRIEFING_EFFECT_TEXT Fly C.A.P (MISSION) over the allied base KEYSITE near sector SECTOR
+:DEBRIEFING_TEXT Mission failure. Allied C.A.P. mission was not effective.
+:DEBRIEFING_TEXT Success! Allied C.A.P. was excellent.
+
+:TYPE TASK_DEEP_STRIKE
+:BRIEFING_ALLIED_CAUSE_TEXT Following the RESULT allied Deep strike (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Due to an enemy Deep strike (MISSION)
+:BRIEFING_EFFECT_TEXT Deep strike mission (MISSION) is planned to hit the enemy in sector SECTOR
+:DEBRIEFING_TEXT The mission failed to achieve its objectives.
+:DEBRIEFING_TEXT The mission was successful in striking enemy assets.
+
+:TYPE TASK_ENGAGE,
+:BRIEFING_ALLIED_CAUSE_TEXT After the allied Engage (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT In reaction to the enemy Engage (MISSION)
+:BRIEFING_EFFECT_TEXT (MISSION) : engage the enemy at sector SECTOR
+:DEBRIEFING_TEXT Failure to effectively engage the enemy.
+:DEBRIEFING_TEXT Allied forces were successful in engaging enemy units.
+
+:TYPE TASK_ESCORT
+:BRIEFING_ALLIED_CAUSE_TEXT In result of the allied Escort (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT In answer to the enemy Escort (MISSION) near sector SECTOR
+:BRIEFING_EFFECT_TEXT Allied forces at sector SECTOR require immediate Escort (MISSION)
+:DEBRIEFING_TEXT Mission failure. Escorted units were not protected.
+:DEBRIEFING_TEXT Mission successful. Escorted units were well protected. 
+
+:TYPE TASK_FARP_RECON
+:BRIEFING_ALLIED_CAUSE_TEXT Following the RESULT allied FARP Recon (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Following an enemy FARP Recon (MISSION)
+:BRIEFING_EFFECT_TEXT FARP Recon (MISSION) is planned to assess possible FARP positions near sector SECTOR
+:DEBRIEFING_TEXT The Allies failed to find suitable FARP position.
+:DEBRIEFING_TEXT Successful mission, the Allies are now attempting to establish a new FARP.
+
+:TYPE TASK_INTERCEPT
+:BRIEFING_ALLIED_CAUSE_TEXT Supporting the allied intercept (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Due to an enemy intercept (MISSION)
+:BRIEFING_EFFECT_TEXT (MISSION) Intercept enemy forces last sighted at sector SECTOR
+:DEBRIEFING_TEXT You failed to intercept enemy forces.
+:DEBRIEFING_TEXT Successful interception of enemy forces.
+
+:TYPE TASK_LANDING
+:BRIEFING_ALLIED_CAUSE_TEXT because of an allied Landing
+:BRIEFING_ENEMY_CAUSE_TEXT because of an enemy Landing
+:BRIEFING_EFFECT_TEXT we're doing a Landing
+:DEBRIEFING_TEXT Failed.
+:DEBRIEFING_TEXT Success
+
+:TYPE TASK_LANDING_HOLDING
+:BRIEFING_ALLIED_CAUSE_TEXT because of an allied Landing holding
+:BRIEFING_ENEMY_CAUSE_TEXT because of an enemy Landing holding
+:BRIEFING_EFFECT_TEXT we're doing a Landing holding
+:DEBRIEFING_TEXT failed
+:DEBRIEFING_TEXT success
+
+:TYPE TASK_PICK_UP_AND_DROP_OFF
+:BRIEFING_ALLIED_CAUSE_TEXT After the allied Pickup and drop off (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Due to an enemy Pickup and drop off (MISSION)
+:BRIEFING_EFFECT_TEXT Pickup and drop off (MISSION) has been requested to sector SECTOR
+:DEBRIEFING_TEXT Failed mission. The items to be moved failed to reach their destination.
+:DEBRIEFING_TEXT Successful transport mission.
+
+:TYPE TASK_RECON
+:BRIEFING_ALLIED_CAUSE_TEXT Following the RESULT allied Recon (MISSION)at sector SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Due to an enemy Recon (MISSION) at sector SECTOR
+:BRIEFING_EFFECT_TEXT Improve allied intellegence Recon (MISSION) to sector SECTOR
+:DEBRIEFING_TEXT Recon mission was a failure.
+:DEBRIEFING_TEXT Well done! A successful recon mission.
+
+:TYPE TASK_REPAIR
+:BRIEFING_ALLIED_CAUSE_TEXT After the allied Repair (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT In response to an enemy Repair (MISSION) in sector SECTOR
+:BRIEFING_EFFECT_TEXT Repair (MISSION) has been requested to sector SECTOR
+:DEBRIEFING_TEXT Mission failure.
+:DEBRIEFING_TEXT Successful outcome to the mission.
+
+:TYPE TASK_RESCUE
+:BRIEFING_ALLIED_CAUSE_TEXT Following the allied Rescue (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Due to an enemy Rescue (MISSION)
+:BRIEFING_EFFECT_TEXT Rescue (MISSION) Pilot is down and required an immediate Search and Rescue operation
+:DEBRIEFING_TEXT Rescue mission was a total failure.
+:DEBRIEFING_TEXT Successful mission. We need good pilots alive!
+
+:TYPE TASK_RETREAT
+:BRIEFING_ALLIED_CAUSE_TEXT Due to the allied frontline retreat in sector SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT In response to the enemy retreat (MISSION) at sector SECTOR
+:BRIEFING_EFFECT_TEXT (MISSION) Retreat : Enemy forces are too strong in sector SECTOR
+:DEBRIEFING_TEXT Our retreat was a disaster! 
+:DEBRIEFING_TEXT A good result! We managed to retreat with minimal casualties.
+
+:TYPE TASK_RETURN
+:BRIEFING_ALLIED_CAUSE_TEXT because of an allied Return
+:BRIEFING_ENEMY_CAUSE_TEXT because of an enemy Return
+:BRIEFING_EFFECT_TEXT We're doing a Return
+:DEBRIEFING_TEXT failed
+:DEBRIEFING_TEXT success
+
+:TYPE TASK_SCOUT
+:BRIEFING_ALLIED_CAUSE_TEXT After the RESULT allied Scout (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Due to an enemy Scout (MISSION)
+:BRIEFING_EFFECT_TEXT Scout (MISSION) has been planned to search and destroy enemy forces in sector SECTOR
+:DEBRIEFING_TEXT failed
+:DEBRIEFING_TEXT success
+
+:TYPE TASK_SECTOR_RECON
+:BRIEFING_ALLIED_CAUSE_TEXT Following the RESULT allied Recon (MISSION) at sector SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Due to an enemy Recon (MISSION) at sector SECTOR
+:BRIEFING_EFFECT_TEXT Improve allied intelligence Recon (MISSION) to sector SECTOR
+:DEBRIEFING_TEXT Failure! We must have up-to-date intelligence!
+:DEBRIEFING_TEXT Excellent! We now have much improved intelligence for that sector.
+
+:TYPE TASK_SUPPRESSION_OF_ENEMY_AIR_DEFENCES
+:BRIEFING_ALLIED_CAUSE_TEXT Following the RESULT allied S.E.A.D (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Due to a RESULT enemy Suppression of enemy air defences (MISSION)
+:BRIEFING_EFFECT_TEXT Neutralise enemy forces in sector SECTOR S.E.A.D (MISSION)
+:DEBRIEFING_TEXT Mission failure. The result of this will be increased losses in later attacks.
+:DEBRIEFING_TEXT Mission successful! The enemy will now be in no position to resist follow-up attacks.
+ 
+:TYPE TASK_TAKEOFF
+:BRIEFING_ALLIED_CAUSE_TEXT because of an allied Takeoff
+:BRIEFING_ENEMY_CAUSE_TEXT because of an enemy Takeoff
+:BRIEFING_EFFECT_TEXT We're doing a Takeoff
+:DEBRIEFING_TEXT failed
+:DEBRIEFING_TEXT success
+
+:TYPE TASK_TAKEOFF_HOLDING
+:BRIEFING_ALLIED_CAUSE_TEXT because of an allied Takeoff holding
+:BRIEFING_ENEMY_CAUSE_TEXT because of an enemy Takeoff holding
+:BRIEFING_EFFECT_TEXT We're doing a Takeoff holding
+:DEBRIEFING_TEXT failed
+:DEBRIEFING_TEXT success
+
+:TYPE TASK_TANK_BUSTING
+:BRIEFING_ALLIED_CAUSE_TEXT After the allied Tank busting (MISSION) across frontline forces in sector SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Because of an enemy Tank busting (MISSION) near sector SECTOR
+:BRIEFING_EFFECT_TEXT Tank busting (MISSION) : Forces in the area SECTOR are meeting heavy resistance.
+:DEBRIEFING_TEXT Mission failure. Enemy Tanks are still a major threat.
+:DEBRIEFING_TEXT Well done! Enemy tanks have been eliminated.
+
+:TYPE TASK_TRANSFER
+:BRIEFING_ALLIED_CAUSE_TEXT Due to your performance
+:BRIEFING_ENEMY_CAUSE_TEXT Following the increase in enemy activity around sector SECTOR
+:BRIEFING_EFFECT_TEXT Transfer (MISSION) : Reinforcements are requested to transfer to sector SECTOR 
+:DEBRIEFING_TEXT You failed to reach your assigned base.
+:DEBRIEFING_TEXT Excellent! Prepare for new missions from this base.
+
+:TYPE TASK_TROOP_INSERTION
+:BRIEFING_ALLIED_CAUSE_TEXT In support of the allied Troop insertion (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Following an enemy Troop insertion (MISSION) near sector SECTOR
+:BRIEFING_EFFECT_TEXT Troop insertion (MISSION) planned
+:DEBRIEFING_TEXT Troop insertion has failed.
+:DEBRIEFING_TEXT Troops have landed successfully.
+
+:TYPE TASK_VISIT
+:BRIEFING_ALLIED_CAUSE_TEXT After of an allied Visit (MISSION) to sector SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Following an enemy Visit (MISSION) into sector SECTOR
+:BRIEFING_EFFECT_TEXT Visit (MISSION) and investigate
+:DEBRIEFING_TEXT Failed
+:DEBRIEFING_TEXT Success
+
+:LANGUAGE_TEXT_END
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+:LANGUAGE_GERMAN
+
+:TYPE TASK_NOTHING
+:BRIEFING_ALLIED_CAUSE_TEXT Wegen der Untätigkeit der Verbündeten
+:BRIEFING_ENEMY_CAUSE_TEXT Wegen der Untätigkeit der Gegner
+:BRIEFING_EFFECT_TEXT unternehmen wir nichts
+:DEBRIEFING_TEXT gescheiterten Einsatz
+:DEBRIEFING_TEXT erfolgreichen Einsatz
+
+:TYPE TASK_ADVANCE
+:BRIEFING_ALLIED_CAUSE_TEXT Nach dem RESULT beim Vorrücken der Verbündeten an die Front (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Nach dem RESULT beim Vorrücken der gegnerischen Streitkräfte (MISSION)
+:BRIEFING_EFFECT_TEXT sind die gegnerischen Streitkräfte an der Front schwach, daher sollten Sie ein Vorrücken unterstützen (MISSION)
+:DEBRIEFING_TEXT Sie haben das Vorrücken der Verbündeten nicht ausreichend unterstützt.
+:DEBRIEFING_TEXT Das Vorrücken der Verbündeten war dank Ihrer Unterstützung erfolgreich. 
+
+:TYPE TASK_BATTLEFIELD_AIR_INTERDICTION
+:BRIEFING_ALLIED_CAUSE_TEXT Aufgrund des Luftangriffs der Verbündeten über dem Gefechtsfeld (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Nach dem gegnerischen Luftangriff über dem Gefechtsfeld bei Sektor SECTOR (MISSION)
+:BRIEFING_EFFECT_TEXT soll ein Luftangriff über dem Gefechtsfeld (MISSION) die Streitkräfte an der Front im Sektor SECTOR schwächen
+:DEBRIEFING_TEXT Einsatz gescheitert, den Gefechtseinheiten der Verbündeten mißlang die Schwächung der gegnerischen Streitkräfte. 
+:DEBRIEFING_TEXT Einsatz erfolgreich ausgeführt! Verbündete Streitkräfte beherrschen das Gefechtsfeld.
+
+:TYPE TASK_CLOSE_AIR_SUPPORT
+:BRIEFING_ALLIED_CAUSE_TEXT Nach der Luftnahunterstützung der Verbündeten (MISSION) über SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Aufgrund der Luftnahunterstützung der Gegner (MISSION)
+:BRIEFING_EFFECT_TEXT bitten Streitkräfte an der Front in Sektor SECTOR um Luftnahunterstützung (MISSION)
+:DEBRIEFING_TEXT Die Luftnahunterstützung der Verbündeten reichte nicht aus
+:DEBRIEFING_TEXT Einsatz erfolgreich ausgeführt. Verbündete Streitkräfte wurden durch Lufteinsätze ausreichend unterstützt.
+
+:TYPE TASK_COMBAT_AIR_PATROL
+:BRIEFING_ALLIED_CAUSE_TEXT Nach dem RESULT der Luftkampfpatrouille der Verbündeten (MISSION) im Sektor SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Aufgrund der Luftkampfpatrouille des Gegners (MISSION) in der Nähe des Sektors SECTOR
+:BRIEFING_EFFECT_TEXT unternehmen Sie eine Luftkampfpatrouille (MISSION) über den Stützpunkt der Verbündeten KEYSITE in der Nähe des Sektors SECTOR
+:DEBRIEFING_TEXT Einsatz gescheitert. Luftkampfpatrouille der Verbündeten war nicht effektiv.
+:DEBRIEFING_TEXT Erfolgreicher Einsatz! Luftkampfpatrouille der Verbündeten wurde ausgezeichnet durchgeführt.
+
+:TYPE TASK_DEEP_STRIKE
+:BRIEFING_ALLIED_CAUSE_TEXT Nach dem RESULT der Luftangriffe der Verbündeten hinter der Front (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Aufgrund von gegnerischen Luftangriffen hinter der Front (MISSION)
+:BRIEFING_EFFECT_TEXT sollen Luftangriffe hinter der Front (MISSION) den Gegner in Sektor SECTOR treffen
+:DEBRIEFING_TEXT Die Einsatzziele wurden nicht erreicht.
+:DEBRIEFING_TEXT Beim Einsatz konnte dem Gegner Schaden zugefügt werden.
+
+:TYPE TASK_ENGAGE
+:BRIEFING_ALLIED_CAUSE_TEXT Nach dem Angriff der Verbündeten (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Aufgrund des gegnerischen Angriffs (MISSION)
+:BRIEFING_EFFECT_TEXT (MISSION) : erfolgt ein Angriff auf den Gegner in Sektor SECTOR
+:DEBRIEFING_TEXT Angriff auf den Gegner gescheitert.
+:DEBRIEFING_TEXT Alliierte Streitkräfte konnten gegnerische Einheiten erfolgreich angreifen.
+
+:TYPE TASK_ESCORT
+:BRIEFING_ALLIED_CAUSE_TEXT Aufgrund des Geleitschutzes der Verbündeten (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Infolge des gegnerischen Geleitschutzes (MISSION) in der Nähe des Sektors SECTOR
+:BRIEFING_EFFECT_TEXT benötigen verbündete Streitkräfte am Sektor SECTOR sofort Geleitschutz (MISSION)
+:DEBRIEFING_TEXT Einsatz gescheitert. Geleitschutz reichte nicht aus.
+:DEBRIEFING_TEXT Einsatz erfolgreich durchgeführt. Einheiten unter Geleitschutz wurden beschützt. 
+
+:TYPE TASK_FARP_RECON
+:BRIEFING_ALLIED_CAUSE_TEXT Nach dem RESULT der FARP-Aufklärung der Verbündeten (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Nach der FARP-Aufklärung der gegnerischen Streitkräfte (MISSION)
+:BRIEFING_EFFECT_TEXT sollen durch eine FARP-Aufklärung (MISSION) mögliche FARP-Positionen in der Nähe des Sektors SECTOR entdeckt werden
+:DEBRIEFING_TEXT Die Verbündeten konnten keine geeigneten FARP-Positionen entdecken.
+:DEBRIEFING_TEXT Einsatz erfolgreich, die Verbündeten versuchen, neuen FARP einzurichten.
+
+:TYPE TASK_INTERCEPT
+:BRIEFING_ALLIED_CAUSE_TEXT Unterstützen Sie das Abfangen durch die Verbündeten (MISSION);
+:BRIEFING_ENEMY_CAUSE_TEXT Infolge des Abfangens durch gegnerische Streitkräfte (MISSION)
+:BRIEFING_EFFECT_TEXT (MISSION) fangen Sie die gegnerischen Truppen ab, die zuletzt bei Sektor SECTOR gesichtet wurden.
+:DEBRIEFING_TEXT Das Abfangen der gegnerischen Streitkräfte ist gescheitert.
+:DEBRIEFING_TEXT Das Abfangen der gegnerischen Streitkräfte war erfolgreich.
+
+:TYPE TASK_LANDING
+:BRIEFING_ALLIED_CAUSE_TEXT Nach der Landung der Verbündeten
+:BRIEFING_ENEMY_CAUSE_TEXT Nach der Landung der gegnerischen Streitkräfte
+:BRIEFING_EFFECT_TEXT führen wir eine Landung durch.
+:DEBRIEFING_TEXT Gescheitert.
+:DEBRIEFING_TEXT Erfolgreich.
+
+:TYPE TASK_LANDING_HOLDING
+:BRIEFING_ALLIED_CAUSE_TEXT Nach der befestigten Landung der Verbündeten
+:BRIEFING_ENEMY_CAUSE_TEXT Nach der befestigten Landung der Gegner
+:BRIEFING_EFFECT_TEXT führen wir eine befestigte Landung durch
+:DEBRIEFING_TEXT Gescheitert
+:DEBRIEFING_TEXT Erfolgreich
+
+:TYPE TASK_PICK_UP_AND_DROP_OFF
+:BRIEFING_ALLIED_CAUSE_TEXT Nach dem Lufttransport durch die Verbündeten (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Nach dem Lufttransport durch die Gegner (MISSION)
+:BRIEFING_EFFECT_TEXT wurde Lufttransport (MISSION) für Sektor SECTOR angefordert
+:DEBRIEFING_TEXT Einsatz gescheitert. Die Gegenstände haben ihr Ziel nicht erreicht.
+:DEBRIEFING_TEXT Transporteinsatz erfolgreich abgeschlossen.
+
+:TYPE TASK_RECON
+:BRIEFING_ALLIED_CAUSE_TEXT Nach dem RESULT gegnerischer Aufklärung (MISSION) in Sektor SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Aufgrund gegnerischer Aufklärung (MISSION) in Sektor SECTOR
+:BRIEFING_EFFECT_TEXT müssen Sie die Aufklärung der Verbündeten (MISSION) in Sektor SECTOR verbessern
+:DEBRIEFING_TEXT Aufklärungseinsatz gescheitert.
+:DEBRIEFING_TEXT Gut gemacht! Aufklärungseinsatz erfolgreich abgeschlossen.
+
+:TYPE TASK_REPAIR
+:BRIEFING_ALLIED_CAUSE_TEXT Nach der Reparatur der Verbündeten (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Als Reaktion auf gegnerische Reparatur (MISSION) in Sektor SECTOR
+:BRIEFING_EFFECT_TEXT ist eine Reparatur (MISSION) in Sektor SECTOR erforderlich
+:DEBRIEFING_TEXT Einsatz gescheitert.
+:DEBRIEFING_TEXT Einsatz erfolgreich abgeschlossen.
+
+:TYPE TASK_RESCUE
+:BRIEFING_ALLIED_CAUSE_TEXT Nach der Rettungsaktion der Verbündeten (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Nach einer gegnerischen Rettungsaktion (MISSION)
+:BRIEFING_EFFECT_TEXT (MISSION) ist der Pilot abgestürzt, und die sofortige Suche und Rettung ist erforderlich.
+:DEBRIEFING_TEXT Der Rettungseinsatz war ein totaler Fehlschlag.
+:DEBRIEFING_TEXT Einsatz erfolgreich. Wir dürfen keine guten Piloten verlieren!
+
+:TYPE TASK_RETREAT
+:BRIEFING_ALLIED_CAUSE_TEXT Aufgrund des Rückzugs der verbündeten Frontstreitkräfte in Sektor SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Als Reaktion auf den gegnerischen Rückzug (MISSION) bei Sektor SECTOR
+:BRIEFING_EFFECT_TEXT (MISSION) Rückzug: Die gegnerischen Streitkräfte sind in Sektor SECTOR zu stark
+:DEBRIEFING_TEXT Unser Rückzug war eine Katastrophe! 
+:DEBRIEFING_TEXT Eine gutes Ergebnis! Der Rückzug gelang uns mit minimalen Verlusten.
+
+:TYPE TASK_RETURN
+:BRIEFING_ALLIED_CAUSE_TEXT Aufgrund der Umkehr der Verbündeten
+:BRIEFING_ENEMY_CAUSE_TEXT Aufgrund der Umkehr der Gegner
+:BRIEFING_EFFECT_TEXT kehren wir um
+:DEBRIEFING_TEXT Gescheitert
+:DEBRIEFING_TEXT Erfolgreich
+
+:TYPE TASK_SCOUT
+:BRIEFING_ALLIED_CAUSE_TEXT Nach dem RESULT bei einem Erkundungsflug der Verbündeten (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Nach einem Erkundungsflug der Gegner (MISSION)
+:BRIEFING_EFFECT_TEXT ist ein Erkundungsflug (MISSION) zum Aufspüren und Vernichten gegnerischer Truppen in Sektor SECTOR geplant
+:DEBRIEFING_TEXT Gescheitert
+:DEBRIEFING_TEXT Erfolgreich
+
+:TYPE TASK_SECTOR_RECON
+:BRIEFING_ALLIED_CAUSE_TEXT Nach dem RESULT der Aufklärung der Verbündeten (MISSION) bei Sektor SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Wegen gegnerischer Aufklärung (MISSION) bei Sektor SECTOR
+:BRIEFING_EFFECT_TEXT müssen Sie die alliierte Aufklärung (MISSION) in Sektor SECTOR verbessern
+:DEBRIEFING_TEXT Gescheitert! Wir benötigen dringend aktuelle Informationen!
+:DEBRIEFING_TEXT Ausgezeichnet! Wir verfügen nun über weitaus bessere Informationen über diesen Sektor.
+
+:TYPE TASK_SUPPRESSION_OF_ENEMY_AIR_DEFENCES
+:BRIEFING_ALLIED_CAUSE_TEXT Nach dem RESULT der Verbündeten zur Unterdrückung der gegnerischen Luftabwehr (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Nach dem RESULT gegnerischer Unterdrückung der gegnerischen Luftabwehr (MISSION)
+:BRIEFING_EFFECT_TEXT neutralisieren Sie gegnerische Streitkräfte im Sektor  SECTOR durch Unterdrückung der gegnerischen Luftabwehr (MISSION)
+:DEBRIEFING_TEXT Einsatz gescheitert. Dadurch werden weitere Angriffe zusätzliche Verluste fordern.
+:DEBRIEFING_TEXT Einsatz erfolgreich! Der Gegner kann weiteren Angriffen keinen Widerstand mehr leisten.
+ 
+:TYPE TASK_TAKEOFF
+:BRIEFING_ALLIED_CAUSE_TEXT Nach einem Start der Verbündeten
+:BRIEFING_ENEMY_CAUSE_TEXT Nach einem Start der Gegner
+:BRIEFING_EFFECT_TEXT führen wir einen Start durch
+:DEBRIEFING_TEXT Gescheitert
+:DEBRIEFING_TEXT Erfolgreich
+
+:TYPE TASK_TAKEOFF_HOLDING
+:BRIEFING_ALLIED_CAUSE_TEXT Nach einem befestigten Start der Verbündeten
+:BRIEFING_ENEMY_CAUSE_TEXT Nach einem befestigten Start der Gegner
+:BRIEFING_EFFECT_TEXT führen wir einen befestigten Start durch
+:DEBRIEFING_TEXT Gescheitert
+:DEBRIEFING_TEXT Erfolgreich
+
+:TYPE TASK_TANK_BUSTING
+:BRIEFING_ALLIED_CAUSE_TEXT Nach dem Panzerabwehreinsatz (MISSION) der Verbündeten gegen Frontstreitkräfte im Sektor SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Wegen eines gegnerischen Panzerabwehreinsatzes (MISSION) nahe Sektor SECTOR
+:BRIEFING_EFFECT_TEXT Panzerbrechender (MISSION) : Streitkräfte im Bereich SECTOR stoßen auf heftigen Widerstand.
+:DEBRIEFING_TEXT Einsatz gescheitert. Gegnerische Panzer stellen noch immer eine Bedrohung dar.
+:DEBRIEFING_TEXT Gut gemacht! Die gegnerischen Panzer wurden eliminiert.
+
+:TYPE TASK_TRANSFER
+:BRIEFING_ALLIED_CAUSE_TEXT Aufgrund Ihrer Leistungen
+:BRIEFING_ENEMY_CAUSE_TEXT Nach gesteigerter gegnerischer Aktivität in der Umgebung von Sektor SECTOR
+:BRIEFING_EFFECT_TEXT Transfer (MISSION): Nehmen Sie einen Transfer zu Sektor SECTOR vor 
+:DEBRIEFING_TEXT Sie haben den Ihnen zugewiesenen Stützpunkt nicht erreicht.
+:DEBRIEFING_TEXT Ausgezeichnet! Bereiten Sie sich an diesem Stützpunkt auf neue Einsätze vor.
+
+:TYPE TASK_TROOP_INSERTION
+:BRIEFING_ALLIED_CAUSE_TEXT Zur Unterstützung des Einbringens verbündeter Truppen (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Nach dem Einbringen gegnerischer Truppen (MISSION) nahe Sektor SECTOR
+:BRIEFING_EFFECT_TEXT ist das Einbringen von Truppen (MISSION) geplant
+:DEBRIEFING_TEXT Einbringen der Truppen gescheitert.
+:DEBRIEFING_TEXT Truppen erfolgreich gelandet.
+
+:TYPE TASK_VISIT
+:BRIEFING_ALLIED_CAUSE_TEXT Nach dem Besuch der Verbündeten (MISSION) in Sektor SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Nach dem Besuch des Gegners (MISSION) in Sektor SECTOR
+:BRIEFING_EFFECT_TEXT besuchen Sie den Schauplatz (MISSION), und untersuchen Sie die Lage
+:DEBRIEFING_TEXT Gescheitert
+:DEBRIEFING_TEXT Erfolgreich
+
+:LANGUAGE_TEXT_END
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+:LANGUAGE_FRENCH
+
+:TYPE TASK_NOTHING
+:BRIEFING_ALLIED_CAUSE_TEXT Due to of an allied nothing
+:BRIEFING_ENEMY_CAUSE_TEXT because of an enemy nothing
+:BRIEFING_EFFECT_TEXT we're doing nothing
+:DEBRIEFING_TEXT failed
+:DEBRIEFING_TEXT success
+
+:TYPE TASK_ADVANCE
+:BRIEFING_ALLIED_CAUSE_TEXT Après la progression RESULT de la Ligne de front alliée (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT En réponse à la progression RESULT des forces ennemies (MISSION)
+:BRIEFING_EFFECT_TEXT Les forces de la ligne de front ennemie sont faibles, alors soutenez la progression (MISSION)
+:DEBRIEFING_TEXT Vous n'avez pas soutenu la progression alliée.
+:DEBRIEFING_TEXT La progression des alliés a été un succès, merci pour votre soutien.
+
+:TYPE TASK_BATTLEFIELD_AIR_INTERDICTION
+:BRIEFING_ALLIED_CAUSE_TEXT En raison d'une interdiction alliée de l'espace aérien au-dessus du champ de bataille (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Après l'interdiction ennemie de l'espace aérien au-dessus du champ de bataille dans le secteur SECTOR (MISSION)
+:BRIEFING_EFFECT_TEXT Une interdiction de l'espace aérien au-dessus du champ de bataille (MISSION) est prévue pour affaiblir les forces de la ligne de front dans le secteur SECTOR
+:DEBRIEFING_TEXT Echec de la mission, les unités alliées sur le champ de bataille n'ont pas réussi à affaiblir sensiblement les forces ennemies.
+:DEBRIEFING_TEXT Mission réussie ! Les forces alliées dominent maintenant le champ de bataille.
+
+:TYPE TASK_CLOSE_AIR_SUPPORT
+:BRIEFING_ALLIED_CAUSE_TEXT En réponse à un soutien aérien rapproché allié (MISSION) au-dessus de SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT En raison d'un soutien aérien rapproché ennemi (MISSION)
+:BRIEFING_EFFECT_TEXT Les forces de la ligne de front situées près du secteur SECTOR demandent un soutien aérien rapproché (MISSION)
+:DEBRIEFING_TEXT Les forces alliées n'ont pas réussi à fournir un soutien aérien rapproché suffisant.
+:DEBRIEFING_TEXT Mission réussie. Les forces alliées ont bénéficié d'un bon soutien aérien rapproché.
+
+:TYPE TASK_COMBAT_AIR_PATROL
+:BRIEFING_ALLIED_CAUSE_TEXT En réponse à une C.A.P alliée RESULT (MISSION) dans le secteur SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT A la suite d'une C.A.P ennemie (MISSION) près du secteur SECTOR
+:BRIEFING_EFFECT_TEXT Effectuez une C.A.P (MISSION) au-dessus de la base alliée KEYSITE près du secteur SECTOR
+:DEBRIEFING_TEXT Echec de la mission. La mission C.A.P. alliée n'a fait preuve d'aucune efficacité.
+:DEBRIEFING_TEXT Succès ! Excellente C.A.P. alliée.
+
+:TYPE TASK_DEEP_STRIKE
+:BRIEFING_ALLIED_CAUSE_TEXT En réponse à la frappe avancée alliée RESULT (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT En raison d'une frappe avancée ennemie (MISSION)
+:BRIEFING_EFFECT_TEXT Des missions de frappes avancées (MISSION) sont prévues pour frapper l'ennemi dans le secteur SECTOR
+:DEBRIEFING_TEXT La mission n'a pas atteint ses objectifs.
+:DEBRIEFING_TEXT La mission a réussi à frapper les objectifs ennemis.
+
+:TYPE TASK_ENGAGE
+:BRIEFING_ALLIED_CAUSE_TEXT Après la mission d'engagement alliée (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT En réaction à la mission d'engagement ennemie (MISSION)
+:BRIEFING_EFFECT_TEXT (MISSION) : engagez le combat avec l'ennemi dans le secteur SECTOR
+:DEBRIEFING_TEXT Echec de la tentative d'engagement de l'ennemi.
+:DEBRIEFING_TEXT Les forces alliées ont réussi à engager le combat avec les unités ennemies.
+
+:TYPE TASK_ESCORT
+:BRIEFING_ALLIED_CAUSE_TEXT A la suite de la mission d'escorte alliée (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT En réponse à la mission d'escorte ennemie (MISSION) près du secteur SECTOR
+:BRIEFING_EFFECT_TEXT Les forces alliées du secteur SECTOR ont besoin d'une escorte immédiate (MISSION)
+:DEBRIEFING_TEXT Echec de la mission. Les unités escortées n'ont pas été protégées.
+:DEBRIEFING_TEXT Mission réussie. Les unités escortées ont été bien protégées. 
+
+:TYPE TASK_FARP_RECON
+:BRIEFING_ALLIED_CAUSE_TEXT En réponse à la mission de reconnaissance FARP alliée RESULT (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT En réponse à une mission de reconnaissance FARP ennemie (MISSION)
+:BRIEFING_EFFECT_TEXT Une mission de reconnaissance FARP (MISSION) est prévue pour évaluer les positions FARP possibles près du secteur SECTOR
+:DEBRIEFING_TEXT Les alliés n'ont pas réussi à trouver une position FARP appropriée.
+:DEBRIEFING_TEXT Mission réussie, les alliés essayent maintenant d'établir une nouvelle FARP.
+
+:TYPE TASK_INTERCEPT
+:BRIEFING_ALLIED_CAUSE_TEXT Soutien de l'interception alliée (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT En raison d'une interception ennemie (MISSION)
+:BRIEFING_EFFECT_TEXT (MISSION) Interceptez les forces ennemies repérées pour la dernière fois dans le secteur SECTOR
+:DEBRIEFING_TEXT Vous n'avez pas réussi à intercepter les forces ennemies.
+:DEBRIEFING_TEXT Interception des forces ennemies réussie.
+
+:TYPE TASK_LANDING
+:BRIEFING_ALLIED_CAUSE_TEXT à cause d'un atterrissage allié
+:BRIEFING_ENEMY_CAUSE_TEXT à cause d'un atterrissage ennemi
+:BRIEFING_EFFECT_TEXT nous effectuons un atterrissage
+:DEBRIEFING_TEXT Echec.
+:DEBRIEFING_TEXT Succès
+
+:TYPE TASK_LANDING_HOLDING
+:BRIEFING_ALLIED_CAUSE_TEXT à cause d'un circuit d'attente avant atterrissage allié
+:BRIEFING_ENEMY_CAUSE_TEXT à cause d'un circuit d'attente avant atterrissage ennemi
+:BRIEFING_EFFECT_TEXT nous effectuons un circuit d'attente avant atterrissage
+:DEBRIEFING_TEXT échec
+:DEBRIEFING_TEXT succès
+
+:TYPE TASK_PICK_UP_AND_DROP_OFF
+:BRIEFING_ALLIED_CAUSE_TEXT Après la mission de récupération et de largage alliée (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT En raison d'une mission de récupération et de largage ennemie (MISSION)
+:BRIEFING_EFFECT_TEXT Mission de récupération et de largage (MISSION) demandée dans le secteur SECTOR
+:DEBRIEFING_TEXT Echec de la mission. Les éléments à déplacer n'ont pas atteint leur destination.
+:DEBRIEFING_TEXT Mission de transport réussie.
+
+:TYPE TASK_RECON
+:BRIEFING_ALLIED_CAUSE_TEXT En réponse à la mission de reconnaissance alliée RESULT (MISSION)dans le secteur SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT En raison d'une mission de reconnaissance ennemie(MISSION) dans le secteur SECTOR
+:BRIEFING_EFFECT_TEXT Renforcez la mission de reconnaissance alliée (MISSION) dans le secteur SECTOR
+:DEBRIEFING_TEXT Echec de la mission de reconnaissance.
+:DEBRIEFING_TEXT Bravo ! Mission de reconnaissance réussie.
+
+:TYPE TASK_REPAIR
+:BRIEFING_ALLIED_CAUSE_TEXT Après la mission de réparation alliée (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT En réponse à une mission de réparation ennemie (MISSION) dans le secteur SECTOR
+:BRIEFING_EFFECT_TEXT Mission de réparation (MISSION) demandée dans le secteur SECTOR
+:DEBRIEFING_TEXT Echec de la mission.
+:DEBRIEFING_TEXT Mission réussie.
+
+:TYPE TASK_RESCUE
+:BRIEFING_ALLIED_CAUSE_TEXT Après la mission de sauvetage alliée (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT En raison d'une mission de sauvetage ennemie (MISSION)
+:BRIEFING_EFFECT_TEXT Mission de sauvetage (MISSION) L'avion du pilote a été abattu, une opération immédiate de Recherche et Sauvetage est nécessaire
+:DEBRIEFING_TEXT La mission de sauvetage a entièrement échoué.
+:DEBRIEFING_TEXT Mission réussie. Nos bons pilotes doivent rester vivants !
+
+:TYPE TASK_RETREAT
+:BRIEFING_ALLIED_CAUSE_TEXT En raison du retrait de la ligne de front alliée dans le secteur SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT En réponse au retrait de l'ennemi (MISSION) dans le secteur SECTOR
+:BRIEFING_EFFECT_TEXT (MISSION) Retrait : les forces ennemies sont trop fortes dans ce secteur SECTOR
+:DEBRIEFING_TEXT Notre retrait a été un véritable désastre ! 
+:DEBRIEFING_TEXT Bon résultat ! Nous avons effectué ce retrait avec un minimum de victimes.
+
+:TYPE TASK_RETURN
+:BRIEFING_ALLIED_CAUSE_TEXT because of an allied Return
+:BRIEFING_ENEMY_CAUSE_TEXT because of an enemy Return
+:BRIEFING_EFFECT_TEXT We're doing a Return
+:DEBRIEFING_TEXT failed
+:DEBRIEFING_TEXT success
+
+:TYPE TASK_SCOUT
+:BRIEFING_ALLIED_CAUSE_TEXT After the RESULT allied Scout (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Due to an enemy Scout (MISSION)
+:BRIEFING_EFFECT_TEXT Scout (MISSION) has been planned to search and destroy enemy forces in sector SECTOR
+:DEBRIEFING_TEXT failed
+:DEBRIEFING_TEXT success
+
+:TYPE TASK_SECTOR_RECON
+:BRIEFING_ALLIED_CAUSE_TEXT Après la mission de reconnaissance alliée RESULT (MISSION) dans le secteur SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT En raison d'une mission de reconnaissance ennemie (MISSION) dans le secteur SECTOR
+:BRIEFING_EFFECT_TEXT Renforcez la mission de reconnaissance alliée (MISSION) dans le secteur SECTOR
+:DEBRIEFING_TEXT Echec ! Nous avons besoin de renseignements mis à jour !
+:DEBRIEFING_TEXT Excellent ! Nous disposons maintenant de renseignements bien meilleurs pour ce secteur.
+
+:TYPE TASK_SUPPRESSION_OF_ENEMY_AIR_DEFENCES
+:BRIEFING_ALLIED_CAUSE_TEXT Après la mission S.E.A.D alliée RESULT (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT En raison d'une mission de suppression des défenses aériennes ennemies RESULT (MISSION)
+:BRIEFING_EFFECT_TEXT Neutralisez les forces ennemies dans le secteur SECTOR S.E.A.D (MISSION)
+:DEBRIEFING_TEXT Echec de la mission. En conséquence, les pertes lors des attaques ultérieures augmenteront.
+:DEBRIEFING_TEXT Mission réussie ! L'ennemi ne pourra plus résister aux attaques qui suivront.
+ 
+:TYPE TASK_TAKEOFF
+:BRIEFING_ALLIED_CAUSE_TEXT because of an allied Takeoff
+:BRIEFING_ENEMY_CAUSE_TEXT because of an enemy Takeoff
+:BRIEFING_EFFECT_TEXT We're doing a Takeoff
+:DEBRIEFING_TEXT failed
+:DEBRIEFING_TEXT success
+
+:TYPE TASK_TAKEOFF_HOLDING
+:BRIEFING_ALLIED_CAUSE_TEXT because of an allied Takeoff holding
+:BRIEFING_ENEMY_CAUSE_TEXT because of an enemy Takeoff holding
+:BRIEFING_EFFECT_TEXT We're doing a Takeoff holding
+:DEBRIEFING_TEXT failed
+:DEBRIEFING_TEXT success
+
+:TYPE TASK_TANK_BUSTING
+:BRIEFING_ALLIED_CAUSE_TEXT Après la mission de destruction des chars par les alliés (MISSION) contre les forces de ligne de front dans le secteur SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT A cause de la destruction des chars par l'ennemi (MISSION) près du secteur SECTOR
+:BRIEFING_EFFECT_TEXT Destruction des chars (MISSION) : Les forces se trouvant dans la zone SECTOR rencontrent une forte résistance.
+:DEBRIEFING_TEXT Echec de la mission. Les chars ennemis demeurent une menace majeure.
+:DEBRIEFING_TEXT Bravo ! Les chars ennemis ont été éliminés.
+
+:TYPE TASK_TRANSFER
+:BRIEFING_ALLIED_CAUSE_TEXT En raison de vos performances
+:BRIEFING_ENEMY_CAUSE_TEXT En réponse à un accroissement de l'activité ennemie dans le secteur SECTOR
+:BRIEFING_EFFECT_TEXT Transfert (MISSION) : votre transfert est requis dans le secteur SECTOR 
+:DEBRIEFING_TEXT Vous n'avez pas réussi à atteindre la base à laquelle vous étiez assigné.
+:DEBRIEFING_TEXT Excellent ! Préparez-vous à de nouvelles missions partant de cette base.
+
+:TYPE TASK_TROOP_INSERTION
+:BRIEFING_ALLIED_CAUSE_TEXT Pour soutenir la mission d'insertion de troupe alliée (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT En réponse à une mission d'insertion de troupe ennemie (MISSION) près du secteur SECTOR
+:BRIEFING_EFFECT_TEXT Mission d'insertion de troupes (MISSION) prévue
+:DEBRIEFING_TEXT L'insertion des troupes a échoué.
+:DEBRIEFING_TEXT Les troupes ont atterri avec succès.
+
+:TYPE TASK_VISIT
+:BRIEFING_ALLIED_CAUSE_TEXT Après une inspection par les alliés (MISSION) dans le secteur SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT En réponse à une inspection par l'ennemi (MISSION) dans le secteur SECTOR
+:BRIEFING_EFFECT_TEXT Inspectez (MISSION) et enquêtez
+:DEBRIEFING_TEXT Echec
+:DEBRIEFING_TEXT Succès
+
+:LANGUAGE_TEXT_END
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+:LANGUAGE_ITALIAN
+
+:TYPE TASK_NOTHING
+:BRIEFING_ALLIED_CAUSE_TEXT Due to of an allied nothing
+:BRIEFING_ENEMY_CAUSE_TEXT because of an enemy nothing
+:BRIEFING_EFFECT_TEXT we're doing nothing
+:DEBRIEFING_TEXT failed
+:DEBRIEFING_TEXT success
+
+:TYPE TASK_ADVANCE
+:BRIEFING_ALLIED_CAUSE_TEXT Dopo l'avanzamento RESULT della linea del fronte alleato(MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT In seguito RESULT all'avanzata delle forze nemiche (MISSION)
+:BRIEFING_EFFECT_TEXT Le forze sulla linea del fronte nemico sono deboli, quindi sostieni l'avanzata(MISSION)
+:DEBRIEFING_TEXT Non sei riuscito a sostenere l'avanzata degli Alleati.
+:DEBRIEFING_TEXT L'avanzata degli Alleati ha avuto successo, grazie al tuo aiuto.
+
+:TYPE TASK_BATTLEFIELD_AIR_INTERDICTION
+:BRIEFING_ALLIED_CAUSE_TEXT A causa di un'interdizione alleata dello spazio aereo al di sopra del campo di battaglia (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Dopo l'interdizione da parte nemica dello spazio aereo al di sopra del campo di battaglia nel settore SECTOR (MISSION)
+:BRIEFING_EFFECT_TEXT È prevista l'interdizione dello spazio aereo al di sopra del campo di battaglia (MISSION) per indebolire le forze sulla linea del fronte nel settore SECTOR
+:DEBRIEFING_TEXT Missione fallita, le unità del campo alleato non sono riuscite a indebolire le forze nemiche in modo significativo.
+:DEBRIEFING_TEXT Missione compiuta! Le forze alleate dominano il campo.
+
+:TYPE TASK_CLOSE_AIR_SUPPORT
+:BRIEFING_ALLIED_CAUSE_TEXT In seguito al sostegno aereo ravvicinato da parte degli alleati (MISSION) su SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT In seguito al sostegno aereo ravvicinato da parte nemica (MISSION)
+:BRIEFING_EFFECT_TEXT Le forze della linea del fronte SECTOR richiedono sostegno aereo ravvicinato (MISSION)
+:DEBRIEFING_TEXT Le forze alleate non sono riuscite a fornire un adeguato sostegno aereo ravvicinato.
+:DEBRIEFING_TEXT Missione compiuta. Le forze alleate hanno ricevuto un efficace sostegno aereo ravvicinato.
+
+:TYPE TASK_COMBAT_AIR_PATROL
+:BRIEFING_ALLIED_CAUSE_TEXT In seguito alla perlustrazione dello spazio aereo militare (C.A.P.) RESULT da parte degli alleati (MISSION) nel settore SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT In conseguenza della perlustrazione dello spazio aereo militare da parte del nemico (MISSION) vicino al settore SECTOR
+:BRIEFING_EFFECT_TEXT Effettua una perlustrazione dello spazio aereo militare (MISSION) sulla base alleata KEYSITE vicino al settore SECTOR
+:DEBRIEFING_TEXT Missione fallita. La missione C.A.P. alleata non ha avuto successo.
+:DEBRIEFING_TEXT Missione compiuta! La missione C.A.P. alleata è stata eccellente.
+
+:TYPE TASK_DEEP_STRIKE
+:BRIEFING_ALLIED_CAUSE_TEXT In seguito al RESULT all'avanzato attacco aereo da parte degli alleati (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT In seguito all'avanzato attacco aereo da parte del nemico (MISSION)
+:BRIEFING_EFFECT_TEXT Missioni di attacco avanzato (MISSION) sono previste per colpire il nemico nel settore SECTOR
+:DEBRIEFING_TEXT La missione non ha raggiunto i suoi obiettivi.
+:DEBRIEFING_TEXT La missione ha avuto successo nel colpire le postazioni nemiche.
+
+:TYPE TASK_ENGAGE
+:BRIEFING_ALLIED_CAUSE_TEXT Dopo l'attacco alleato(MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT In reazione all'attacco nemico (MISSION)
+:BRIEFING_EFFECT_TEXT (MISSION) : attacca il nemico nel settore SECTOR
+:DEBRIEFING_TEXT Fallito il tentativo di attaccare il nemico.
+:DEBRIEFING_TEXT Le forze alleate hanno attaccato con successo le unità nemiche.
+
+:TYPE TASK_ESCORT
+:BRIEFING_ALLIED_CAUSE_TEXT In conseguenza della missione di scorta alleata (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT In risposta alla missione di scorta nemica (MISSION) in prossimità del settore SECTOR
+:BRIEFING_EFFECT_TEXT Le forze alleate nel settore SECTOR richiedono una scorta immediata (MISSION)
+:DEBRIEFING_TEXT Missione fallita. Le unità scortate non erano protette.
+:DEBRIEFING_TEXT Missione compiuta. Le unità scortate erano efficacemente protette. 
+
+:TYPE TASK_FARP_RECON
+:BRIEFING_ALLIED_CAUSE_TEXT In seguito alla RESULT missione di ricognizione FARP degli alleati (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT In seguito alla missione di ricognizione FARP dei nemici(MISSION)
+:BRIEFING_EFFECT_TEXT Una missione di ricognizione FARP(MISSION) è prevista per individuare eventuali posizioni FARP in prossimità del settore SECTOR
+:DEBRIEFING_TEXT Fallito il tentativo degli alleati di trovare un'adeguata posizione FARP.
+:DEBRIEFING_TEXT Missione compiuta. Gli alleati ora cercano di stabilire una nuova posizione FARP.
+
+:TYPE TASK_INTERCEPT
+:BRIEFING_ALLIED_CAUSE_TEXT Sostegno dell'intercettazione da parte degli alleati (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT A causa di un'intercettazione da parte del nemico (MISSION)
+:BRIEFING_EFFECT_TEXT (MISSION) Le forze di intercettazione da parte del nemico sono state avvistate l'ultima volta nel settore SECTOR
+:DEBRIEFING_TEXT Non sei riuscito a intercettare le forze nemiche.
+:DEBRIEFING_TEXT Sei riuscito a intercettare le forze nemiche.
+
+:TYPE TASK_LANDING
+:BRIEFING_ALLIED_CAUSE_TEXT a causa dell'atterraggio degli alleati
+:BRIEFING_ENEMY_CAUSE_TEXT a causa dell'atterraggio dei nemici
+:BRIEFING_EFFECT_TEXT stiamo effettuando un atterraggio
+:DEBRIEFING_TEXT Missione fallita.
+:DEBRIEFING_TEXT Missione compiuta.
+
+:TYPE TASK_LANDING_HOLDING
+:BRIEFING_ALLIED_CAUSE_TEXT a causa dell'impossibilità di atterrare da parte degli alleati
+:BRIEFING_ENEMY_CAUSE_TEXT a causa dell'impossibilità di atterrare da parte dei nemici
+:BRIEFING_EFFECT_TEXT stiamo effettuando un giro d'attesa prima dell'atterraggio
+:DEBRIEFING_TEXT Missione fallita.
+:DEBRIEFING_TEXT Missione compiuta.
+
+:TYPE TASK_PICK_UP_AND_DROP_OFF
+:BRIEFING_ALLIED_CAUSE_TEXT Dopo la missione di recupero e sganciamento (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT In seguito alla missione nemica di recupero e sganciamento (MISSION)
+:BRIEFING_EFFECT_TEXT Missione di recupero e sganciamento (MISSION) richiesta nel settore SECTOR
+:DEBRIEFING_TEXT Missione fallita. Gli oggetti da spostare non hanno raggiunto la loro destinazione.
+:DEBRIEFING_TEXT Missione di trasporto completata.
+
+:TYPE TASK_RECON
+:BRIEFING_ALLIED_CAUSE_TEXT In seguito alla RESULT missione di ricognizione alleata (MISSION)nel settore SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT A causa della missione di ricognizione (MISSION) nel settore SECTOR
+:BRIEFING_EFFECT_TEXT Potenzia la missione di ricognizione dei servizi di informazione (MISSION) nel settore SECTOR
+:DEBRIEFING_TEXT La missione di ricognizione è fallita.
+:DEBRIEFING_TEXT Bravo! Una brillante missione di ricognizione.
+
+:TYPE TASK_REPAIR
+:BRIEFING_ALLIED_CAUSE_TEXT Dopo la riparazione alleata(MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT In risposta alla riparazione dei nemici(MISSION) nel settore SECTOR
+:BRIEFING_EFFECT_TEXT Riparazione (MISSION) richiesta nel settore SECTOR
+:DEBRIEFING_TEXT Missione fallita.
+:DEBRIEFING_TEXT Esito positivo della missione.
+
+:TYPE TASK_RESCUE
+:BRIEFING_ALLIED_CAUSE_TEXT In seguito al salvataggio alleato (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT In seguito al salvataggio nemico (MISSION)
+:BRIEFING_EFFECT_TEXT Salvataggio (MISSION). L'aereo del pilota è stato abbattuto ed è necessaria un'immediata operazione di ricerca e salvataggio.
+:DEBRIEFING_TEXT La missione di salvataggio è fallita.
+:DEBRIEFING_TEXT Missione compiuta. Ci servono piloti vivi!
+
+:TYPE TASK_RETREAT
+:BRIEFING_ALLIED_CAUSE_TEXT In seguito alla ritirata della linea del fronte alleato nel settore SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT In reazione alla ritirata del nemico (MISSION) nel settore SECTOR
+:BRIEFING_EFFECT_TEXT (MISSION) Ritirata: le forze nemiche sono troppo forti nel settore SECTOR
+:DEBRIEFING_TEXT La nostra ritirata è stata un disastro! 
+:DEBRIEFING_TEXT Buon risultato! Siamo riusciti a ritirarci limitando al minimo il numero delle vittime.
+
+:TYPE TASK_RETURN
+:BRIEFING_ALLIED_CAUSE_TEXT because of an allied Return
+:BRIEFING_ENEMY_CAUSE_TEXT because of an enemy Return
+:BRIEFING_EFFECT_TEXT We're doing a Return
+:DEBRIEFING_TEXT failed
+:DEBRIEFING_TEXT success
+
+:TYPE TASK_SCOUT
+:BRIEFING_ALLIED_CAUSE_TEXT After the RESULT allied Scout (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Due to an enemy Scout (MISSION)
+:BRIEFING_EFFECT_TEXT Scout (MISSION) has been planned to search and destroy enemy forces in sector SECTOR
+:DEBRIEFING_TEXT failed
+:DEBRIEFING_TEXT success
+
+:TYPE TASK_SECTOR_RECON
+:BRIEFING_ALLIED_CAUSE_TEXT In seguito alla RESULT missione di ricognizione degli alleati(MISSION) nel settore SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT A causa della missione di ricognizione dei nemici(MISSION) nel settore SECTOR
+:BRIEFING_EFFECT_TEXT Rafforza l'operazione di ricognizione dei servizi segreti alleati (MISSION) nel settore SECTOR
+:DEBRIEFING_TEXT Missione fallita! Abbiamo bisogno di informazioni aggiornate!
+:DEBRIEFING_TEXT Perfetto! Ora abbiamo dei servizi segreti migliori in quel settore.
+
+:TYPE TASK_SUPPRESSION_OF_ENEMY_AIR_DEFENCES
+:BRIEFING_ALLIED_CAUSE_TEXT In seguito alla RESULT soppressione delle difese aeree nemiche da parte degli alleati(MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT A causa RESULT della soppressione delle difese aeree avversarie da parte dei nemici (MISSION)
+:BRIEFING_EFFECT_TEXT Neutralizza le forze nemiche nel settore SECTOR. Soppressione delle difese aeree nemiche (MISSION)
+:DEBRIEFING_TEXT Missione fallita. Come conseguenza aumenteranno le perdite nei prossimi attacchi.
+:DEBRIEFING_TEXT Missione compiuta! Il nemico non sarà in grado di resistere ai prossimi attacchi.
+ 
+:TYPE TASK_TAKEOFF
+:BRIEFING_ALLIED_CAUSE_TEXT because of an allied Takeoff
+:BRIEFING_ENEMY_CAUSE_TEXT because of an enemy Takeoff
+:BRIEFING_EFFECT_TEXT We're doing a Takeoff
+:DEBRIEFING_TEXT failed
+:DEBRIEFING_TEXT success
+
+:TYPE TASK_TAKEOFF_HOLDING
+:BRIEFING_ALLIED_CAUSE_TEXT because of an allied Takeoff holding
+:BRIEFING_ENEMY_CAUSE_TEXT because of an enemy Takeoff holding
+:BRIEFING_EFFECT_TEXT We're doing a Takeoff holding
+:DEBRIEFING_TEXT failed
+:DEBRIEFING_TEXT success
+
+:TYPE TASK_TANK_BUSTING
+:BRIEFING_ALLIED_CAUSE_TEXT Dopo la distruzione dei carri armati alleati (MISSION) sulla linea del fronte nel settore SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT A causa della distruzione dei carri armati nemici (MISSION) in prossimità del settore SECTOR
+:BRIEFING_EFFECT_TEXT Distruzione di carri armati (MISSION): le forze nell'area SECTOR stanno incontrando una forte resistenza.
+:DEBRIEFING_TEXT Missione fallita. I carri armati nemici sono ancora una minaccia.
+:DEBRIEFING_TEXT Bravo! I carri armati nemici sono stati eliminati.
+
+:TYPE TASK_TRANSFER
+:BRIEFING_ALLIED_CAUSE_TEXT Grazie alle tue prestazioni
+:BRIEFING_ENEMY_CAUSE_TEXT In seguito all'intensificarsi dell'attività del nemico intorno al settore SECTOR
+:BRIEFING_EFFECT_TEXT Trasferimento (MISSION): ti viene richiesto di  trasferirti nel settore SECTOR 
+:DEBRIEFING_TEXT Non sei riuscito a raggiungere la base a cui sei stato assegnato.
+:DEBRIEFING_TEXT Eccellente! Preparati a nuove missioni da questa base.
+
+:TYPE TASK_TROOP_INSERTION
+:BRIEFING_ALLIED_CAUSE_TEXT A sostegno dell'inserimento delle truppe alleate (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT In seguito all'inserimento delle truppe nemiche (MISSION) in prossimità del settore SECTOR
+:BRIEFING_EFFECT_TEXT Inserimento di truppe (MISSION) previsto.
+:DEBRIEFING_TEXT Inserimento di truppe fallito.
+:DEBRIEFING_TEXT Le truppe sono atterrate.
+
+:TYPE TASK_VISIT
+:BRIEFING_ALLIED_CAUSE_TEXT Dopo l'ispezione alleata (MISSION) nel settore SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT In seguito all'ispezione nemica (MISSION) nel settore SECTOR
+:BRIEFING_EFFECT_TEXT Ispeziona (MISSION) e perlustra.
+:DEBRIEFING_TEXT Missione fallita.
+:DEBRIEFING_TEXT Missione compiuta.
+
+:LANGUAGE_TEXT_END
+	
+////////////////////////////////////////////////////////////////////////////////////////////////////
+:LANGUAGE_SPANISH
+
+:TYPE TASK_NOTHING
+:BRIEFING_ALLIED_CAUSE_TEXT Debido a la inactividad aliada
+:BRIEFING_ENEMY_CAUSE_TEXT Debido a la inactividad enemiga
+:BRIEFING_EFFECT_TEXT inactividad
+:DEBRIEFING_TEXT fracaso
+:DEBRIEFING_TEXT éxito
+
+:TYPE TASK_ADVANCE
+:BRIEFING_ALLIED_CAUSE_TEXT Como consecuencia de RESULT se produce un avance de la línea de frente aliada (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Como consecuencia de RESULT se produce un avance de las fuerzas enemigas (MISSION)
+:BRIEFING_EFFECT_TEXT La línea de fuego del enemigo es muy débil: avanza sobre ellas (MISSION)
+:DEBRIEFING_TEXT El avance aliado ha fracasado.
+:DEBRIEFING_TEXT El avance aliado ha sido un éxito: gracias por tu ayuda. 
+
+:TYPE TASK_BATTLEFIELD_AIR_INTERDICTION
+:BRIEFING_ALLIED_CAUSE_TEXT Debido al bloqueo aliado del espacio aéreo (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Tras el bloqueo enemigo del espacio aéreo en el sector SECTOR (MISSION)
+:BRIEFING_EFFECT_TEXT Se planea un bloqueo del espacio aéreo (MISSION) para debilitar la línea primera línea de fuego del sector SECTOR
+:DEBRIEFING_TEXT Misión fallida. Las unidades de combate aliadas no han conseguido debilitar significativamente las fuerzas del enemigo.
+:DEBRIEFING_TEXT ¡Misión cumplida! Las fuerzas aliadas dominan el espacio aéreo 
+
+:TYPE TASK_CLOSE_AIR_SUPPORT
+:BRIEFING_ALLIED_CAUSE_TEXT Siguiendo el apoyo aéreo de los aliados (MISSION) sobre SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Debido al apoyo aéreo del enemigo (MISSION)
+:BRIEFING_EFFECT_TEXT Fuerzas de primera línea cercanas al sector SECTOR solicitan apoyo aéreo. (MISSION)
+:DEBRIEFING_TEXT Las fuerzas aliadas han fracasado en su misión de proporcionar el apoyo aéreo adecuado.
+:DEBRIEFING_TEXT Misión cumplida. Gran apoyo el que recibieron las fuerzas aliadas.
+
+:TYPE TASK_COMBAT_AIR_PATROL
+:BRIEFING_ALLIED_CAUSE_TEXT Debido a RESULT las patrullas aéreas de combate aliadas (MISSION) en sector SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Como resultado de P.A.C. enemigas (MISSION) cerca del sector SECTOR
+:BRIEFING_EFFECT_TEXT P.A.C. sobrevolando (MISSION) la base aliada KEYSITE cerca del sector SECTOR
+:DEBRIEFING_TEXT Misión fallida. La misión de las P.A.C. aliadas no resultó efectiva.
+:DEBRIEFING_TEXT ¡Misión cumplida! La acción de las P.A.C. aliadas fue un éxito.
+
+:TYPE TASK_DEEP_STRIKE
+:BRIEFING_ALLIED_CAUSE_TEXT A continuación de RESULT los aliados lanzan un ataque masivo (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Debido a un ataque masivo enemigo (MISSION)
+:BRIEFING_EFFECT_TEXT Se planean misiones de ataques masivos (MISSION) sobre el enemigo en el sector SECTOR
+:DEBRIEFING_TEXT No se alcanzaron los objetivos de la misión.
+:DEBRIEFING_TEXT La misión fue un completo éxito: objetivos enemigos destruidos. 
+
+:TYPE TASK_ENGAGE
+:BRIEFING_ALLIED_CAUSE_TEXT Tras el combate aliado(MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT En respuesta al combate enemigo MISSION)
+:BRIEFING_EFFECT_TEXT (MISSION) : Entablar un combate con el enemigo en el sector SECTOR
+:DEBRIEFING_TEXT No se consiguió entablar un combate efectivo con el enemigo.
+:DEBRIEFING_TEXT Éxito de las fuerzas aliadas en el combate con unidades enemigas.
+
+:TYPE TASK_ESCORT
+:BRIEFING_ALLIED_CAUSE_TEXT Como resultado de la escolta aliada (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT En respuesta a la escolta enemiga (MISSION) cerca del sector SECTOR
+:BRIEFING_EFFECT_TEXT Las fuerzas aliadas del sector SECTOR solicitan escolta inmediata (MISSION)
+:DEBRIEFING_TEXT Misión fallida. Las unidades escoltadas no fueron protegidas.
+:DEBRIEFING_TEXT Misión cumplida. Las unidades escoltadas estuvieron bien protegidas. 
+
+:TYPE TASK_FARP_RECON
+:BRIEFING_ALLIED_CAUSE_TEXT Tras el RESULT patrullas de reconocimiento aliadas (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT A consecuencia de un reconocimiento enemigo (MISSION)
+:BRIEFING_EFFECT_TEXT Reconocimiento previsto (MISSION) para confirmar las posibles posiciones FARP cerca del sector SECTOR
+:DEBRIEFING_TEXT Los aliados no han conseguido encontrar una posición FARP adecuada.
+:DEBRIEFING_TEXT Misión cumplida, los aliados están intentando establecer un nuevo FARP.
+
+:TYPE TASK_INTERCEPT
+:BRIEFING_ALLIED_CAUSE_TEXT Ayuda a la interceptación aliada(MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Debido a la interceptación enemiga(MISSION)
+:BRIEFING_EFFECT_TEXT (MISSION) Fuerzas enemigas de interceptación fueron vistas por última vez en el sector SECTOR
+:DEBRIEFING_TEXT No conseguiste interceptar a las fuerzas enemigas.
+:DEBRIEFING_TEXT Éxito en la interceptación de fuerzas enemigas. 
+
+:TYPE TASK_LANDING
+:BRIEFING_ALLIED_CAUSE_TEXT debido a un aterrizaje aliado
+:BRIEFING_ENEMY_CAUSE_TEXT debido a un aterrizaje enemigo
+:BRIEFING_EFFECT_TEXT vamos a aterrizar
+:DEBRIEFING_TEXT Fracaso.
+:DEBRIEFING_TEXT Éxito
+
+:TYPE TASK_PICK_UP_AND_DROP_OFF
+:BRIEFING_ALLIED_CAUSE_TEXT Tras la recogida y envío aliados (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Debido a una acción enemiga de recogida y envío (MISSION)
+:BRIEFING_EFFECT_TEXT Recogida y envío (MISSION) solicitada en el sector SECTOR
+:DEBRIEFING_TEXT Misión fallida. Los artículos no llegaron a su destino.
+:DEBRIEFING_TEXT Éxito de la misión de transporte.
+
+:TYPE TASK_RECON
+:BRIEFING_ALLIED_CAUSE_TEXT Tras el RESULT reconocimiento aliado (MISSION) en el sector SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Debido a un reconocimiento enemigo(MISSION) en el sector SECTOR
+:BRIEFING_EFFECT_TEXT Intensificar reconocimiento de inteligencia (MISSION) en el sector SECTOR
+:DEBRIEFING_TEXT La misión de reconocimiento ha fracasado.
+:DEBRIEFING_TEXT ¡Buen trabajo! La misión de reconocimiento ha sido un éxito.
+
+:TYPE TASK_REPAIR
+:BRIEFING_ALLIED_CAUSE_TEXT Tras la reparación aliada (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT En respuesta a la reparación enemiga (MISSION) en el sector SECTOR
+:BRIEFING_EFFECT_TEXT Reparación (MISSION) solicitada en el sector SECTOR
+:DEBRIEFING_TEXT Misión fallida.
+:DEBRIEFING_TEXT Resultado satisfactorio de la misión.
+
+:TYPE TASK_RESCUE
+:BRIEFING_ALLIED_CAUSE_TEXT Tras el rescate aliado (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Debido a un rescate enemigo (MISSION)
+:BRIEFING_EFFECT_TEXT El piloto de rescate (MISSION) ha caído y se requiere una operación inmediata de búsqueda y rescate. 
+:DEBRIEFING_TEXT La misión de rescate ha sido un completo fracaso.
+:DEBRIEFING_TEXT Misión cumplida. ¡Necesitamos vivos a los buenos pilotos!
+
+:TYPE TASK_RETREAT
+:BRIEFING_ALLIED_CAUSE_TEXT Debido a la retirada de la línea de fuego aliada en el sector SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Como respuesta a la retirada enemiga (MISSION) en el sector SECTOR
+:BRIEFING_EFFECT_TEXT (MISSION) Retirada: Demasiadas fuerzas enemigas en el sector SECTOR
+:DEBRIEFING_TEXT ¡Nuestra retirada ha sido un desastre! 
+:DEBRIEFING_TEXT ¡Buen trabajo! Hemos conseguido retirarnos con el mínimo número de bajas.
+
+:TYPE TASK_RETURN
+:BRIEFING_ALLIED_CAUSE_TEXT debido al regreso de los aliados
+:BRIEFING_ENEMY_CAUSE_TEXT debido al regreso de los enemigos
+:BRIEFING_EFFECT_TEXT Regresamos
+:DEBRIEFING_TEXT fracaso
+:DEBRIEFING_TEXT éxito
+
+:TYPE TASK_SCOUT
+:BRIEFING_ALLIED_CAUSE_TEXT Tras el RESULT del reconocimiento enemigo (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Debido a una exploración enemiga (MISSION)
+:BRIEFING_EFFECT_TEXT Se ha planeado una acción de exploración (MISSION) para identificar y destruir fuerzas enemigas en el sector SECTOR
+:DEBRIEFING_TEXT fracaso
+:DEBRIEFING_TEXT éxito
+
+:TYPE TASK_SECTOR_RECON
+:BRIEFING_ALLIED_CAUSE_TEXT Tras el RESULT reconocimiento aliado (MISSION) en el sector SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Debido a un reconocimiento enemigo (MISSION) en el sector SECTOR
+:BRIEFING_EFFECT_TEXT Intensificar reconocimiento de inteligencia aliada (MISSION) en el sector SECTOR
+:DEBRIEFING_TEXT ¡Fiasco! ¡Debemos contar con información actualizada!
+:DEBRIEFING_TEXT ¡Excelente! Ahora tenemos información más detallada de ese sector.
+
+:TYPE TASK_SUPPRESSION_OF_ENEMY_AIR_DEFENCES
+:BRIEFING_ALLIED_CAUSE_TEXT Tras el RESULT supresión aliada de las defensas aéreas enemigas (SEAD) (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT Debido a RESULT supresión enemiga de las defensas aéreas (SEAD) (MISSION)
+:BRIEFING_EFFECT_TEXT Neutralizar fuerzas enemigas en el SECTOR SEAD (MISSION)
+:DEBRIEFING_TEXT Fracaso de la misión. Como consecuencia de ello, el número de bajas en ataques posteriores será mayor.
+:DEBRIEFING_TEXT ¡La misión ha sido un éxito! El enemigo no está en posición de responder a ataques sucesivos. 
+
+:TYPE TASK_TAKEOFF
+:BRIEFING_ALLIED_CAUSE_TEXT debido a un despegue aliado
+:BRIEFING_ENEMY_CAUSE_TEXT debido a un despegue enemigo
+:BRIEFING_EFFECT_TEXT Despegamos
+:DEBRIEFING_TEXT fracaso
+:DEBRIEFING_TEXT éxito
+
+:TYPE TASK_TAKEOFF_HOLDING
+:BRIEFING_ALLIED_CAUSE_TEXT debido a un retraso aliado en el despegue
+:BRIEFING_ENEMY_CAUSE_TEXT debido a un retraso enemigo en el despegue
+:BRIEFING_EFFECT_TEXT Retrasamos el despegue
+:DEBRIEFING_TEXT fracaso
+:DEBRIEFING_TEXT éxito
+
+:TYPE TASK_TANK_BUSTING
+:BRIEFING_ALLIED_CAUSE_TEXT Tras el ataque aliado sobre los tanques (MISSION) en las fuerzas enemigas de primera línea en el sector SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT Debido al ataque enemigo sobre los tanques (MISSION) cerca del sector SECTOR
+:BRIEFING_EFFECT_TEXT Ataque a los tanques (MISSION) : Las fuerzas en la zona SECTOR están encontrando una fuerte resistencia.
+:DEBRIEFING_TEXT Fracaso de la misión. Los tanques enemigos continúan siendo una amenaza.
+:DEBRIEFING_TEXT ¡Buen trabajo! Los tanques enemigos han sido eliminados.
+
+:TYPE TASK_TRANSFER
+:BRIEFING_ALLIED_CAUSE_TEXT Debido a tu actuación
+:BRIEFING_ENEMY_CAUSE_TEXT Debido a la intensificación de la actividad enemiga en el sector SECTOR
+:BRIEFING_EFFECT_TEXT Traslado (MISSION) : Debes trasladarte al sector SECTOR 
+:DEBRIEFING_TEXT No has conseguido llegar a la base asignada.
+:DEBRIEFING_TEXT ¡Excelente! Prepárate para nuevas misiones desde esta base. 
+
+:TYPE TASK_TROOP_INSERTION
+:BRIEFING_ALLIED_CAUSE_TEXT Para apoyar la incursión de tropas aliadas (MISSION)
+:BRIEFING_ENEMY_CAUSE_TEXT A consecuencia de la incursión de tropas enemigas (MISSION) cerca del sector SECTOR
+:BRIEFING_EFFECT_TEXT Incursión de tropas preparada (MISSION)
+:DEBRIEFING_TEXT La incursión de tropas ha fracasado.
+:DEBRIEFING_TEXT Las tropas han llegado a su destino.
+
+:TYPE TASK_VISIT
+:BRIEFING_ALLIED_CAUSE_TEXT Tras una visita aliada (MISSION) al sector SECTOR
+:BRIEFING_ENEMY_CAUSE_TEXT A consecuencia de una visita enemiga (MISSION) al sector SECTOR
+:BRIEFING_EFFECT_TEXT Visitar (MISSION) e investigar
+:DEBRIEFING_TEXT Fracaso
+:DEBRIEFING_TEXT Éxito
+
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_TEXT_STOP
+////////////////////////////////////////////////////////////////////////////////////////////////////
+:END
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+

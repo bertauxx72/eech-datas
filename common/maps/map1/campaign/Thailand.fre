@@ -1,0 +1,618 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:START
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:WARZONE_NAME Thailand
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:LANGUAGE_TEXT_START
+
+:LANGUAGE_ENGLISH
+:TITLE The Opium War
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_GERMAN
+:TITLE Der Opiumkrieg
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_FRENCH
+:TITLE La guerre de l'opium
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_ITALIAN
+:TITLE La guerra dell'oppio
+:LANGUAGE_TEXT_END
+	
+:LANGUAGE_SPANISH
+:TITLE La guerra del opio
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_TEXT_STOP
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:LANGUAGE_TEXT_START
+
+:LANGUAGE_ENGLISH
+:SHORT_TEXT_START
+In THE GOLDEN TRIANGLE where Myanmar, Laos
+and Thailand come together and most of the
+world's opium poppies grow, the Chinese have
+mounted the biggest drugs bust of all time.
+But they didn't have a search warrant for
+Thailand. Can the US face down the spectre
+of Vietnam and come to the aid of its ally?
+:TEXT_END
+:LANGUAGE_TEXT_END
+	
+:LANGUAGE_GERMAN
+:SHORT_TEXT_START
+Im GOLDENEN DREIECK, wo Myanmar, Laos und
+Thailand aneinandergrenzen und sich die
+größten Schlafmohnfelder der Welt befinden,
+haben chinesische Streitkräfte die größte
+Drogenrazzia aller Zeiten durchgeführt.
+Allerdings fehlte ihnen dabei ein
+Durchsuchungsbefehl für Thailand. Können
+die USA dem Schreckgespenst Vietnam ins
+Gesicht sehen und ihrem Verbündeten
+zu Hilfe kommen?
+:TEXT_END
+:LANGUAGE_TEXT_END
+	
+:LANGUAGE_FRENCH
+:SHORT_TEXT_START
+Le TRIANGLE D'OR est une région regroupant
+une partie du Myanmar, du Laos et de la
+Thaïlande. C'est de là que provient la majorité
+de la production mondiale de pavot à opium.
+Les Chinois ont monté la plus grande opération
+anti-drogue de tous les temps. Ils ont
+malheureusement oublié de se munir d'un mandat
+de perquisition pour la Thaïlande. Les
+Etats-Unis feront-ils disparaître une bonne
+fois pour toutes le spectre du Viêt-nam en
+venant en aide à leur allié ?
+:TEXT_END
+:LANGUAGE_TEXT_END
+	
+:LANGUAGE_ITALIAN
+:SHORT_TEXT_START
+Nel TRIANGOLO D'ORO in cui Laos, Tailandia
+e Myanmar hanno unito le loro forze, e dove
+si trovano le principali coltivazioni di
+papaveri da oppio del mondo, i cinesi hanno
+lanciato la più grande offensiva al traffico
+di droga di tutti i tempi. Purtroppo non
+avevano un permesso di perquisizione per la
+Tailandia. Riusciranno gli Stati Uniti a
+superare lo spettro del Vietnam e venire in
+aiuto dei loro alleati?
+:TEXT_END
+:LANGUAGE_TEXT_END
+	
+:LANGUAGE_SPANISH
+:SHORT_TEXT_START
+En el Triángulo Dorado, donde se encuentran Myanmar,
+Laos y Tailandia, y donde crece la mayoría de
+amapolas de opio del mundo, los chinos han puesto
+en marcha la mayor operación anti-droga del mundo.
+Pero carecían de permiso para poder entrar en
+Tailandia. ¿Podrán los EE.UU. enfrentarse al fantasma
+de Vietnam y ayudar a su aliado?
+:TEXT_END
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_TEXT_STOP
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:CAMPAIGN_DATA
+:FILENAME ..\COMMON\MAPS\MAP1\CAMPAIGN\THAILAND.SID
+:FILENAME ..\COMMON\MAPS\MAP1\CAMPAIGN\THAILAND.BIN
+
+:MAP_X_SIZE 90
+:MAP_Z_SIZE 100
+:MAP_SECTOR_SIZE 4096
+
+:FACTION
+:SIDE SIDE_BLUE_FORCE
+:COLOUR COL_BLUE
+
+:FACTION
+:SIDE SIDE_RED_FORCE
+:COLOUR COL_RED
+
+:DATE 20 5 1998
+
+:PLANNER_DATA
+:ZOOM 5
+
+:TIME
+:HOURS 12
+:MINUTES 0
+:SECONDS 0
+
+:AUTO_ASSIGN_GUNSHIP 1
+
+:OPTION_INFINITE_FUEL 1
+:OPTION_INFINITE_WEAPONS 1
+:OPTION_INVULNERABLE 1
+:OPTION_SUPPRESS_AI_FIRE 1
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:FACTION
+:SIDE SIDE_BLUE_FORCE
+:COLOUR COL_BLUE
+:ATTITUDE FORCE_ATTITUDE_NORMAL
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:TASK_GENERATION
+:TYPE TASK_ADVANCE 50 50 50
+:TYPE TASK_BATTLEFIELD_AIR_INTERDICTION 50 50 50
+:TYPE TASK_CLOSE_AIR_SUPPORT 50 50 50
+:TYPE TASK_COMBAT_AIR_PATROL 50 50 50
+:TYPE TASK_DEEP_STRIKE 50 50 50
+:TYPE TASK_ENGAGE 50 50 50
+:TYPE TASK_ESCORT 50 50 50
+:TYPE TASK_FARP_RECON 50 50 50
+:TYPE TASK_INTERCEPT 50 50 50
+:TYPE TASK_PICK_UP_AND_DROP_OFF 50 50 50
+:TYPE TASK_RECON 50 50 50
+:TYPE TASK_REPAIR 50 50 50
+:TYPE TASK_RESCUE 50 50 50
+:TYPE TASK_RETREAT 50 50 50
+:TYPE TASK_RETURN 50 50 50
+:TYPE TASK_SCOUT 1 1 50
+:TYPE TASK_SECTOR_RECON 1 1 50
+:TYPE TASK_SUPPRESSION_OF_ENEMY_AIR_DEFENCES 50 50 50
+:TYPE TASK_TANK_BUSTING 50 50 50
+:TYPE TASK_TRANSFER 50 50 50
+:TYPE TASK_TROOP_INSERTION 50 50 50
+:TYPE TASK_VISIT 50 50 50
+
+:HARDWARE_RESERVES
+:TYPE ARMED_FIXED_WING
+:COUNT 30
+:TYPE UNARMED_FIXED_WING
+:COUNT 30
+:TYPE ARMED_HELICOPTER
+:COUNT 40
+:TYPE UNARMED_HELICOPTER
+:COUNT 40
+:TYPE ARMED_ROUTED_VEHICLE
+:COUNT 100
+:TYPE UNARMED_ROUTED_VEHICLE
+:COUNT 100
+:TYPE ARMED_SHIP_VEHICLE
+:COUNT 10
+:TYPE UNARMED_SHIP_VEHICLE
+:COUNT 10
+
+///////////////////////////////////////////
+
+:FRONTLINE_FORCES 10
+
+:CAMPAIGN_CRITERIA
+        :CRITERIA CAPTURED_SECTORS
+        :GOAL 37
+        :RESULT SUCCESS
+        :CRITERIA BALANCE_OF_POWER
+        :GOAL 60
+        :RESULT SUCCESS
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME CHIANG MAI
+:TYPE LANDING_FIXED_WING
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_ESCORT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_HEAVY_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_HEAVY_LIFT_GROUP
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:START_BASE
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME NAN
+:TYPE LANDING_FIXED_WING
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_ESCORT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_HEAVY_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_HEAVY_LIFT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MEDIUM_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_MEDIUM_LIFT_GROUP
+// 2 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_ATTACK_HELICOPTER
+//:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:START_BASE
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:FACTION
+:SIDE SIDE_RED_FORCE
+:COLOUR COL_RED
+:ATTITUDE FORCE_ATTITUDE_NORMAL
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:TASK_GENERATION
+:TYPE TASK_ADVANCE 50 50 50
+:TYPE TASK_BATTLEFIELD_AIR_INTERDICTION 50 50 50
+:TYPE TASK_CLOSE_AIR_SUPPORT 50 50 50
+:TYPE TASK_COMBAT_AIR_PATROL 50 50 50
+:TYPE TASK_DEEP_STRIKE 50 50 50
+:TYPE TASK_ENGAGE 50 50 50
+:TYPE TASK_ESCORT 50 50 50
+:TYPE TASK_FARP_RECON 50 50 50
+:TYPE TASK_INTERCEPT 50 50 50
+:TYPE TASK_PICK_UP_AND_DROP_OFF 50 50 50
+:TYPE TASK_RECON 50 50 50
+:TYPE TASK_REPAIR 50 50 50
+:TYPE TASK_RESCUE 50 50 50
+:TYPE TASK_RETREAT 50 50 50
+:TYPE TASK_RETURN 50 50 50
+:TYPE TASK_SCOUT 1 1 50
+:TYPE TASK_SECTOR_RECON 1 1 50
+:TYPE TASK_SUPPRESSION_OF_ENEMY_AIR_DEFENCES 50 50 50
+:TYPE TASK_TANK_BUSTING 50 50 50
+:TYPE TASK_TRANSFER 50 50 50
+:TYPE TASK_TROOP_INSERTION 50 50 50
+:TYPE TASK_VISIT 50 50 50
+
+:HARDWARE_RESERVES
+:TYPE ARMED_FIXED_WING
+:COUNT 30
+:TYPE UNARMED_FIXED_WING
+:COUNT 30
+:TYPE ARMED_HELICOPTER
+:COUNT 40
+:TYPE UNARMED_HELICOPTER
+:COUNT 40
+:TYPE ARMED_ROUTED_VEHICLE
+:COUNT 100
+:TYPE UNARMED_ROUTED_VEHICLE
+:COUNT 100
+:TYPE ARMED_SHIP_VEHICLE
+:COUNT 10
+:TYPE UNARMED_SHIP_VEHICLE
+:COUNT 10
+
+///////////////////////////////////////////
+
+:FRONTLINE_FORCES 10
+
+:CAMPAIGN_CRITERIA
+        :CRITERIA CAPTURED_SECTORS
+        :GOAL 48
+        :RESULT SUCCESS
+        :CRITERIA BALANCE_OF_POWER
+        :GOAL 75
+        :RESULT SUCCESS
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME MAE HONGSON
+:TYPE LANDING_FIXED_WING
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_HEAVY_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_HEAVY_LIFT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_ESCORT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MEDIUM_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_MEDIUM_LIFT_GROUP
+// 2 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_ATTACK_HELICOPTER
+//:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+//:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:START_BASE
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME KENGTUNG
+:TYPE LANDING_FIXED_WING
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_MEDIUM_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_MEDIUM_LIFT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_ESCORT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_HEAVY_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_HEAVY_LIFT_GROUP
+// 2 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_ATTACK_HELICOPTER
+//:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+//:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME CHIANG RAI
+:TYPE LANDING_FIXED_WING
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_HEAVY_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_HEAVY_LIFT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MEDIUM_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_MEDIUM_LIFT_GROUP
+// 2 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_ATTACK_HELICOPTER
+//:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:START_BASE
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ General campaign flags
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:FLAG_PYLONS 1
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:END
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+

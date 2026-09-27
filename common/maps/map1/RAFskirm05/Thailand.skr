@@ -1,0 +1,250 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:START
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:TITLE  =RAF= Thailand Skirmish 5
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:SHORT_TEXT_START
+Capture enemy airbase!
+:TEXT_END
+
+:CAMPAIGN_DATA
+   :FILENAME ..\COMMON\MAPS\MAP1\RAFSKIRM05\THAILAND.SID
+   :FILENAME ..\COMMON\MAPS\MAP1\RAFSKIRM05\THAILAND.BIN
+   
+   :MAP_X_SIZE 90
+   :MAP_Z_SIZE 100
+   :MAP_SECTOR_SIZE 4096
+
+   :MAP_X_MIN 204800
+   :MAP_Z_MIN 196608
+   :MAP_X_MAX 286720
+   :MAP_Z_MAX 262144
+
+   
+   :FACTION
+   :SIDE SIDE_BLUE_FORCE
+   :COLOUR COL_BLUE
+   
+   :FACTION
+   :SIDE SIDE_RED_FORCE
+   :COLOUR COL_RED
+   
+   :END
+
+:CAMPAIGN_REQUIRES_APACHE_HAVOC 1
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:FACTION
+:SIDE SIDE_BLUE_FORCE
+:COLOUR COL_BLUE
+:ATTITUDE FORCE_ATTITUDE_NORMAL
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:HARDWARE_RESERVES
+:TYPE ARMED_FIXED_WING
+:COUNT 300
+:TYPE UNARMED_FIXED_WING
+:COUNT 300
+:TYPE ARMED_HELICOPTER
+:COUNT 400
+:TYPE UNARMED_HELICOPTER
+:COUNT 400
+:TYPE ARMED_ROUTED_VEHICLE
+:COUNT 1000
+:TYPE UNARMED_ROUTED_VEHICLE
+:COUNT 1000
+:TYPE ARMED_SHIP_VEHICLE
+:COUNT 100
+:TYPE UNARMED_SHIP_VEHICLE
+:COUNT 100
+
+///////////////////////////////////////////
+:REGEN_FREQUENCY 300
+:FRONTLINE_FORCES 10
+///////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME BAN HOUAYXAY
+:TYPE LANDING_FIXED_WING
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+// 6 Fixed Wing Sites
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_INTERCEPTOR
+:TYPE FIXED_WING_CARRIER_BORNE_INTERCEPTOR_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:FACTION
+:SIDE SIDE_RED_FORCE
+:COLOUR COL_RED
+:ATTITUDE FORCE_ATTITUDE_NORMAL
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:HARDWARE_RESERVES
+:TYPE ARMED_FIXED_WING
+:COUNT 300
+:TYPE UNARMED_FIXED_WING
+:COUNT 300
+:TYPE ARMED_HELICOPTER
+:COUNT 400
+:TYPE UNARMED_HELICOPTER
+:COUNT 400
+:TYPE ARMED_ROUTED_VEHICLE
+:COUNT 1000
+:TYPE UNARMED_ROUTED_VEHICLE
+:COUNT 1000
+:TYPE ARMED_SHIP_VEHICLE
+:COUNT 100
+:TYPE UNARMED_SHIP_VEHICLE
+:COUNT 100
+
+///////////////////////////////////////////
+:REGEN_FREQUENCY 300
+:FRONTLINE_FORCES 10
+///////////////////////////////////////////
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME TACHILEK
+:TYPE LANDING_FIXED_WING
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+// 6 Fixed Wing Sites
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_INTERCEPTOR
+:TYPE FIXED_WING_CARRIER_BORNE_INTERCEPTOR_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Order Of Battle 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:DIVISION_ID_LIST SIDE_BLUE_FORCE 
+
+:TYPE DIVISION_AIRBORNE_HELICOPTER_DIVISION
+:LIST 42 43 -1
+
+:TYPE DIVISION_AIRBORNE_FIXED_WING_DIVISION
+:LIST 12 14 -1
+
+:TYPE DIVISION_AIRBORNE_TRANSPORT_DIVISION
+:LIST 18 24 -1
+
+:TYPE DIVISION_ARMOURED_DIVISION
+:LIST 86 82 24 25 28 21 10 12 -1
+
+:TYPE DIVISION_CARRIER_DIVISION
+:LIST 1 2 -1
+
+:TYPE DIVISION_INFANTRY_DIVISION
+:LIST 43 10 -1
+
+:TYPE DIVISION_HC_ATTACK_COMPANY
+:LIST 15 18 20 21 22 72 73 74 122 124 125 128 -1
+
+:TYPE DIVISION_HC_TRANSPORT_COMPANY
+:LIST 61 62 64 152 154 -1
+
+:TYPE DIVISION_FW_ATTACK_COMPANY
+:LIST 9 11 12 17 18 93 94 98 -1 
+
+:TYPE DIVISION_FW_FIGHTER_COMPANY
+:LIST 6 14 15 16 77 79 128 129 -1
+
+:TYPE DIVISION_FW_TRANSPORT_COMPANY
+:LIST 44 46 108 102 -1
+
+:TYPE DIVISION_ADA_COMPANY
+:LIST 16 18 12 14 38 11 15 31 30 39 71 77 128 -1
+
+:TYPE DIVISION_ARMOURED_COMPANY
+:LIST 2 4 7 33 35 36 39 21 23 24 25 32 36 33 16 18 151 155 158 152 -1
+
+:TYPE DIVISION_ARTILLERY_COMPANY
+:LIST 31 37 161 164 165 166 168 -1
+
+:TYPE DIVISION_INFANTRY_COMPANY
+:LIST 9 14 15 28 50 11 -1
+
+:TYPE DIVISION_SPECIAL_FORCES_COMPANY
+:LIST 1 3 7 11 19 -1
+
+///////////////////////////////////////////
+
+:DIVISION_ID_LIST SIDE_RED_FORCE 
+
+:TYPE DIVISION_AIRBORNE_HELICOPTER_DIVISION
+:LIST 151 152 -1
+
+:TYPE DIVISION_AIRBORNE_FIXED_WING_DIVISION
+:LIST 182 183 -1
+
+:TYPE DIVISION_AIRBORNE_TRANSPORT_DIVISION
+:LIST 78 79 -1
+
+:TYPE DIVISION_ARMOURED_DIVISION
+:LIST 112 116 117 105 61 63 68 208 202 216 -1
+
+:TYPE DIVISION_CARRIER_DIVISION
+:LIST 1 2 -1
+
+:TYPE DIVISION_INFANTRY_DIVISION
+:LIST 44 47 -1
+
+:TYPE DIVISION_HC_ATTACK_COMPANY
+:LIST 11 42 44 45 47 180 182 185 224 226 229 113 71 72 75 121 122 123 125 127 128 129 130 -1
+
+:TYPE DIVISION_HC_TRANSPORT_COMPANY
+:LIST 14 15 18 19 192 198 312 314 316 317 318 311 -1 
+
+:TYPE DIVISION_FW_ATTACK_COMPANY
+:LIST 24 31 32 36 37 38 282 283 284 288 25 26 27 152 153 155 -1
+
+:TYPE DIVISION_FW_FIGHTER_COMPANY
+:LIST 17 34 35 286 287 289 32 16 14 11 37 280 285 39 30 -1 
+
+:TYPE DIVISION_FW_TRANSPORT_COMPANY
+:LIST 204 206 208 242 56 54 51 58 52 -1
+
+:TYPE DIVISION_ADA_COMPANY
+:LIST 162 167 168 58 55 59 334 335 337 338 -1
+
+:TYPE DIVISION_ARMOURED_COMPANY
+:LIST 12 14 17 183 188 41 46 47 49 210 216 15 16 19 120 121 123 306 308 302 307 310 212 215 218 219 -1
+
+:TYPE DIVISION_ARTILLERY_COMPANY
+:LIST 141 142 24 27 28 65 66 68 72 73 74 76 21 23 20 78 22 -1
+
+:TYPE DIVISION_INFANTRY_COMPANY
+:LIST 31 33 34 38 39 110 112 116 453 456 457 36 114 115 450 451 455 -1
+
+:TYPE DIVISION_SPECIAL_FORCES_COMPANY
+:LIST 12 16 17 31 38 -1
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ General campaign flags
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:CALL :FILENAME ..\common\maps\map1\RAFskirm05\thailand.scr
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:END
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
