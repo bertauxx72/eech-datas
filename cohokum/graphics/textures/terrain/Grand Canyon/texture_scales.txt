@@ -1,0 +1,47 @@
+# TERRAIN TEXTURES
+# Relative terrain texture scales. 
+# values after '#' the original detail and coulorpass scales and internal names.
+# Don't mess with this file if you don't know what you are doing!
+TERRAIN_SEA_1                 =512     # 256 2048 sea                          
+TERRAIN_BEACH                 =256     # 256 2048 beach
+TERRAIN_DETAIL_4              =256    # 256 2048 land  (moderate/low altitude)
+TERRAIN_SCRUB                 =256    # 256 2048 altered_land1, (moderate/low altitude)
+TERRAIN_BARE_ROCK2            =256    # 128 2048 altered_land2, (high altitude)
+TERRAIN_SNOW                  =256    # 256 2048 altered_land3, (snow, top)
+TERRAIN_TREE_CANOPY_1         =128     # 512 1024 forest
+TERRAIN_SWAMP1                =128     #  forestside_bottom, must be 512x128 
+TERRAIN_SWAMP2                =128     #  forestside_middle, must be 512x128 
+TERRAIN_TREE_CANOPY_LEBANON   =128     #  forestside_top, must be 512x128
+TERRAIN_GRG_CITY1             =512     # 256 2048 city1 (sometimes used for airfields!)
+TERRAIN_GRG_CITY2             =512     # 256 2048 city2
+TERRAIN_GRG_CITY3             =512     # 256 2048 city3
+TERRAIN_GRG_CITY4             =512     # 256 2048 city4 (sometimes used for FARPs!)
+TERRAIN_BW_CITY1              =256     # 256 2048 city1 infrared
+TERRAIN_BW_CITY2              =256     # 256 2048 city2 infrared
+TERRAIN_BW_CITY3              =256     # 256 2048 city3 infrared
+TERRAIN_BW_CITY4              =256     # 256 2048 city4 infrared
+TERRAIN_THAI_TRACK            =8       #   8 1024 track
+TERRAIN_DETAIL_ROAD           =256     #   8 1024 road
+TERRAIN_DETAIL_LEBANON        =64      # 256 2048 road_bank
+TERRAIN_RIVER                 =1024     # 256 2048 river
+TERRAIN_HIGHLAND              =1024     # 256 2048 river_bank
+TERRAIN_THAILAND_RIVER        =1024     #1024 2048 reservoir
+TERRAIN_WALL_LEBANON          =16      #  40    0 hedge
+TERRAIN_WALL                  =16      #   5    0 wall
+CH_TERRAIN_DRY_MUD1           =128     # 256    0 trench
+TERRAIN_MUSTARDFIELD          =256     # 256 1024 field1
+TERRAIN_PLOUGHED1FIELD        =512     # 256 1024 field2
+TERRAIN_PLOUGHED2FIELD        =512     # 256 1024 field3
+TERRAIN_CORNFIELD             =512     # 256 1024 field4
+TERRAIN_WHEATFIELD            =512     # 256 1024 field5
+TERRAIN_LIGHTGREENFIELD       =512     # 256 1024 field6
+TERRAIN_DARKGREENFIELD        =512     # 256 1024 field7
+TERRAIN_MUSTARDFIELD          =256     # 256 1024 field8
+TERRAIN_PLOUGHED1FIELD        =512     # 256 1024 field9
+TERRAIN_PLOUGHED2FIELD        =512     # 256 1024 field10
+TERRAIN_CORNFIELD             =512     # 256 1024 field11
+                                        
+                                        
+                                        
+                                        
+                                        
