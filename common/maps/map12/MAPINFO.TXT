@@ -1,0 +1,5 @@
+#general map info
+season=3          # 1 = default, 2 = summer; 3 = winter, 4 = desert
+contour=-1000,-0.0001,250,500,750,1000,2000,2500,3000 # 9 contour intervals  for 2D map                                        
+dry river = 0     #dry rivers for desert campaigns: 0 = flowing water, 1 = dry
+gouraud_shading=1
