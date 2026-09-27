@@ -1,0 +1,823 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:START
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:WARZONE_NAME Georgia
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:LANGUAGE_TEXT_START
+
+:LANGUAGE_ENGLISH
+:TITLE Caspian Black Gold
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_GERMAN
+:TITLE Schwarzes Gold vom Kaspischen Meer
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_FRENCH
+:TITLE Or noir de la Caspienne 
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_ITALIAN
+:TITLE Oro nero del Caspio
+:LANGUAGE_TEXT_END
+	
+:LANGUAGE_SPANISH
+:TITLE El oro negro del Caspio
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_TEXT_STOP
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:LANGUAGE_TEXT_START
+
+:LANGUAGE_ENGLISH
+:SHORT_TEXT_START
+In GEORGIA a brand new hyper-nationalistic
+Russian government is determined to wipe out
+the humiliations of the post-Soviet era and
+take control of the Caspian Sea oilfields. The
+only force that can stand in the way of their
+whirlwind advance is a battalion of US attack
+helicopters in north-eastern Turkey.
+:TEXT_END
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_GERMAN
+:SHORT_TEXT_START
+In GEORGIEN ist die neue, hypernationalistische
+Regierung Rußlands fest dazu entschlossen, den
+Demütigungen der post-sowjetischen Ära ein Ende
+zu bereiten und die Ölfelder im Kaspischen Meer
+in ihre Gewalt zu bringen. Die einzige
+Streitmacht, die sich ihrem wirbelsturmartigen
+Anmarsch in den Weg stellen kann, ist ein
+Geschwader von US-Kampfhubschraubern im
+Nordosten der Türkei.
+:TEXT_END
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_FRENCH
+:SHORT_TEXT_START
+En GEORGIE, un nouveau gouvernement
+ultra-nationaliste est déterminé à balayer les
+humiliations de l'ère post-soviétique et à
+prendre le contrôle des puits de pétrole de la
+mer Caspienne. La seule unité capable d'arrêter
+cette invasion éclair est un bataillon américain
+d'hélicoptères d'attaque basé au nord-est
+de la Turquie.
+:TEXT_END
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_ITALIAN
+:SHORT_TEXT_START
+In GEORGIA il governo ipernazionalista russo
+appena costituitosi è deciso a spazzare via le
+umiliazioni dell'era post sovietica e assumere
+il controllo dei giacimenti di petrolio del mar
+Caspio. La sola forza che può opporsi
+all'avanzata russa è un battaglione di
+elicotteri d'attacco statunitensi nella Turchia
+nord-orientale.
+:TEXT_END
+:LANGUAGE_TEXT_END
+	
+:LANGUAGE_SPANISH
+:SHORT_TEXT_START
+En Georgia, un nuevo gobierno ruso
+ultra-nacionalista está decidido a vengar las
+humillaciones de la época post-soviética y
+hacerse con el control de los campos
+petrolíferos del mar Caspio. La única fuerza
+capaz de detener su avance es un batallón de
+helicópteros de ataque americanos que tienen
+su base en el noreste de Turquía.
+:TEXT_END
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_TEXT_STOP
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:CAMPAIGN_DATA
+:FILENAME ..\COMMON\MAPS\MAP3\CAMPAIGN\GEORGIA.SID
+:FILENAME ..\COMMON\MAPS\MAP3\CAMPAIGN\GEORGIA.BIN
+
+:MAP_X_SIZE 122
+:MAP_Z_SIZE 58
+:MAP_SECTOR_SIZE 4096
+
+:FACTION
+:SIDE SIDE_BLUE_FORCE
+:COLOUR COL_BLUE
+
+:FACTION
+:SIDE SIDE_RED_FORCE
+:COLOUR COL_RED
+
+:DATE 26 11 1998
+
+:PLANNER_DATA
+:ZOOM 5
+
+:TOUR_OF_DUTY
+:HOURS 1
+:MINUTES 30
+:SECONDS 0
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:FACTION
+:SIDE SIDE_BLUE_FORCE
+:COLOUR COL_BLUE
+:ATTITUDE FORCE_ATTITUDE_NORMAL
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:TASK_GENERATION
+:TYPE TASK_ADVANCE 50 50 50
+:TYPE TASK_BATTLEFIELD_AIR_INTERDICTION 50 50 50
+:TYPE TASK_CLOSE_AIR_SUPPORT 50 50 50
+:TYPE TASK_COMBAT_AIR_PATROL 50 50 50
+:TYPE TASK_DEEP_STRIKE 50 50 50
+:TYPE TASK_ENGAGE 50 50 50
+:TYPE TASK_INTERCEPT 50 50 50
+:TYPE TASK_PICK_UP_AND_DROP_OFF 50 50 50
+:TYPE TASK_RECON 50 50 50
+:TYPE TASK_REPAIR 50 50 50
+:TYPE TASK_RESCUE 50 50 50
+:TYPE TASK_RETREAT 50 50 50
+:TYPE TASK_RETURN 50 50 50
+:TYPE TASK_SCOUT 1 1 50
+:TYPE TASK_SECTOR_RECON 1 1 50
+:TYPE TASK_SUPPRESSION_OF_ENEMY_AIR_DEFENCES 50 50 50
+:TYPE TASK_TANK_BUSTING 50 50 50
+:TYPE TASK_TRANSFER 50 50 50
+:TYPE TASK_TROOP_INSERTION 50 50 50
+:TYPE TASK_VISIT 50 50 50
+
+:HARDWARE_RESERVES
+:TYPE ARMED_FIXED_WING
+:COUNT 200
+:TYPE UNARMED_FIXED_WING
+:COUNT 0
+:TYPE ARMED_HELICOPTER
+:COUNT 200
+:TYPE UNARMED_HELICOPTER
+:COUNT 100
+:TYPE ARMED_ROUTED_VEHICLE
+:COUNT 200
+:TYPE UNARMED_ROUTED_VEHICLE
+:COUNT 100
+:TYPE ARMED_SHIP_VEHICLE
+:COUNT 50
+:TYPE UNARMED_SHIP_VEHICLE
+:COUNT 20
+
+///////////////////////////////////////////
+:REGEN_FREQUENCY 10
+:FRONTLINE_FORCES 10
+///////////////////////////////////////////
+
+:CAMPAIGN_CRITERIA
+        :CRITERIA CAPTURED_SECTORS
+        :GOAL 55
+        :RESULT SUCCESS
+        :CRITERIA BALANCE_OF_POWER
+        :GOAL 50
+        :RESULT SUCCESS
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME BATUMI
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_HEAVY_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_HEAVY_LIFT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MEDIUM_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_MEDIUM_LIFT_GROUP
+// 2 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_ATTACK_AIRCRAFT
+:TYPE FIXED_WING_CARRIER_BORNE_STRIKE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_INTERCEPTOR
+:TYPE FIXED_WING_CARRIER_BORNE_INTERCEPTOR_GROUP
+// 2 members
+
+:START_BASE
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:FACTION
+:SIDE SIDE_RED_FORCE
+:COLOUR COL_RED
+:ATTITUDE FORCE_ATTITUDE_NORMAL
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:TASK_GENERATION
+:TYPE TASK_ADVANCE 50 50 50
+:TYPE TASK_BATTLEFIELD_AIR_INTERDICTION 50 50 50
+:TYPE TASK_CLOSE_AIR_SUPPORT 50 50 50
+:TYPE TASK_COMBAT_AIR_PATROL 50 50 50
+:TYPE TASK_DEEP_STRIKE 50 50 50
+:TYPE TASK_ENGAGE 50 50 50
+:TYPE TASK_INTERCEPT 50 50 50
+:TYPE TASK_PICK_UP_AND_DROP_OFF 50 50 50
+:TYPE TASK_RECON 50 50 50
+:TYPE TASK_REPAIR 50 50 50
+:TYPE TASK_RESCUE 50 50 50
+:TYPE TASK_RETREAT 50 50 50
+:TYPE TASK_RETURN 50 50 50
+:TYPE TASK_SCOUT 1 1 50
+:TYPE TASK_SECTOR_RECON 1 1 50
+:TYPE TASK_SUPPRESSION_OF_ENEMY_AIR_DEFENCES 50 50 50
+:TYPE TASK_TANK_BUSTING 50 50 50
+:TYPE TASK_TRANSFER 50 50 50
+:TYPE TASK_TROOP_INSERTION 50 50 50
+:TYPE TASK_VISIT 50 50 50
+
+:HARDWARE_RESERVES
+:TYPE ARMED_FIXED_WING
+:COUNT 400
+:TYPE UNARMED_FIXED_WING
+:COUNT 0
+:TYPE ARMED_HELICOPTER
+:COUNT 400
+:TYPE UNARMED_HELICOPTER
+:COUNT 300
+:TYPE ARMED_ROUTED_VEHICLE
+:COUNT 500
+:TYPE UNARMED_ROUTED_VEHICLE
+:COUNT 500
+:TYPE ARMED_SHIP_VEHICLE
+:COUNT 100
+:TYPE UNARMED_SHIP_VEHICLE
+:COUNT 50
+
+///////////////////////////////////////////
+:REGEN_FREQUENCY 1
+:FRONTLINE_FORCES 10
+///////////////////////////////////////////
+
+:CAMPAIGN_CRITERIA
+        :CRITERIA CAPTURED_SECTORS
+        :GOAL 70
+        :RESULT SUCCESS
+        :CRITERIA BALANCE_OF_POWER
+        :GOAL 75
+        :RESULT SUCCESS
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ General campaign flags
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_ANCHORAGE
+:NAME BODRY
+:TYPE LANDING_HELICOPTER
+:TYPE LANDING_SEA
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+/////////////////////////////////////////////
+
+:CREATE_MEMBERS
+:GROUP GROUP_ASSAULT_SHIP
+:MEMBER VEHICLE_KIEV_CLASS
+:COUNT 1
+:MOBILE_KEYSITE
+:FORMATION_COMPONENT AIRCRAFT_CARRIER_GROUP
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MARINE_ASSAULT_HELICOPTER
+:TYPE HELICOPTER_MARINE_ASSAULT_GROUP
+// 3 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_FRIGATE
+:TYPE FRIGATE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_LANDING_CRAFT
+:TYPE LANDING_GROUP
+// 3 members
+
+:START_BASE
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_ANCHORAGE
+:NAME ZHARKY
+:TYPE LANDING_HELICOPTER
+:TYPE LANDING_SEA
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+/////////////////////////////////////////////
+
+:CREATE_MEMBERS
+:GROUP GROUP_ASSAULT_SHIP
+:MEMBER VEHICLE_KIEV_CLASS
+:COUNT 1
+:MOBILE_KEYSITE
+:FORMATION_COMPONENT AIRCRAFT_CARRIER_GROUP
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_FRIGATE
+:TYPE FRIGATE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_LANDING_CRAFT
+:TYPE LANDING_GROUP
+// 3 members
+
+//:START_BASE
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME GUDAUTA
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME SUKHUMI-DRANDA
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MEDIUM_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_MEDIUM_LIFT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_ATTACK_HELICOPTER
+//:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_ATTACK_AIRCRAFT
+:TYPE FIXED_WING_CARRIER_BORNE_STRIKE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_INTERCEPTOR
+:TYPE FIXED_WING_CARRIER_BORNE_INTERCEPTOR_GROUP
+// 2 members
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME MIKHA-TSKHAKAYA
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_HEAVY_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_HEAVY_LIFT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_ATTACK_AIRCRAFT
+:TYPE FIXED_WING_CARRIER_BORNE_STRIKE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_INTERCEPTOR
+:TYPE FIXED_WING_CARRIER_BORNE_INTERCEPTOR_GROUP
+// 2 members
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME KUTAISI WEST
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MEDIUM_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_MEDIUM_LIFT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_ATTACK_HELICOPTER
+//:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME MAKHARADZE
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_HEAVY_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_HEAVY_LIFT_GROUP
+// 2 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_ATTACK_HELICOPTER
+//:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+:START_BASE
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME SAMTREDIA EAST
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_HEAVY_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_HEAVY_LIFT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME BESLAN
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MEDIUM_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_MEDIUM_LIFT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_ATTACK_HELICOPTER
+//:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_ATTACK_AIRCRAFT
+:TYPE FIXED_WING_CARRIER_BORNE_STRIKE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_INTERCEPTOR
+:TYPE FIXED_WING_CARRIER_BORNE_INTERCEPTOR_GROUP
+// 2 members
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME T'BILISI-SOGANLUG
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_HEAVY_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_HEAVY_LIFT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_ATTACK_HELICOPTER
+//:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME VAZIANI
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MEDIUM_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_MEDIUM_LIFT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_ATTACK_HELICOPTER
+//:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_INTERCEPTOR
+:TYPE FIXED_WING_CARRIER_BORNE_INTERCEPTOR_GROUP
+// 2 members
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:KEYSITE KEYSITE_AIRBASE
+:NAME T'BILISI-MARNEULI
+:TYPE LANDING_HELICOPTER
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_SCOUT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MEDIUM_LIFT_TRANSPORT_HELICOPTER
+:TYPE HELICOPTER_MEDIUM_LIFT_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_ATTACK_HELICOPTER
+:TYPE HELICOPTER_RECON_GROUP
+// 2 members
+
+//:CREATE_GROUP
+//:GROUP GROUP_ATTACK_HELICOPTER
+//:TYPE HELICOPTER_STRIKE_GROUP
+// 4 members
+
+///////////////////////////////////////////
+
+:CREATE_GROUP
+:GROUP GROUP_CLOSE_AIR_SUPPORT_AIRCRAFT
+:TYPE FIXED_WING_CLOSE_AIR_SUPPORT_GROUP
+// 4 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_MULTI_ROLE_FIGHTER
+:TYPE FIXED_WING_MULTI_ROLE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_ATTACK_AIRCRAFT
+:TYPE FIXED_WING_CARRIER_BORNE_STRIKE_GROUP
+// 2 members
+
+:CREATE_GROUP
+:GROUP GROUP_CARRIER_BORNE_INTERCEPTOR
+:TYPE FIXED_WING_CARRIER_BORNE_INTERCEPTOR_GROUP
+// 2 members
+
+:FLAG_PYLONS 1
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:END
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+

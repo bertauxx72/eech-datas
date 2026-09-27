@@ -1,0 +1,259 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:START
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:WARZONE_NAME Georgia
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:LANGUAGE_TEXT_START
+
+:LANGUAGE_ENGLISH
+:TITLE Hot And High
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_GERMAN
+:TITLE Hoch hinaus
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_FRENCH
+:TITLE Hot And High
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_ITALIAN
+:TITLE Hot And High
+:LANGUAGE_TEXT_END
+	
+:LANGUAGE_SPANISH
+:TITLE Calor en las alturas
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_TEXT_STOP
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:LANGUAGE_TEXT_START
+
+:LANGUAGE_ENGLISH
+:SHORT_TEXT_START
+Hide 'n' seek in the Caucasus Mountains.
+
+Warzone : Georgia
+:TEXT_END
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_GERMAN
+:SHORT_TEXT_START
+Versteckspiel im Hochgebirge Kaukasiens.
+
+5 Apaches und 5 Havocs gehen jagen.
+
+Einsatzgebiet: Georgien
+:TEXT_END
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_FRENCH
+:SHORT_TEXT_START
+Hide 'n' seek in the Caucasus Mountains.
+
+Warzone : Georgia
+:TEXT_END
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_ITALIAN
+:SHORT_TEXT_START
+Hide 'n' seek in the Caucasus Mountains.
+
+Warzone : Georgia
+:TEXT_END
+:LANGUAGE_TEXT_END
+	
+:LANGUAGE_SPANISH
+:SHORT_TEXT_START
+Juega al gato y el ratón en el Cáucaso.
+
+Zona de acción: Georgia
+:TEXT_END
+:LANGUAGE_TEXT_END
+
+:LANGUAGE_TEXT_STOP
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:SUPPRESS_POPULATION_KEYSITES 1
+
+:CAMPAIGN_DATA
+:FILENAME ..\COMMON\MAPS\MAP3\CAMPAIGN\georgia.SID
+:FILENAME ..\COMMON\MAPS\MAP3\CAMPAIGN\georgia.BIN
+
+:MAP_X_SIZE 122
+:MAP_Z_SIZE 58
+:MAP_SECTOR_SIZE 4096
+
+:FILENAME ..\COMMON\MAPS\MAP3\CAMPAIGN\MULT3.POP
+
+:FACTION
+:SIDE SIDE_BLUE_FORCE
+:COLOUR COL_BLUE
+
+:FACTION
+:SIDE SIDE_RED_FORCE
+:COLOUR COL_RED
+
+:AUTO_ASSIGN_GUNSHIP 1
+
+:DATE 20 5 1970
+
+:PLANNER_DATA
+:POSITION 228239 200047
+:ZOOM 3
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:FACTION
+:SIDE SIDE_BLUE_FORCE
+:COLOUR COL_BLUE
+:ATTITUDE FORCE_ATTITUDE_DESTRUCTIVE
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:TASK_GENERATION
+:TYPE TASK_VISIT 50 50 50
+
+:HARDWARE_RESERVES
+:TYPE ARMED_FIXED_WING
+:COUNT 0
+:TYPE UNARMED_FIXED_WING
+:COUNT 0
+:TYPE ARMED_HELICOPTER
+:COUNT 1000
+:TYPE UNARMED_HELICOPTER
+:COUNT 0
+:TYPE ARMED_ROUTED_VEHICLE
+:COUNT 0
+:TYPE UNARMED_ROUTED_VEHICLE
+:COUNT 0
+:TYPE ARMED_SHIP_VEHICLE
+:COUNT 0
+:TYPE UNARMED_SHIP_VEHICLE
+:COUNT 0
+
+:FRONTLINE_FORCES 0
+
+/////////////////////////////////////////////
+:KEYSITE KEYSITE_SPECIAL
+:NAME KEYSITE 1
+:TYPE LANDING_GROUND
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+/////////////////////////////////////////////
+
+:CREATE_MEMBERS
+:GROUP GROUP_ATTACK_HELICOPTER
+:MEMBER AIRCRAFT_AH64D_APACHE_LONGBOW
+:COUNT 5
+
+/////////////////////////////////////////////
+:KEYSITE KEYSITE_SPECIAL
+:NAME KEYSITE 2
+:TYPE LANDING_GROUND
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+/////////////////////////////////////////////
+
+:CREATE_MEMBERS
+:GROUP GROUP_ATTACK_HELICOPTER
+:MEMBER AIRCRAFT_AH64D_APACHE_LONGBOW
+:COUNT 5
+
+/////////////////////////////////////////////
+:KEYSITE KEYSITE_SPECIAL
+:NAME KEYSITE 3
+:TYPE LANDING_GROUND
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+/////////////////////////////////////////////
+
+:CREATE_MEMBERS
+:GROUP GROUP_ATTACK_HELICOPTER
+:MEMBER AIRCRAFT_AH64D_APACHE_LONGBOW
+:COUNT 5
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:FACTION
+:SIDE SIDE_RED_FORCE
+:COLOUR COL_RED
+:ATTITUDE FORCE_ATTITUDE_DESTRUCTIVE
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:TASK_GENERATION
+:TYPE TASK_VISIT 50 50 50
+
+:HARDWARE_RESERVES
+:TYPE ARMED_FIXED_WING
+:COUNT 0
+:TYPE UNARMED_FIXED_WING
+:COUNT 0
+:TYPE ARMED_HELICOPTER
+:COUNT 1000
+:TYPE UNARMED_HELICOPTER
+:COUNT 0
+:TYPE ARMED_ROUTED_VEHICLE
+:COUNT 1000
+:TYPE UNARMED_ROUTED_VEHICLE
+:COUNT 0
+:TYPE ARMED_SHIP_VEHICLE
+:COUNT 0
+:TYPE UNARMED_SHIP_VEHICLE
+:COUNT 0
+
+:FRONTLINE_FORCES 0
+
+/////////////////////////////////////////////
+:KEYSITE KEYSITE_SPECIAL
+:NAME KEYSITE 4
+:TYPE LANDING_GROUND
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+/////////////////////////////////////////////
+
+:CREATE_MEMBERS
+:GROUP GROUP_ATTACK_HELICOPTER
+:MEMBER AIRCRAFT_MI28N_HAVOC_B
+:COUNT 5
+
+/////////////////////////////////////////////
+:KEYSITE KEYSITE_SPECIAL
+:NAME KEYSITE 5
+:TYPE LANDING_GROUND
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+/////////////////////////////////////////////
+
+:CREATE_MEMBERS
+:GROUP GROUP_ATTACK_HELICOPTER
+:MEMBER AIRCRAFT_MI28N_HAVOC_B
+:COUNT 5
+
+/////////////////////////////////////////////
+:KEYSITE KEYSITE_SPECIAL
+:NAME KEYSITE 6
+:TYPE LANDING_GROUND
+:AMMO_SUPPLIES 100
+:FUEL_SUPPLIES 100
+/////////////////////////////////////////////
+
+:CREATE_MEMBERS
+:GROUP GROUP_ATTACK_HELICOPTER
+:MEMBER AIRCRAFT_MI28N_HAVOC_B
+:COUNT 5
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ General campaign flags
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:FLAG_PYLONS 1
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:END
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
