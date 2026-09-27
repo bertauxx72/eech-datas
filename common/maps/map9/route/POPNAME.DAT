@@ -1,0 +1,245 @@
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:START
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Keysites
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:NAME Hafar Al Bafin
+:POPULATION_TYPE KEYSITE
+:POSITION 16726 20820  
+:ZOOM 1
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:NAME Al Qaysumah
+:POPULATION_TYPE KEYSITE
+:POSITION 29733 15375  
+:ZOOM 1
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:NAME Al Khafji
+:POPULATION_TYPE KEYSITE
+:POSITION 262795 10390 
+:ZOOM 1
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:NAME US Airport
+:POPULATION_TYPE KEYSITE
+:POSITION 110963 22045
+:ZOOM 1
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:NAME US Airbase
+:POPULATION_TYPE KEYSITE
+:POSITION 135440 16330
+:ZOOM 1
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:NAME Ahmed Al Jaber
+:POPULATION_TYPE KEYSITE
+:POSITION 185698 71570  
+:ZOOM 1
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:NAME Kuwait International
+:POPULATION_TYPE KEYSITE
+:POSITION 205140 100926
+:ZOOM 1
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:NAME Ali Al Salem
+:POPULATION_TYPE KEYSITE
+:POSITION 159055 114666
+:ZOOM 1
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:NAME Safwan
+:POPULATION_TYPE KEYSITE
+:POSITION 171214 199111 
+:ZOOM 1
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:NAME Umm Qasr
+:POPULATION_TYPE KEYSITE
+:POSITION 200144 193823 
+:ZOOM 1
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+:NAME Al Bussayyah
+:POPULATION_TYPE KEYSITE
+:POSITION 35941 192241 
+:ZOOM 1
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Towns
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+:NAME KUWAIT City
+:POPULATION_TYPE TOWN
+:POSITION 209239 113950
+:ZOOM 500
+
+:NAME Abdali
+:POPULATION_TYPE TOWN
+:POSITION 174497 192006
+:ZOOM 250
+
+:NAME Al-Dahra
+:POPULATION_TYPE TOWN
+:POSITION 203049 145293
+:ZOOM 100
+
+:NAME Al-Fuhayhîl
+:POPULATION_TYPE TOWN
+:POSITION 225000 83328
+:ZOOM 250
+
+:NAME Al-Funaytîs
+:POPULATION_TYPE TOWN
+:POSITION 224187 92535
+:ZOOM 250
+
+:NAME Al-Ahmadî
+:POPULATION_TYPE TOWN
+:POSITION 214100 86060
+:ZOOM 100
+
+:NAME Al-Jahrah
+:POPULATION_TYPE TOWN
+:POSITION 176000 111992
+:ZOOM 500
+
+:NAME Al-Khîran
+:POPULATION_TYPE TOWN
+:POSITION 251464 31148
+:ZOOM 500
+
+:NAME Al Maghãsil
+:POPULATION_TYPE TOWN
+:POSITION 218914 158411
+:ZOOM 250
+
+:NAME Al Wafrah
+:POPULATION_TYPE TOWN
+:POSITION 201185 37803
+:ZOOM 250
+
+:NAME Ar Rawdatayn
+:POPULATION_TYPE TOWN
+:POSITION 182809 169461
+:ZOOM 250
+
+:NAME As Sãlimîyah
+:POPULATION_TYPE TOWN
+:POSITION 219382 109653
+:ZOOM 250
+
+:NAME Az Zawr
+:POPULATION_TYPE TOWN
+:POSITION 238491 125997
+:ZOOM 250
+
+:NAME Doha
+:POPULATION_TYPE TOWN
+:POSITION 191640 116457
+:ZOOM 100
+
+:NAME Kãzimah
+:POPULATION_TYPE TOWN
+:POSITION 184538 122433
+:ZOOM 100
+
+:NAME Mîna 'Abd Allãh
+:POPULATION_TYPE TOWN
+:POSITION 228000 76669
+:ZOOM 250
+
+:NAME Mînã' Su'ud
+:POPULATION_TYPE TOWN
+:POSITION 250000 46433
+:ZOOM 250
+
+:NAME Shumaymah
+:POPULATION_TYPE TOWN
+:POSITION 224827 145710
+:ZOOM 250
+
+:NAME Salemy
+:POPULATION_TYPE TOWN
+:POSITION 83480 89271
+:ZOOM 250
+
+:NAME Warbash
+:POPULATION_TYPE TOWN
+:POSITION 227121 185690
+:ZOOM 100
+
+:NAME IRAQ
+:POPULATION_TYPE TOWN
+:POSITION 70329 205000
+:ZOOM 500
+
+:NAME Al Jabjud
+:POPULATION_TYPE TOWN
+:POSITION 198473 201840
+:ZOOM 100
+
+:NAME Al Kushlah
+:POPULATION_TYPE TOWN
+:POSITION 263327 181527
+:ZOOM 100
+
+:NAME Al Faw
+:POPULATION_TYPE TOWN
+:POSITION 252348 185692
+:ZOOM 250
+
+:NAME Rij Al barat
+:POPULATION_TYPE TOWN
+:POSITION 202382 195945
+:ZOOM 100
+
+:NAME Umm Qars
+:POPULATION_TYPE TOWN
+:POSITION 206104 191698
+:ZOOM 100
+
+:NAME Safwan
+:POPULATION_TYPE TOWN
+:POSITION 178511 201985
+:ZOOM 500
+
+:NAME Al Bussayyah
+:POPULATION_TYPE TOWN
+:POSITION 26359 203656
+:ZOOM 500
+
+:NAME SAUDI ARABIA
+:POPULATION_TYPE TOWN
+:POSITION 76500 12582
+:ZOOM 500
+
+:NAME Ar Ruq'î
+:POPULATION_TYPE TOWN
+:POSITION 65000 80392
+:ZOOM 250
+
+:NAME Hafar Al Bafin
+:POPULATION_TYPE TOWN
+:POSITION 20302 23055
+:ZOOM 500
+
+:NAME Ra's Al Khafji
+:POPULATION_TYPE TOWN
+:POSITION 266000 8725
+:ZOOM 500
+
+:NAME IRAN
+:POPULATION_TYPE TOWN
+:POSITION 260000 200000
+:ZOOM 500
+
+:END
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
