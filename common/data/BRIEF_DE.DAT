@@ -1,0 +1,964 @@
+:TYPE TASK_ANTI_SHIP_STRIKE
+:TEXT1
+Satellitennachricht zeigt feindlichen Flugzeugträgerverband im Kampfgebiet.
+:TEXT2
+Beim letzten Überflug befand er sich in SECTOR.
+:TEXT3
+Er muss neutralisiert werden, bevor er gegen unsere Truppen aktiv werden kann.
+:TEXT1
+Ein Höhenaufklärungseinsatz berichtet über einen neuen feindlichen Flugzeugträgerverband im Kampfgebiet.
+:TEXT2
+Zuletzt wurde er in SECTOR gesichtet.
+:TEXT3
+Er muss unbedingt sofort angegriffen werden, damit er nicht entkommen kann.
+:TEXT1
+Unsere Fernmeldetruppe berichtet von einem feindlichen Flugzeugträgerverband im Kampfgebiet.
+:TEXT2
+Die letzten Signale kamen aus SECTOR.
+:TEXT3
+Zur Aufrechterhaltung unserer Luftüberlegenheit muss er schnellstmöglich zerstört werden.
+:TEXT1
+Ein Patrouillenschiff hat per Radar einen feindlichen Flugzeugträgerverband im Kampfgebiet geortet.
+:TEXT2
+Die Radarsignale kommen aus SECTOR.
+:TEXT3
+Mit einem sofortigen Schlag können wir die feindliche Einheit treffen, bevor sie merkt, dass sie entdeckt worden ist.
+:TEXT1
+Es liegt eine elektronische Nachricht über einen feindlichen Flugzeugträgerverband auf dem Kampfschauplatz vor.
+:TEXT2
+Die Signale kommen aus SECTOR.
+:TEXT3
+Der Verband hat unseren Truppen bereits beträchtlichen Schaden zugefügt. Wir müssen sofort zuschlagen, bevor er uns noch weiter schwächen kann.
+:TEXT1
+Unser Kommunikationsnachrichtendienst meldet einen feindlichen Flugzeugträgerverband im Kampfgebiet.
+:TEXT2
+Die letzten Signale kamen aus SECTOR.
+:TEXT3
+Die Luftabwehrregeln erfordern eine unverzügliche Neutralisierung dieser Bedrohung.
+:TEXT1
+Es liegt eine Satellitennachricht über einen neuen feindlichen Flugzeugträgerverband im Kampfgebiet vor.
+:TEXT2
+Er befindet sich in SECTOR.
+:TEXT3
+Er muss neutralisiert werden, bevor er gegen unsere Truppen aktiv werden kann.
+:END
+
+:SUCCESS
+Gratulation! Diesen Flugzeugträger können wir von der Liste streichen.
+:SUCCESS
+Gut gemacht! Wir sind auf dem besten Wege, eine Überlegenheit auf See herzustellen.
+:SUCCESS
+Ihr Angriff war erfolgreich, der Flugzeugträger ist gesunken.
+:SUCCESS
+Gratulation! Wenn das so weiter geht, nennt der Feind diese Gegend bald 'Eisengrund-Sund'.
+:FAILURE
+Das Schlimmste ist, dass wegen Ihres Versagens noch mehr Kameraden im Kampfgebiet Ihr Leben lassen werden.
+:FAILURE
+Weil Sie versagt haben, kann der Feind seine Marineluftoperationen ungehindert fortsetzen.
+:FAILURE
+Angriff fehlgeschlagen - unsere Einsatzplanung wird eine fähigere Einheit mit diesem Einsatz betrauen müssen.
+:FAILURE
+Das entmutigende Ergebnis\: kaum oder gar kein Schaden am Primärziel - jetzt wird der Feind seine Kräfte erst recht mobilisieren.
+:END
+
+:TYPE TASK_BAI
+:TEXT1
+Eine Elitepatrouille hat feindliche Verstärkungstruppen beim Vormarsch an die Front gesichtet.
+:TEXT2
+Der Patrouille zufolge befindet sich der Feind in SECTOR.
+:TEXT3
+Wir müssen unverzüglich einen Feindflug starten, bevor unsere Patrouille entdeckt wird.
+:TEXT1
+Eine Elitepatrouille hat feindliche Verstärkungstruppen beim Vormarsch an die Front gesichtet.
+:TEXT2
+Der Patrouille zufolge befindet sich der Feind in SECTOR.
+:TEXT3
+Wir müssen unverzüglich einen Feindflug starten, bevor unsere Patrouille entdeckt wird.
+:TEXT1
+Von einer Aufklärungsdrohne haben wir die Information, dass der Feind seine vorderen Einheiten verstärkt.
+:TEXT2
+Sie wurden zuletzt beim Durchqueren von SECTOR gesichtet.
+:TEXT3
+Führen Sie einen sofortigen Schlag aus, bevor sich der Feind an der Frontlinie eingraben kann.
+:TEXT1
+Ein Geheimdienstmitarbeiter berichtet, dass der Feind einen Teil seiner Reserve zur Angriffsunterstützung an die Front verlegt.
+:TEXT2
+Verlässlichen Informationen zufolge formieren sich einige dieser Truppen in SECTOR.
+:TEXT3
+Wir müssen zuschlagen, bevor sie unsere vorderen Bodeneinheiten angreifen können.
+:TEXT1
+Aufklärungsfotos zeigen mobile feindliche Unterstützungseinheiten hinter der Front.
+:TEXT2
+Feindliche Reserveeinheiten befinden sich derzeit in der Umgebung von SECTOR.
+:TEXT3
+Mit einem schnellen Schlag können wir diese Truppen überraschen, bevor sie ihre Position festigen können.
+:TEXT1
+Verstärktes Signalaufkommen spricht für eine erhöhte Aktivität feindlicher Reservestaffeln.
+:TEXT2
+Die Aktivität in den rückwärtigen Gebieten des Feindes konzentriert sich in der Gegend von SECTOR.
+:TEXT3
+Mit einem sofortigen Schlag könnten wir sie überraschen.
+:TEXT1
+Der letzte Satellitenüberflug zeigt erhöhte Aktivität hinter der feindlichen Front.
+:TEXT2
+Verstärkungstruppen konzentrieren sich in der Umgebung von SECTOR.
+:TEXT3
+Wir müssen diese Einheiten angreifen, bevor unsere Information veraltet ist.
+:END
+
+:SUCCESS
+Gratulation! Eine feindliche Einheit weniger, um die sich unsere Bodentruppen kümmern müssen.
+:SUCCESS
+Exzellent ausgeführter Schlag, in den rückwärtigen Gebieten des Feindes herrscht Chaos.
+:SUCCESS
+Gut gemacht, von jetzt an wird der Feind seine Reserve nicht mehr bedenkenlos ins Gefecht schicken.
+:PARTIAL
+Dem Feind wurden zwar einige Verluste zugefügt, doch seine Kampffähigkeit ist noch nicht ausreichend geschwächt.
+:PARTIAL
+Trotz erlittener Verluste bleibt die feindliche Einheit kampffähig.
+:PARTIAL
+Die zugefügten Verluste haben die Kampfkraft des Feindes nicht sonderlich verringert.
+:FAILURE
+Der Feind bleibt unversehrt, so dass unsere Frontlinien unter Druck geraten könnten.
+:FAILURE
+Ziel verfehlt, der Feind kann sich immer noch frei durch seine rückwärtigen Gebiete bewegen.
+:FAILURE
+Angriff gescheitert, der Feind kann seine Operationen ungehindert fortsetzen.
+:END
+
+:TYPE TASK_BARCAP
+:TEXT1
+Fliegen Sie zur Aufrechterhaltung der Luftüberlegenheit über unseren Flugzeugträgern einen BARCAP-Einsatz in der Umgebung von SECTOR.
+:TEXT2
+:TEXT3
+:TEXT1
+Fliegen Sie zur Neutralisierung feindlicher Luftaktivitäten gegen unsere Flugzeugträger einen BARCAP-Einsatz in der Umgebung von SECTOR.
+:TEXT2
+:TEXT3
+:END
+
+:SUCCESS
+Einsatz erfolgreich - feindliche Luftfahrzeuge konnten nicht auf diesen Bildschirm vordringen.
+:FAILURE
+Sie haben zugelassen, dass sich eine erhebliche feindliche Bedrohung in diesem Sektor bildet.
+:END
+:TYPE TASK_BDA
+:TEXT1
+Verbündete Luftfahrzeuge haben soeben Schläge gegen feindliche Ziele in der Umgebung von SECTOR ausgeführt.
+:TEXT2
+:TEXT3
+Unsere Operationszentrale verlangt unverzüglich Informationen über den Erfolg dieses Schlags.
+:TEXT1
+In der Umgebung von SECTOR wurden Luftangriffe gegen den Feind gestartet.
+:TEXT2
+:TEXT3
+Unsere Zielplaner benötigen exakte Informationen über die aktuelle Kampffähigkeit des Feindes in diesem Gebiet.
+:TEXT1
+Unsere Luftoffensive wurde mit Schlägen gegen Ziele in SECTOR fortgesetzt.
+:TEXT2
+:TEXT3
+Unser Oberkommando benötigt unverzüglich genaue Informationen über diesen Einsatz.
+:TEXT1
+Offensive Luftfahrzeuge haben soeben Ziele in SECTOR getroffen.
+:TEXT2
+:TEXT3
+Wir müssen wissen, ob die feindliche Bedrohung in diesem Gebiet neutralisiert wurde.
+:TEXT1
+Im Zuge unserer Luftoffensive wurden feindliche Ziele in der Umgebung von SECTOR getroffen.
+:TEXT2
+:TEXT3
+Wir benötigen sofort eine Zielschadenauswertung.
+:TEXT1
+In SECTOR wurden offensive Luftoperationen gegen feindliche Truppen gestartet.
+:TEXT2
+:TEXT3
+In SECTOR wurden offensive Luftoperationen gegen feindliche Truppen gestartet. Wir brauchen dringend die Bestätigung, dass der Feind in diesem Gebiet kampfunfähig ist.
+:TEXT1
+Verbündete Luftfahrzeuge haben soeben einen Schlag gegen KEYSITE in SECTOR geführt.
+:TEXT2
+:TEXT3
+Unsere Operationszentrale benötig unverzüglich Informationen über den Erfolg dieses Schlags.
+:END
+
+:SUCCESS
+Gut gemacht - jetzt hat unser Nachrichtendienst die benötigten Informationen.
+:SUCCESS
+Einsatz erfolgreich ausgeführt, Operationsdaten wurden aktualisiert.
+:SUCCESS
+Einsatz erfolgreich, Ihre Daten stimmen mit denen des am Angriff beteiligten Piloten überein. Neue Einsätze können jetzt entsprechend geplant werden.
+:FAILURE
+Erfolglos! Folgeeinsätze wurden mangels benötigter Informationen abgebrochen.
+:FAILURE
+Erfolglos! Zusätzliche Luftfahrzeuge müssen für diesen Einsatz abgestellt werden.
+:FAILURE
+Erfolglos! Andere Luftfahrzeuge müssen diesen Einsatz nun unterstützen.
+:END
+
+:TYPE TASK_CLOSE_AIR_SUPPORT
+:TEXT1
+Vorgezogene Horchposten berichten von einer Konzentrierung des Feindes für einen Angriff.
+:TEXT2
+Der Feind sammelt sich entlang der Front in SECTOR.
+:TEXT3
+Zur Vereitelung eines potenziell kritischen Durchbruchs muss unverzüglich ein Schlag geführt werden.
+:TEXT1
+Unsere Fronteinheiten geraten durch feindliche Panzer immer stärker unter Druck.
+:TEXT2
+Die schwersten Kämpfe ereignen sich derzeit in der Umgebung von SECTOR.
+:TEXT3
+Die feindlichen Panzer müssen aufgehalten werden, bevor sie unsere vorderen Stellungen durchbrechen.
+:TEXT1
+Unsere Fronteinheiten sind nicht in der Lage, feindliche Panzerverbände zu neutralisieren.
+:TEXT2
+Am kritischsten ist die Lage in der Umgebung von SECTOR.
+:TEXT3
+Die Lage kann nur durch einen schnellen Luftschlag entschärft werden.
+:TEXT1
+Die Front befindet sich unter schwerem Beschuss durch feindliche Panzer.
+:TEXT2
+Die schlimmste Bedrohung kommt aus einem Gebiet in der Umgebung von SECTOR.
+:TEXT3
+Führen Sie sofort einen Luftschlag durch, um weitere Verluste zu verhindern.
+:TEXT1
+Bodentruppen berichten von verstärkter feindlicher Aktivität an der Front.
+:TEXT2
+Es kommt zu einer Konzentration feindlicher Panzer in SECTOR.
+:TEXT3
+Unsere Verluste nehmen stark zu. Zur Entlastung ist ein sofortiger Luftschlag notwendig.
+:TEXT1
+Unsere vorderen Einheiten erleiden schwere Verluste durch feindliche Panzer.
+:TEXT2
+Das schwerste feindliche Feuer kommt aus SECTOR.
+:TEXT3
+Eliminieren Sie die Panzer, bevor unsere Bodentruppen zum Rückzug gezwungen werden.
+:TEXT1
+Vorgezogene Patrouillen berichten von einem Rückzug des Feindes.
+:TEXT2
+Eine große Kolonne bewegt sich derzeit in der Umgebung von SECTOR.
+:TEXT3
+Nehmen Sie sie unter Beschuss, bevor der Feind eine neue Verteidigungslinie errichten kann.
+:TEXT1
+Unsere Fronteinheiten berichten von einem erheblichen Rückgang des feindlichen Feuers.
+:TEXT2
+Am ruhigsten ist die Front in der Umgebung von SECTOR.
+:TEXT3
+Mit einem sofortigen Schlag rauben wir dem Feind die Möglichkeit, seine im Rückzug befindlichen Einheiten zu reorganisieren.
+:TEXT1
+Aufklärungseinheiten berichten, dass der Feind seine Front zu festigen versucht.
+:TEXT2
+Feindliche Panzer befinden sich auf dem Rückzug durch SECTOR.
+:TEXT3
+Wir müssen diese Panzer vernichten, bevor sie ihre neue Stellung erreichen.
+:END
+
+:SUCCESS
+Großartig! Sehen Sie sich die Erleichterung unserer Bodentruppen an.
+:SUCCESS
+Feindliche Formation vollständig neutralisiert, die Gefahr in diesem Gebiet ist gebannt.
+:SUCCESS
+Ziel zerstört, feindliche Operation abgebrochen.
+:SUCCESS
+Sehr gute Arbeit! Unsere Bodentruppen berichten nur noch von brennenden Panzern.
+:PARTIAL
+Trotz erlittener Verluste hält die feindliche Einheit ihre Stellung an der Front.
+:PARTIAL
+Die zugefügten Verluste reichen nicht aus, den Feind an einer Fortführung seiner Operation zu hindern.
+:PARTIAL
+Bodentruppen berichten immer noch über kampffähige feindliche Panzer.
+:PARTIAL
+Feindliche Panzer sind immer noch in der Gegend aktiv. Sie müssen einige verfehlt haben!
+:FAILURE
+Unsere Bodentruppen liefern keine Berichte über eine Eindämmung der feindlichen Operation.
+:FAILURE
+Bodentruppen berichten über steigende Verluste durch immer noch im Kampfgebiet befindliche feindliche Panzer.
+:FAILURE
+Der Feind setzt seine Operation unbeeindruckt von Ihren Aktionen fort.
+:FAILURE
+Die Bedrohung durch feindliche Panzer in diesem Gebiet bleibt nach wie vor groß. Wir müssen unsere Planung entsprechend anpassen.
+:END
+
+:TYPE TASK_COMBAT_AIR_PATROL
+:TEXT1
+Der Feind muss an der Störung unserer Luftabwehroperationen gehindert werden.
+:TEXT2
+:TEXT3
+Fliegen Sie einen CAP-Einsatz in der Umgebung von SECTOR zur Verteidigung unserer Luftunterstützungsmittel in diesem Gebiet.
+:TEXT1
+Die Luftüberlegenheit über der Kampfzone erfordert die Aufrechterhaltung der Kontrolle über den eigenen Luftraum.
+:TEXT2
+:TEXT3
+Fliegen Sie zur Sicherung unserer Stützpunkte einen CAP-Einsatz in der Umgebung von SECTOR.
+:TEXT1
+Es spricht einiges dafür, dass der Feind seine Luftabwehrmaßnahmen verstärkt.
+:TEXT2
+:TEXT3
+Fliegen Sie zur Neutralisierung feindlicher Angriffe einen CAP-Einsatz in der Umgebung von SECTOR.
+:TEXT1
+Es herrscht Besorgnis, dass unsere Luftstützpunkte anfällig für feindliche Angriffe sein könnten.
+:TEXT2
+:TEXT3
+In der Umgebung von SECTOR muss ein CAP-Einsatz geflogen werden.
+:TEXT1
+Anzeichen für erhöhte Aktivität feindlicher Lufteinheiten.
+:TEXT2
+:TEXT3
+Unsere Luftstützpunkte in der Umgebung von SECTOR benötigen Schutz in Form eines CAP-Einsatzes.
+:TEXT1
+Das Vordringen feindlicher Luftfahrzeuge in unseren Luftraum muss verhindert werden.
+:TEXT2
+:TEXT3
+Fliegen Sie einen CAP-Einsatz im Gebiet von SECTOR um die feindliche Bedrohung im Keim zu ersticken.
+:END
+
+:SUCCESS
+Einsatz erfolgreich - feindliche Luftfahrzeuge konnten nicht auf diesen Bildschirm vordringen.
+:FAILURE
+In diesem Sektor konnte sich eine erhebliche feindliche Bedrohung entwickeln.
+:END
+:TYPE TASK_ESCORT
+:TEXT1
+:TEXT2
+Verbündete Luftfahrzeuge fliegen einen wichtigen Einsatz nach SECTOR.
+:TEXT3
+Wir müssen den Feind unbedingt an einer Störung dieses Einsatzes hindern. Unsere Luftfahrzeuge benötigen daher Begleitschutz.
+:TEXT1
+:TEXT2
+Verbündete Luftfahrzeuge befinden sich auf dem Weg zu einem Einsatz nach SECTOR.
+:TEXT3
+Um Verluste weitestgehend auszuschließen, haben wir Begleitschutz für diesen Einsatz vorgesehen.
+:TEXT1
+:TEXT2
+Verbündete Luftfahrzeuge befinden sich im Einsatz gegen SECTOR.
+:TEXT3
+Unser Nachrichtendienst berichtet, dass der Feind diesen Sektor als Schlüsselgebiet betrachtet. Unser Einsatz benötigt daher Begleitschutz.
+:TEXT1
+:TEXT2
+Wir führen einen Luftschlag gegen SECTOR.
+:TEXT3
+Wir müssen den Feind unbedingt an einer Störung dieses Einsatzes hindern. Unsere Luftfahrzeuge benötigen daher Begleitschutz.
+:TEXT1
+:TEXT2
+Wir starten gerade eine Schlüsseloffensive gegen Ziele in der Umgebung von SECTOR.
+:TEXT3
+Zur Absicherung gegen feindliche Abfangjäger benötigen unsere Luftfahrzeuge Begleitschutz.
+:TEXT1
+:TEXT2
+Verbündete Luftfahrzeuge sollen Ziele in der Umgebung von SECTOR angreifen.
+:TEXT3
+Auf Grund von Aktivitäten feindlicher Luftfahrzeuge im betroffenen Gebiet benötigt unser Einsatz Begleitschutz.
+:TEXT1
+:TEXT2
+Wir starten gerade einen Unterstützungseinsatz gegen SECTOR.
+:TEXT3
+Es wird Begleitschutz benötigt, damit unsere Luftfahrzeuge ihren Einsatz ungehindert ausführen können.
+:TEXT1
+:TEXT2
+Verbündete Luftfahrzeuge führen Operationen in Richtung SECTOR durch.
+:TEXT3
+Da der Feind erst kürzlich in diesem Gebiet aktiv war, benötigen unsere Luftfahrzeuge Begleitschutz.
+:TEXT1
+:TEXT2
+Wir befinden uns gerade auf einem Unterstützungseinsatz nach SECTOR.
+:TEXT3
+Wir müssen den Feind unbedingt an einer Störung der Einsätze im von uns kontrollierten Luftraum hindern und brauchen daher Begleitschutz.
+:TEXT1
+:TEXT2
+Unsere Unterstützungsluftfahrzeuge fliegen gerade einen Einsatz nach SECTOR.
+:TEXT3
+Zur Bewahrung der Luftüberlegenheit in unseren rückwärtigen Gebieten benötigen unsere Luftfahrzeuge Begleitschutz.
+:TEXT1
+:TEXT2
+Verbündete Luftfahrzeuge fliegen gerade einen Einsatz nach SECTOR.
+:TEXT3
+Zur Aufrechterhaltung der Kontrolle über unsere Luftkorridore versehen wir diesen Einsatz mit Begleitschutz.
+:TEXT1
+:TEXT2
+Verbündete Luftfahrzeuge führen Operationen in Richtung SECTOR durch.
+:TEXT3
+Unser Nachrichtendienst berichtet, dass der Feind unsere Luftkorridore abriegeln will. Der Einsatz benötigt Begleitschutz.
+:END
+
+:SUCCESS
+Gute Arbeit! Die begleiteten Luftfahrzeuge haben ihr Operationsziel sicher erreicht.
+:SUCCESS
+Gut gemacht! Der Einsatzkommandeur bedankt sich für den Begleitschutz.
+:SUCCESS
+Gute Leistung, der Feind kann unsere Operation nicht stoppen.
+:SUCCESS
+Einsatz erfolgreich beendet, Operationen können plangemäß fortgesetzt werden.
+:FAILURE
+Was für ein Chaos! Wo bleiben Sie denn?
+:FAILURE
+Ihr Scheitern bei der Sicherung des Luftkorridors zwingt uns zu erhöhter Luftabwehraktivität.
+:FAILURE
+Da der Begleitschutz bei unseren Angriffen versagt hat, haben wir unnötige Verluste erlitten und müssen unsere Operationen entsprechend anpassen.
+:FAILURE
+Aufgrund Ihrer schwachen Vorstellung haben wir untragbare Verluste erlitten.
+:END
+
+:TYPE TASK_GROUND_STRIKE
+:TEXT1
+Der Aufklärungseinsatz gegen SECTOR hat einige interessante Informationen zu Tage gefördert.
+:TEXT2
+Fotoanalysen zeigen eine erhöhte feindliche Aktivität in diesem Gebiet.
+:TEXT3
+Deshalb muss folgendes Ziel in diesem Sektor zerstört werden\: KEYSITE
+:TEXT1
+Ein erfolgreicher Aufklärungsfeindflug im Gebiet von SECTOR brachte entscheidende Informationen.
+:TEXT2
+Die Einsatzauswertung der Piloten zeigt, dass es sich um ein äußerst wichtiges Gebiet für den Feind handelt.
+:TEXT3
+Wir können ihn empfindlich treffen, wenn wir folgendes Objekt neutralisieren\: KEYSITE.
+:TEXT1
+Der Aufklärungseinsatz gegen SECTOR hat einige interessante Informationen zu Tage gefördert.
+:TEXT2
+Unsere Einsatzplanung ist sehr erfreut über die Aufklärungsergebnisse in der Umgebung von SECTOR.
+:TEXT3
+Die Datenanalyse zeigt, dass die gegnerischen Pläne durch einen gezielten Schlag empfindlich gestört werden dürften. Daher starten wir unverzüglich einen Angriff gegen folgendes Schlüsselobjekt in diesem Gebiet\: KEYSITE
+:TEXT1
+Der Aufklärungseinsatz hat einige interessante Informationen zu Tage gefördert.
+:TEXT2
+Ein Aufklärungsfeindflug ist soeben aus SECTOR zurückgekehrt.
+:TEXT3
+Die gelieferten Informationen lassen den Schluss zu, dass es sich um eine äußerst wichtige Einrichtung handelt. Wir führen daher unverzüglich einen Schlag gegen folgendes Schlüsselobjekt\: KEYSITE
+:TEXT1
+Der Aufklärungseinsatz hat einige interessante Informationen zu Tage gefördert.
+:TEXT2
+Wir erhalten soeben Informationen von einem Aufklärungseinsatz in der Umgebung von SECTOR.
+:TEXT3
+Die Auswertung zeigt, dass es sich um eine wichtige Einrichtung des Feindes handelt. Wir können seine Siegchancen erheblich mindern, wenn wir folgendes Schlüsselobjekt zerstören\: KEYSITE.
+:TEXT1
+Der Aufklärungseinsatz gegen SECTOR hat einige interessante Informationen zu Tage gefördert.
+:TEXT2
+Die Aufklärungsergebnisse aus SECTOR sind soeben eingetroffen.
+:TEXT3
+Eine Analyse aller Daten zeigt, dass diese Region wichtiger ist als ursprünglich angenommen. Wir greifen daher ohne Verzögerung folgendes Schlüsselobjekt an\: KEYSITE
+:END
+
+:SUCCESS
+Einsatz erfolgreich, feindliche Siegchancen erheblich vermindert.
+:SUCCESS
+Ziel vernichtet - hier haben wir in nächster Zeit Ruhe!
+:SUCCESS
+Exzellent ausgeführter Schlag - Ziel zerstört, Operationen können wie geplant fortgesetzt werden.
+:SUCCESS
+Eine Einrichtung weniger, über die sich unsere Zielplaner den Kopf zerbrechen müssen!
+:PARTIAL
+Ziel bleibt in Betrieb, es werden weitere Einsätze zur Erledigung der Aufgabe benötigt.
+:PARTIAL
+Einrichtung leicht beschädigt, aber noch nicht außer Betrieb.
+:PARTIAL
+Keine entscheidenden Treffer gelandet, feindliche Operationen gehen weiter.
+:PARTIAL
+Einrichtung bleibt trotz erlittener Schäden in Betrieb.
+:FAILURE
+Ich schlage vor, wir versuchen es noch einmal.
+:FAILURE
+Schlag erfolglos, feindliche Operationen gehen unvermindert weiter.
+:FAILURE
+Einrichtung bleibt intakt. Weil Sie versagt haben, müssen wir weitere Angriffe planen.
+:FAILURE
+Kaum oder kein Schaden am Zielobjekt - Ihr Einsatz war ein kompletter Misserfolg.
+:END
+
+:TYPE TASK_OCA_STRIKE
+:TEXT1
+:TEXT2
+Die Eroberung von SECTOR bedeutet einen schweren Rückschlag für uns.
+:TEXT3
+Wir müssen diese Situation schnellstmöglich durch einen OCA-Schlag revidieren.
+:TEXT1
+:TEXT2
+Wir machen uns große Sorgen wegen der Eroberung von SECTOR durch den Feind.
+:TEXT3
+Die feindlichen Truppen müssen durch einen OCA-Schlag ausgeschaltet werden, bevor sie aus ihrem Erfolg Kapital schlagen können.
+:END
+
+:SUCCESS
+Schlag erfolgreich - feindliche Luftfahrzeuge am Boden neutralisiert.
+:FAILURE
+Schlag erfolglos - feindliche Luftoperationen gehen ungehindert weiter.
+:END
+
+:TYPE TASK_OCA_SWEEP
+:TEXT1
+:TEXT2
+Die Besetzung von SECTOR durch den Feind bedeutet eine ernsthafte Störung unserer Luftoperationen.
+:TEXT3
+Zur Unterstützung des Schlags gegen diese Truppe ist eine OCA-Patrouille erforderlich.
+:TEXT1
+:TEXT2
+Die Eroberung von SECTOR bedeutet einen schweren Rückschlag für uns.
+:TEXT3
+Zur Maximierung der Erfolgsaussichten eines OCA-Schlags gegen den Feind benötigen unsere angreifenden Luftfahrzeuge die Unterstützung einer begleitenden OCA-Patrouille.
+:TEXT1
+:TEXT2
+Wir machen uns große Sorgen wegen der Eroberung von SECTOR durch den Feind.
+:TEXT3
+Verschaffen Sie sich mit einer OCA-Patrouille die Luftüberlegenheit über das Gebiet, damit unsere angreifenden Luftfahrzeuge den Gegner ungestört von feindlichen Abfangjägern neutralisieren können.
+:END
+
+:SUCCESS
+OCA-Patrouille erfolgreich - unsere Luftfahrzeuge haben das Zielgebiet erreicht.
+:FAILURE
+OCA-Patrouille fehlgeschlagen - der Feind konnte unsere Luftfahrzeuge schon vor Beginn des Angriffs abfangen.
+:END
+
+:TYPE TASK_RECON
+:TEXT1
+Unsere Satellitensensoren verzeichnen in letzter Zeit verstärkte Aktivität in der Umgebung von SECTOR.
+:TEXT2
+Wir müssen mit Hilfe eines Aufklärungseinsatzes klären, was dahinter steckt.
+:TEXT3
+:TEXT1
+Durch Funkabhörmaßnahmen ist ans Licht gekommen, dass der Feind seine Aktivitäten in SECTOR erheblich verstärkt hat.
+:TEXT2
+Bevor wir etwas dagegen unternehmen können, benötigt unsere Einsatzplanung genauere Informationen.
+:TEXT3
+:TEXT1
+Wir haben ungewöhnlich hohes Funkverkehrsaufkommen in SECTOR festgestellt.
+:TEXT2
+Wir müssen einen Aufklärungseinsatz in dieses Gebiet starten, um hinter die Absichten des Feindes zu kommen.
+:TEXT3
+:TEXT1
+Unsere Infrarotsensoren melden überraschende Aktivitäten in der Umgebung von SECTOR.
+:TEXT2
+Bevor wir dieses Ziel in unsere Liste aufnehmen, brauchen wir exakte Informationen durch einen Aufklärungseinsatz in dieses Gebiet.
+:TEXT3
+:TEXT1
+Eine große Staubkolonne bewegt sich durch SECTOR.
+:TEXT2
+Mit einem Aufklärungseinsatz müssen wir herausfinden, was dahinter steckt.
+:TEXT3
+:TEXT1
+Bewegungsmelder haben scheinbar einen Verband feindlicher Fahrzeuge in der Umgebung von SECTOR ausgemacht.
+:TEXT2
+Es wurde ein Aufklärungseinsatz angeordnet, um genaue Informationen über die entdeckte feindliche Einheit zu erhalten.
+:TEXT3
+:TEXT1
+Funkabhörmaßnahmen haben ergeben, dass feindliche Panzer in der Umgebung von SECTOR unterwegs sind.
+:TEXT2
+Bevor wir sie angreifen, ist ein Aufklärungseinsatz zur Ermittlung der exakten Position des Feindes erforderlich.
+:TEXT3
+:TEXT1
+Eine ECM-Einheit hat zahlreiche Signale in der Umgebung von SECTOR geortet.
+:TEXT2
+Bevor wir einen Schlag in dieser Region ausführen, ist ein Aufklärungseinsatz zur Ermittlung der feindlichen Flugabwehrkapazitäten erforderlich.
+:TEXT3
+:TEXT1
+Ein soeben durchgeführter Höhenaufklärungseinsatz zeigt zahlreiche Aufschaltungsversuche des Feindes aus SECTOR.
+:TEXT2
+Wir benötigen einen Tiefaufklärungseinsatz um festzustellen, ob der Feind seine Flugabwehranlagen in diesem Gebiet verstärkt hat.
+:TEXT3
+:TEXT1
+Eine feindliche Pioniereinheit wurde in SECTOR gesichtet.
+:TEXT2
+Unser Oberkommando ist besorgt, dass der Feind einen neuen Flugabwehrstandort einrichtet. Es wurde ein Aufklärungseinsatz zur Beschaffung weiterer Informationen angeordnet.
+:TEXT3
+:TEXT1
+Eine feindliche Pioniereinheit wurde in SECTOR gesichtet.
+:TEXT2
+Wir brauchen dringend genaue Informationen über den Anlass dafür.
+:TEXT3
+:TEXT1
+Ein Höhenaufklärungseinsatz berichtet von turbulenten Aktivitäten im Gebiet von SECTOR.
+:TEXT2
+Unser Nachrichtendienst benötigt weitere Informationen darüber und hat einen Tiefaufklärungseinsatz in das Gebiet angefordert.
+:TEXT3
+:TEXT1
+Aus einem Geheimdienstbericht geht hervor, dass das Gebiet in der Umgebung von SECTOR der Führung des Feindes Kopfzerbrechen bereitet.
+:TEXT2
+Wir benötigen weitere Informationen darüber und haben daher einen Aufklärungseinsatz in dieses Gebiet angeordnet.
+:TEXT3
+:TEXT1
+Eine Elitepatrouille berichtet von einem erheblichen Anstieg feindlicher Aktivitäten in der Umgebung von SECTOR.
+:TEXT2
+Wir müssen herausfinden, ob der Feind seine Einrichtungen in diesem Gebiet aufrüstet.
+:TEXT3
+:TEXT1
+Der Feind hat die Region in der Umgebung von SECTOR soeben für Journalisten gesperrt.
+:TEXT2
+Wir müssen einen Aufklärungsflug in das Gebiet starten um herauszufinden, ob dies mit den Anlagen in der Gegend zusammenhängt.
+:TEXT3
+:TEXT1
+Unsere Einsatzplanung benötigt aktuelle Informationen über den Status der feindlichen Einrichtungen in SECTOR.
+:TEXT2
+Es wurde ein Aufklärungseinsatz in das Gebiet angeordnet.
+:TEXT3
+:TEXT1
+Wir sind nicht sicher, ob die Einrichtungen des Feindes in SECTOR noch in Betrieb sind.
+:TEXT2
+Wir benötigen einen Aufklärungseinsatz zur Beschaffung der nötigen Informationen.
+:TEXT3
+:END
+
+:SUCCESS
+Gute Arbeit, unsere Einsatzplanung macht bereits von den neuen Informationen Gebrauch.
+:SUCCESS
+Einsatz erfolgreich - wir kennen jetzt die Absichten des Feindes in diesem Gebiet und können entsprechend planen.
+:SUCCESS
+Gut gemacht - Sie haben ein weiteres Stück im Geheimdienstpuzzle gefunden.
+:SUCCESS
+Wir haben überaus wichtige Informationen erhalten und können unsere Planung jetzt entsprechend anpassen.
+:FAILURE
+Ihr Scheitern führt zu einer Verringerung der Effektivität unserer Luftoperationen mangels genauer Informationen.
+:FAILURE
+Weil Sie versagt haben, mussten Folgeeinsätze aus Mangel an exakten Zielinformationen abgebrochen werden.
+:FAILURE
+Der Feind kann seine Operationen in diesem Gebiet ungehindert fortsetzen, weil wir keine Informationen über seine Kapazitäten haben.
+:FAILURE
+Der Feind bleibt in Sicherheit, weil Ihre Aufklärungsversuche gescheitert sind.
+:END
+
+:TYPE TASK_REPAIR
+:TEXT1
+:TEXT2
+Zur Beibehaltung des Tempos unser Operationen müssen Pioniere zur Reparatur von Anlagen in SECTOR transportiert werden.
+:TEXT3
+:TEXT1
+:TEXT2
+Beschädigte Einrichtungen in der Umgebung von SECTOR haben operative Probleme zur Folge. Es werden daher dringend Pioniere in diesem Gebiet benötigt.
+:TEXT3
+:TEXT1
+:TEXT2
+Transportieren Sie Pioniere nach SECTOR, damit unsere Kampfkraft nicht durch beschädigte Einrichtungen gemindert wird.
+:TEXT3
+:END
+
+:SUCCESS
+Anlage wieder in Betrieb - Einsätze können wie geplant fortgesetzt werden.
+:FAILURE
+Anlage bleibt außer Betrieb, unsere Kampfkraft ist verringert.
+:END
+
+:TYPE TASK_SEAD
+:TEXT1
+Fotoanalysen zeigen einen Ausbau der feindlichen Flugabwehranlagen.
+:TEXT2
+Die meisten Aktivitäten laufen in der Umgebung von SECTOR.
+:TEXT3
+Zur Beherrschung des Luftraums in dieser Region müssen die Flugabwehranlagen unterdrückt werden.
+:TEXT1
+Radarauswertungen zeigen eine erhöhte Aktivität feindlicher Flugabwehranlagen.
+:TEXT2
+Eine der Anlagen befindet sich in SECTOR.
+:TEXT3
+Zur Aufrechterhaltung unserer Luftabwehrkapazitäten müssen diese Flugabwehranlagen zerstört werden.
+:TEXT1
+Ein Aufklärungseinsatz brachte Hinweise auf eine erhöhte Flugabwehrkapazität des Feindes.
+:TEXT2
+Diese konzentriert sich in der Umgebung von SECTOR.
+:TEXT3
+Da Luftabwehroperationen ein entscheidender Faktor auf dem Gefechtsfeld sind, benötigen wir einen SEAD-Einsatz.
+:TEXT1
+Abhörmaßnahmen deuten auf eine zunehmende Aktivität der feindlichen Flugabwehranlagen hin.
+:TEXT2
+Eines der aktivsten Zentren ist SECTOR.
+:TEXT3
+Wir können eine Störung unserer Luftangriffe durch feindliche Flugabwehrsysteme nicht zulassen und haben daher einen SEAD-Einsatz angeordnet.
+:TEXT1
+Elektronische Nachrichten lassen den Schluss zu, dass der Feind seine Luftabwehrmaßnahmen verstärkt.
+:TEXT2
+Er legt besonderes Augenmerk auf den Schutz der Region in der Umgebung von SECTOR.
+:TEXT3
+Zur Erlangung der Kontrolle über den Luftraum in diesem Gebiet müssen diese Anlagen zerstört werden.
+:TEXT1
+Unser Kommunikationsnachrichtendienst bestätigt den weiteren Ausbau der feindlichen Flugabwehrmaßnahmen.
+:TEXT2
+Besonders befestigte Verteidigungsanlagen befinden sich in der Umgebung von SECTOR.
+:TEXT3
+Wenn wir erfolgreiche Schläge in diesem Gebiet ausführen wollen, müssen wir zunächst die Flugabwehranlagen eliminieren.
+:END
+
+:SUCCESS
+Feindliche Flugabwehranlagen unterdrückt - Schläge können jetzt in dieser Region ausgeführt werden.
+:SUCCESS
+Bedrohung durch feindliche Flugabwehr ausreichend verringert - wir können mit Luftangriffen in dem Gebiet beginnen.
+:SUCCESS
+Gratulation, feindliche Flugabwehrkapazität in diesem Gebiet wurde neutralisiert.
+:SUCCESS
+Gratulation, feindliche Flugabwehrkapazität in diesem Gebiet wurde neutralisiert.
+:PARTIAL
+Trotz einiger Treffer stellen die feindlichen Flugabwehranlagen immer noch eine erhebliche Bedrohung für unsere Luftfahrzeuge dar. Es sind weitere Einsätze zur Unterdrückung dieses Ziels notwendig.
+:PARTIAL
+Beschädigungen reichen für eine Neutralisierung der feindlichen Flugabwehrmaßnahmen in dieser Region nicht aus. Wir werden einen Folgeeinsatz starten müssen.
+:PARTIAL
+Trotz erlittener Verluste bleibt die Flugabwehreinheit aktiv und hält unsere Luftfahrzeuge von Angriffen in diesem Gebiet ab.
+:PARTIAL
+Flugabwehrsystem ist noch in Betrieb - Angriffe in diesem Gebiet können erst nach vollständiger Zerstörung des Systems gestartet werden.
+:FAILURE
+Feindliche Flugabwehranlagen bleiben unbeeinträchtigt - wir müssen Luftfahrzeuge von anderen Unternehmen abziehen um dieser Bedrohung Herr zu werden.
+:FAILURE
+Keine Verringerung der Bedrohung durch Flugabwehranlagen in diesem Gebiet - Angriffe werden heruntergefahren, bis das Problem gelöst ist.
+:FAILURE
+Feindliches Flugabwehrsystem bleibt voll in Betrieb - Einsatz auf der ganzen Linie gescheitert.
+:FAILURE
+Feindliche Flugabwehrmaßnahmen laufen immer noch auf Hochtouren und hindern unsere Luftfahrzeuge daran, zum Angriff in diesen Luftraum vorzudringen.
+:END
+
+:TYPE TASK_SUPPLY
+:TEXT1
+:TEXT2
+Verbündete Truppen in SECTOR benötigen neuen Nachschub.
+:TEXT3
+:TEXT1
+:TEXT2
+Zur Aufrechterhaltung unserer Operationen muss sofort ein Nachschub-Einsatz nach SECTOR geflogen werden.
+:TEXT3
+:TEXT1
+:TEXT2
+Infolge erhöhter Aktivität in der Umgebung von SECTOR benötigen unsere Truppen dringend Nachschub.
+:TEXT3
+:END
+
+:SUCCESS
+Logistische Voraussetzungen erfüllt - Operationen können unvermindert fortgesetzt werden.
+:FAILURE
+Nachschub wurde nicht in ausreichender Menge geliefert, unsere Einsätze mussten daher entsprechend heruntergefahren werden.
+:END
+
+:TYPE TASK_TRANSFER_HELICOPTER
+:TEXT1
+:TEXT2
+Unser Nachrichtendienst meldet erhöhte feindliche Aktivität in Richtung SECTOR.
+:TEXT3
+Fliegen Sie zur Verstärkung unserer Einheiten einen Transfer-Einsatz in dieses Gebiet.
+:TEXT1
+:TEXT2
+Aus operativen Gründen benötigen wir mehr Luftfahrzeuge in SECTOR.
+:TEXT3
+Fliegen Sie sofort einen Transfer-Einsatz in dieses Gebiet.
+:TEXT1
+:TEXT2
+Unsere Einheiten in der Umgebung von SECTOR haben Unterstützung angefordert.
+:TEXT3
+Ein Transfer-Einsatz in diese Region ist erforderlich.
+:TEXT1
+:TEXT2
+Unsere Einsatzplanung fordert mehr Luftfahrzeuge in SECTOR.
+:TEXT3
+Ein Transfer-Einsatz in diese Region ist daher erforderlich.
+:TEXT1
+:TEXT2
+Unser Nachrichtendienst meldet erhöhte feindliche Aktivität in Richtung SECTOR.
+:TEXT3
+Verstärken Sie unsere Einheiten durch einen Transfer-Einsatz mit folgendem Ziel\: KEYSITE.
+:END
+
+:SUCCESS
+Luftfahrzeuge erfolgreich überführt - Operationen können plangemäß fortgesetzt werden.
+:FAILURE
+Luftfahrzeuge wurden nicht überführt - unsere Kampfkraft in dieser Region reicht für eine unbeeinträchtigte Fortsetzung der Kampagne nicht aus.
+:END
+
+:TYPE TASK_TRANSFER_FIXED_WING
+:TEXT1
+:TEXT2
+Unser Nachrichtendienst meldet erhöhte feindliche Aktivität in Richtung SECTOR.
+:TEXT3
+Fliegen Sie zur Verstärkung unserer Einheiten einen Transfer-Einsatz in dieses Gebiet.
+:TEXT1
+:TEXT2
+Aus operativen Gründen benötigen wir mehr Luftfahrzeuge in SECTOR.
+:TEXT3
+Fliegen Sie sofort einen Transfer-Einsatz in dieses Gebiet.
+:TEXT1
+:TEXT2
+Unsere Einheiten in der Umgebung von SECTOR haben Unterstützung angefordert.
+:TEXT3
+Ein Transfer-Einsatz in diese Region ist daher erforderlich.
+:TEXT1
+:TEXT2
+Unsere Einsatzplanung fordert mehr Luftfahrzeuge in SECTOR.
+:TEXT3
+Ein Transfer-Einsatz in diese Region ist daher erforderlich.
+:TEXT1
+:TEXT2
+Unser Nachrichtendienst meldet erhöhte feindliche Aktivität in Richtung SECTOR.
+:TEXT3
+Verstärken Sie unsere Einheiten durch einen Transfer-Einsatz mit folgendem Ziel\: KEYSITE.
+:END
+:SUCCESS
+Luftfahrzeuge erfolgreich überführt - Operationen können plangemäß fortgesetzt werden.
+:FAILURE
+Luftfahrzeuge wurden nicht überführt - unsere Kampfkraft in dieser Region reicht für eine unbeeinträchtigte Fortsetzung der Kampagne nicht aus.
+:END
+
+:TYPE TASK_TROOP_INSERTION
+:TEXT1
+:TEXT2
+Um aus unserem Erfolg gegen Ziele in der Umgebung von SECTOR Kapital zu schlagen brauchen wir Bodentruppen zur Sicherung der Stellung.
+:TEXT3
+Fliegen Sie sofort einen Truppeneinflug-Einsatz.
+:TEXT1
+:TEXT2
+Die feindlichen Verteidigungsanlagen in SECTOR wurden so weit beschädigt, dass wir Infanterietruppen in das Gebiet entsenden können.
+:TEXT3
+Wir benötigen einen sofortigen Truppeneinflug-Einsatz.
+:TEXT1
+:TEXT2
+Nach erfolgreicher Neutralisierung der feindlichen Truppen in der Umgebung von SECTOR können wir jetzt Bodentruppen stationieren um die Schwäche des Gegners auszunutzen.
+:TEXT3
+Wir benötigen einen sofortigen Truppeneinflug-Einsatz in das Zielgebiet.
+:TEXT1
+:TEXT2
+Die feindlichen Verteidigungsanlagen in SECTOR wurden zerstört.
+:TEXT3
+Zur Aufrechterhaltung unseres Angriffsschwungs müssen Truppen eingeflogen werden.
+:END
+:SUCCESS
+Einrichtung gesichert - Kampagne kann wie geplant fortgesetzt werden.
+:FAILURE
+Der Feind hält noch immer die Stellung - wir benötigen zusätzliche Unterstützung für unsere Operationen.
+:END
+
+:TYPE TASK_NOTHING
+:END
+
+:SUCCESS
+Leider werden der Erfolg Ihres Einsatzes und Ihre Reputation durch den Beschuss eigener Truppen etwas geschmälert.
+:SUCCESS
+Die Verluste durch Beschuss eigener Truppen lassen allerdings Zweifel an Ihrer Eignung als Kampfhubschrauberführer aufkommen.
+:SUCCESS
+Trotz des erfolgreichen Einsatzes werfen die Verluste durch Beschuss eigener Truppen Fragen über Ihr Temperament auf. Wenn Sie weiterhin derart übermotiviert auftreten, ist für Sie kein mehr Platz in der Militärfliegerei.
+:PARTIAL
+Bedauerlicherweise wurde der kleine Erfolg dieses Einsatzes durch den Beschuss eigener Truppen zunichte gemacht. Damit haben Sie einen erschreckenden Mangel an Führungsqualitäten offenbart. 
+:PARTIAL
+Auch wenn dieser Einsatz nicht vollkommen gescheitert ist - der Beschuss eigener Truppen lässt Zweifel an Ihrer Eignung als Kommandeur derartiger Einsätze aufkommen.
+:PARTIAL
+Welche Erfolge mit diesem Einsatz auch verbunden gewesen sein mögen - die durch Beschuss eigener Truppen erlittenen Verluste haben sie wieder völlig zunichte gemacht.
+:FAILURE
+Das war eine erbärmliche Vorstellung von Ihnen. Ihr Einsatz ist auf der ganzen Linie gescheitert und wir haben auch noch Verluste durch Beschuss eigener Truppen erlitten. An Ihrer Eignung als Kommandeur sind schwer wiegende Zweifel aufgekommen.
+:FAILURE
+Alles in allem war dies eine trostlose Operation, wenn man sich die eigenen Verluste und das Scheitern des Einsatzes vor Augen hält.
+:FAILURE
+Durch den Beschuss eigener Truppen während des Einsatzes hat sich die Lage wesentlich verschlechtert. Sie können von Glück reden, dass Sie nicht vors Kriegsgericht gestellt werden.
+:END
+
+:MEDAL
+:TYPE ARMY_AVIATOR
+:TYPE SENIOR_AVIATOR
+:TYPE MASTER_AVIATOR
+:TEXT1
+Als Anerkennung für absolvierte Flugstunden in der Kampfzone verleiht Ihnen der Luftwaffenführungsstab die folgende Auszeichnung\: MEDAL
+:END
+
+:MEDAL
+:TYPE ARMY_AVIATOR
+:TYPE SENIOR_AVIATOR
+:TYPE MASTER_AVIATOR
+:TEXT1
+Als Anerkennung für absolvierte Flugstunden in der Kampfzone verleiht Ihnen der Luftwaffenführungsstab die folgende Auszeichnung\: MEDAL
+:END
+
+:MEDAL
+:TYPE FLYING_CROSS
+:TYPE SILVER_STAR
+:TYPE DISTINGUISHED_SERVICE
+:TEXT1
+Als Anerkennung für Ihre Tapferkeit vor dem Feind über die reine Pflichterfüllung hinaus verleiht Ihnen der Luftwaffenführungsstab folgende Auszeichnung\: MEDAL
+:TEXT1
+Als Anerkennung für Ihre Führungsqualitäten und Motivationskünste im Angesicht des Feindes verleiht Ihnen der Luftwaffenführungsstab folgende Auszeichnung\: MEDAL
+:TEXT1
+Als Anerkennung für den vorbildlichen Mut, mit dem Sie Ihren Männern ein Beispiel gegeben haben, verleiht Ihnen der Luftwaffenführungsstab folgende Auszeichnung\: MEDAL
+:TEXT1
+Als Anerkennung für Ihre Tapferkeit, an der sich unsere gesamten bewaffneten Streitkräfte ein Beispiel nehmen können, verleiht Ihnen der Luftwaffenführungsstab folgende Auszeichnung\: MEDAL
+:TEXT1
+Als Anerkennung für Ihre Entschlossenheit und Ihre Führungsqualitäten bei zahlreichen gefährlichen Einsätzen verleiht Ihnen der Luftwaffenführungsstab folgende Auszeichnung\: MEDAL
+:TEXT1
+Als Anerkennung für die Unerschrockenheit angesichts feindlichen Feuers bei gleichzeitiger wirkungsvoller Anwendung aller Ihrem Kommando unterstehenden Waffen verleiht Ihnen der Luftwaffenführungsstab folgende Auszeichnung\: MEDAL
+:END
+
+:MEDAL
+:TYPE MEDAL_OF_HONOUR
+:TEXT1
+Als Anerkennung für Ihre Tapferkeit, die unseren gesamten bewaffneten Streitkräften zugute kommt, verleiht Ihnen der Luftwaffenführungsstab folgende Auszeichnung\: MEDAL
+:TEXT1
+Als Anerkennung für Ihre wiederholt unter Beweis gestellte persönliche Tapferkeit verleiht Ihnen der Luftwaffenführungsstab folgende Auszeichnung\: MEDAL
+:END
+
+:MEDAL
+:TYPE AIR_MEDAL
+:TEXT1
+Als Anerkennung für Ihre Tapferkeit vor dem Feind über die reine Pflichterfüllung hinaus verleiht Ihnen der Luftwaffenführungsstab folgende Auszeichnung\: MEDAL
+:TEXT1
+Als Anerkennung für Ihre Führungsqualitäten und Motivationskünste im Angesicht des Feindes verleiht Ihnen der Luftwaffenführungsstab folgende Auszeichnung\: MEDAL
+:TEXT1
+Als Anerkennung für den vorbildlichen Mut, mit dem Sie Ihren Männern ein Beispiel gegeben haben, verleiht Ihnen der Luftwaffenführungsstab folgende Auszeichnung\: MEDAL
+:END
+
+:MEDAL
+:TYPE PURPLE_HEART
+:TEXT1
+Als Anerkennung für die beim Dienst für Ihr Land erlittene Verwundung verleiht Ihnen der Luftwaffenführungsstab das MEDAL.
+:END
+
+:PROMOTION
+:TEXT1
+Als Anerkennung für Ihre im aktiven Dienst unter Beweis gestellten Führungsqualitäten befördert Sie der Luftwaffenführungsstab zum RANK.
+:TEXT1
+Als Anerkennung für vorbildliche Leistungen, mit denen Sie Ihren Männern ein Beispiel gegeben haben, befördert Sie der Luftwaffenführungsstab zum RANK.
+:TEXT1
+Als Anerkennung für Ihre Führungsqualitäten während der Beteiligung an aktiven Operationen befördert Sie der Luftwaffenführungsstab zum RANK.
+:END
+
+:OBJECTIVES
+:TYPE KEYSITE_ANCHORAGE
+:TEXT1
+Der Flugzeugträger KEYSITE ist der ganze Stolz der feindlichen Flotte. Wenn wir es schaffen, ihn zu versenken, beeinträchtigen wir nicht nur ernsthaft ihre Kampffähigkeit, sondern erschüttern auch ihre Moral.
+:TEXT1
+Das wertvollste Stück der feindlichen Flotte ist die KEYSITE. Die Neutralisierung dieser Bedrohung ist eines der wichtigsten Operationsziele unserer Kampagne.
+:TEXT1
+Der Flugzeugträger KEYSITE ist das Flaggschiff der feindlichen Flotte und dient als Befehls- und Kontrollzentrum. Ein Angriff auf das Schiff wird ihre Kampfstärke derart vermindern, dass unser Sieg in greifbare Nähe rückt.      
+:TEXT1
+Der Flugzeugträger KEYSITE ist ein Kernstück der feindlichen Luftabwehr. Wenn wir ihn versenken, wird die Kampfstärke des Feindes so sehr reduziert, dass er das Scheitern seiner Kampagne eingestehen muss.      
+:END
+
+:OBJECTIVES
+:TYPE KEYSITE_AIRBASE
+:TEXT1
+Der Luftstützpunkt KEYSITE in SECTOR ist die Hauptkommandozentrale der feindlichen Luftwaffe. Wenn wir ihn erobern, können wir die feindliche Luftwaffe so weit lahm legen, dass sie sich ihre Niederlage eingestehen muss.      
+:TEXT1
+Die gesamte feindliche Flugabwehr wird vom Luftstützpunkt KEYSITE in SECTOR aus gesteuert. Solange wir ihn nicht erobert haben, bleibt die feindliche Luftwaffe eine starke Bedrohung. Die Eroberung dieser Einrichtung ist ein entscheidender Bestandteil unserer Strategie und unerlässlich für einen Sieg.        
+:TEXT1
+Unser Nachrichtendienst berichtet, dass der Luftstützpunkt KEYSITE in SECTOR erst vor kurzem umfangreich modernisiert wurde. Er ist der Stolz der feindlichen Luftwaffe und Dreh- und Angelpunkt sämtlicher Luftoperationen. Erst wenn wir ihn erobert haben, können wir uns ernsthafte Gedanken an einen Sieg leisten.    
+:TEXT1
+Eine verdeckte Operation hat zu Tage gefördert, dass die feindliche Luftwaffe ihr Kampagnen-Hauptquartier auf dem Luftstützpunkt KEYSITE in SECTOR errichtet hat. Wenn wir dieses Schlüsselobjekt erobern, können wir die Kampffähigkeit des Feindes entscheidend schwächen.     
+:END
+   
+:OBJECTIVES
+:TYPE KEYSITE_OIL_REFINERY
+:TEXT1
+Unsere Geheimdienstexperten berichten, dass die Kapazität der Ölraffinerie in SECTOR vor kurzem beträchtlich erhöht wurde. Es handelt sich jetzt um die größte Ölproduktionsstätte der feindlichen Armee. Eine Zerstörung dieser Anlage hätte eine bedeutende Einschränkung der Mobilität des Feindes zur Folge.       
+:TEXT1
+Wirtschaftsexperten kommen zu dem Schluss, dass ein Großteil des für den Export bestimmten Öls aus der Raffinerie in SECTOR kommt. Eine Zerstörung dieser Anlage würde die Wirtschaft des Feindes so schwer treffen, dass er zu einer Kapitulation gezwungen wird.      
+:TEXT1
+Die Ölindustrie des Feindes hat zwar eine lange Tradition, doch nur die Raffinerie in SECTOR ist mit den modernsten Anlagen ausgestattet. Wenn wir sie zerstören, ist die feindliche Ölproduktion nur noch ein Rinnsal und die materiellen Lasten des Krieges wären für die Wirtschaft nicht mehr tragbar.     
+:TEXT1
+Aktuelle Satellitenfotos bestätigen, dass die Ölraffinerie in SECTOR den Knotenpunkt des feindlichen Pipelinenetzes bildet. Wenn wir sie zerstören, kommt die gesamte Ölproduktion des Feindes zum Stillstand.       
+:END
+
+:OBJECTIVES
+:TYPE KEYSITE_MILITARY_BASE
+:TEXT1
+Satellitenaufnahmen haben gezeigt, dass der Militärstützpunkt in SECTOR das logistische Zentrum der feindlichen Kampagne bildet. Die Eroberung dieser Anlage ist somit ein Schlüsselziel für die erfolgreiche Beendigung dieser Kampagne.
+:TEXT1
+Unser Funkabhördienst bestätigt, dass sich das feindliche Hauptquartier im Militärstützpunkt in SECTOR befindet. Es ist gut möglich, dass eine Eroberung dieses Schlüsselobjekts die feindlichen Kampfeinheiten führungslos macht und der Krieg damit erheblich verkürzt wird.
+:TEXT1
+Der feindliche Geheimdienstapparat hat seine Basis im Militärstützpunkt in SECTOR. Die Eroberung dieses Stützpunktes dürfte zumindest teilweise zu einer Lähmung des Feindes führen und uns dem Sieg um einen entscheidenden Schritt näher bringen.
+:TEXT1
+Wie aus zuverlässigen Geheimdienstquellen verlautet, ist der Militärstützpunkt in SECTOR als operatives Zentrum des Feindes für die bevorstehende Kampagne vorgesehen. Die Eroberung des Stützpunktes ist daher ein Schlüsselziel unserer Kampagne. 
+:END
+
+:OBJECTIVES
+:TYPE KEYSITE_POWER_STATION
+:TEXT1
+Meldungen zufolge ist das E-Werk in SECTOR ein wesentlicher Bestandteil des feindlichen Stromnetzes. Wenn wir es zerstören, werden wir den Gegner entscheidend treffen. Daher ist dieses Objekt ein Schlüsselziel unserer Luftkampagne.
+:TEXT1
+Wirtschaftsexperten berichten, dass das größte feindliche Industriegebiet fast seine gesamte Energie aus dem E-Werk in SECTOR bezieht. Die Schwächung der feindlichen Wirtschaft ist eines der Schlüsselziele für eine erfolgreiche Beendigung des Krieges. Daher ist dieses E-Werk eines unserer Schlüsselziele.
+:TEXT1
+Das E-Werk in SECTOR ist ein bedeutender Bestandteil der Infrastruktur des Feindes in jener Region. Eine Zerstörung der Anlage könnte eine entscheidende Schwächung der feindlichen Logistik bedeuten. Die erfolgreiche Umsetzung dieses Operationsziels müsste uns ein gutes Stück weiterbringen, diese Kampagne erfolgreich zu beenden.
+:TEXT1
+Das E-Werk in SECTOR ist ein bedeutender Energielieferant für den militärisch-industriellen Apparat des Feindes. Unsere Experten erwarten für den Fall einer Zerstörung der Anlage eine erheblich verminderte Kampffähigkeit des Feindes. Daher ist dieses E-Werk ein Schlüsselziel unserer Kampagne.
+:END
+:END

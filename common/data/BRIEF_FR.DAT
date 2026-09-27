@@ -1,0 +1,970 @@
+:TYPE TASK_ANTI_SHIP_STRIKE
+:TEXT1
+Le satellite a repéré un groupe aéronaval ennemi dans la zone de combat.
+:TEXT2
+Lors du dernier passage, il était en SECTOR.
+:TEXT3
+Il doit être neutralisé avant de lancer des opérations contre nos forces.
+:TEXT1
+Un de nos appareils de reconnaissance à haute altitude a repéré un groupe aéronaval ennemi dans la zone de combat.
+:TEXT2
+Lors du dernier repérage, il était en SECTOR.
+:TEXT3
+Il est impératif que vous l'attaquiez avant qu'il ait une chance de disparaître.
+:TEXT1
+Nos postes d'écoute ont détecté la présence d'un groupe aéronaval ennemi dans la zone de combat.
+:TEXT2
+Les derniers signaux émanaient de SECTOR.
+:TEXT3
+Pour conserver notre supériorité aérienne, il est indispensable de traiter cette menace aussi rapidement que possible.
+:TEXT1
+Un de nos navires a intercepté des émissions radar provenant d'un groupe aéronaval ennemi dans la zone de combat.
+:TEXT2
+Les signaux radars émanaient de SECTOR.
+:TEXT3
+Il est indispensable que nous éliminions cette menace avant qu'elle ne comprenne qu'elle a été repérée.
+:TEXT1
+Les renseignements électroniques nous ont informé de la présence d'un groupe aéronaval ennemi sur notre théâtre d'opération.
+:TEXT2
+Les signaux interceptés provenant de SECTOR.
+:TEXT3
+Ce groupe a déjà infligé des dégâts considérables à nos forces et il est indispensable que nous lancions rapidement une attaque pour nous en débarrasser.
+:TEXT1
+Nos postes d'écoute ont détecté l'arrivée d'un groupe aéronaval ennemi dans la zone de combat.
+:TEXT2
+Les signaux interceptés provenaient de SECTOR.
+:TEXT3
+Il est indispensable que cette menace soit neutralisée sans délai.
+:TEXT1
+Le satellite a repéré un nouveau groupe aéronaval ennemi dans la zone de combat.
+:TEXT2
+Lors du dernier passage, il était en SECTOR.
+:TEXT3
+Il doit être neutralisé avant de lancer des opérations contre nos forces.
+:END
+
+:SUCCESS
+Félicitations ! Un porte-avions de moins !
+:SUCCESS
+Beau travail ! Nous aurons bientôt la supériorité navale.
+:SUCCESS
+Votre attaque a été un grand succès, le porte-avions a été coulé.
+:SUCCESS
+Félicitations ! Continuez comme ça et vous deviendrez la bête noire de l'ennemi.
+:FAILURE
+Votre échec va entraîner des pertes élevées pour nos forces sur le terrain.
+:FAILURE
+Votre échec permet au groupe aéronaval ennemi de poursuivre ses opérations.
+:FAILURE
+L'attaque a été un échec. La mission sera confiée à une unité plus efficace.
+:FAILURE
+La cible principale n'a pas subi de dommages suffisants. Cet échec va encourager l'ennemi à intensifier ses efforts.
+:END
+
+:TYPE TASK_BAI
+:TEXT1
+Une escouade des forces spéciales a repéré des renforts ennemis en mouvement pour le front. 
+:TEXT2
+Les rapports signalent la présence de l'ennemi en SECTOR.
+:TEXT3
+Nous devons lancer une attaque avant que l'ennemi ne repère notre patrouille.
+:TEXT1
+Une escouade des forces spéciales a repéré des renforts ennemis en mouvement pour le front. 
+:TEXT2
+L'ennemi a été signalé en SECTOR.
+:TEXT3
+Nous devons lancer une attaque avant que l'ennemi ne repère notre patrouille.
+:TEXT1
+Un drone de reconnaissance a repéré des renforts ennemis en route pour le front.
+:TEXT2
+L'ennemi a été repéré en mouvement en SECTOR.
+:TEXT3
+Lancez une attaque avant que l'ennemi atteigne ses positions et se retranche.
+:TEXT1
+Nos services de renseignement signalent des éléments ennemis qui se rassemblent pour lancer une attaque.
+:TEXT2
+Le point de regroupement signalé est en SECTOR.
+:TEXT3
+Il est essentiel que nous attaquions avant que l'ennemi ne lance l'assaut.
+:TEXT1
+L'analyse des photos satellite a révélé la présence d'unités de soutien ennemies en arrière du front.
+:TEXT2
+Ces unités de réserve seraient stationnées non loin de SECTOR.
+:TEXT3
+Un raid nous permettrait de surprendre ces unités à découvert avant qu'elles n'aient le temps de se retrancher.
+:TEXT1
+L'augmentation du trafic radio nous permet d'anticiper une activation des unités de réserve ennemies.
+:TEXT2
+Les unités ennemies se regrouperaient autour de SECTOR.
+:TEXT3
+Un raid rapide nous permettrait de surprendre ces unités.
+:TEXT1
+Lors du dernier survol satellite, nous avons repéré une augmentation de l'activité ennemie en arrière du front.
+:TEXT2
+Les unités de renfort se regroupent en SECTOR.
+:TEXT3
+Nous devons attaquer ces unités avant qu'elles n'aient terminé leur regroupement.
+:END
+
+:SUCCESS
+Félicitations, voilà une unité dont nos forces terrestres n'auront pas à s'occuper.
+:SUCCESS
+Raid exécuté à la perfection, les arrières de l'ennemi sont complètement désorganisés.
+:SUCCESS
+Beau travail, l'ennemi réfléchira à deux fois avant de penser à engager ses réserves.
+:PARTIAL
+L'ennemi a subi quelques pertes, mais conserve toute son efficacité combattive.
+:PARTIAL
+Malgré les pertes subies, l'unité ennemie reste dangereuse.
+:PARTIAL
+Les pertes infligées n'ont pas été suffisamment importantes pour réduire de façon significative la valeur de l'unité ennemie.
+:FAILURE
+L'ennemi n'a subi aucune perte et risque d'accentuer la pression sur nos unités au front.
+:FAILURE
+La mission est un échec. Les unités ennemies peuvent toujours se déplacer à loisir en arrière du front.
+:FAILURE
+Le raid a échoué, l'ennemi reste libre d'engager ses réserves.
+:END
+
+:TYPE TASK_BARCAP
+:TEXT1
+Pour conserver la supériorité aérienne au-dessus de nos porte-avions, effectuez une mission BARCAP autour de SECTOR.
+:TEXT2	
+:TEXT3	
+:TEXT1
+Pour neutraliser toute menace ennemie autour de nos porte-avions, effectuez une mission BARCAP autour de SECTOR.
+:TEXT2	
+:TEXT3	
+:END
+
+:SUCCESS
+Bravo, l'appareil ennemi n'a pas réussi à s'infiltrer.
+:FAILURE
+Une menace aérienne ennemie s'est développée dans le secteur.
+:END
+
+:TYPE TASK_BDA
+:TEXT1
+Des appareils alliés ont attaqué des cibles ennemies autour de SECTOR.
+:TEXT2	
+:TEXT3
+Nous avons besoin de confirmer les résultats de cette attaque.
+:TEXT1
+Des raids aériens ont été lancés contre l'ennemi autour de SECTOR.
+:TEXT2	
+:TEXT3
+Il est nécessaire que nous déterminions l'impact de ces raids sur les capacités ennemies.
+:TEXT1
+Notre offensive aérienne poursuit son cours avec des raids contre des cibles en SECTOR.
+:TEXT2	
+:TEXT3
+Le haut-commandement réclame une mission afin de connaître les effets de ces raids.
+:TEXT1
+Des chasseurs-bombardiers ont attaqué des cibles en SECTOR.
+:TEXT2	
+:TEXT3
+Nous avons besoin de savoir si la menace ennemie qui s'y trouvait a été neutralisée.
+:TEXT1
+Des cibles ennemies autour de SECTOR ont été attaquées lors de notre offensive aérienne.
+:TEXT2	
+:TEXT3
+Une évaluation des dommages occasionnés est nécessaire.
+:TEXT1
+Des opérations aériennes ont été lancées contre plusieurs cibles en SECTOR.
+:TEXT2	
+:TEXT3
+Des raids aériens ont été lancés contre les forces ennemies en SECTOR. Il nous faut rapidement la confirmation que la présence ennemie y a été réduite à néant.
+:TEXT1
+Des appareils alliés ont attaqué KEYSITE en SECTOR.
+:TEXT2	
+:TEXT3
+Nous devons rapidement savoir si cette mission a été un succès.
+:END
+
+:SUCCESS
+Les renseignements ont les informations dont ils avaient besoin. Bon travail.
+:SUCCESS
+Mission réussie, les données sont compilées et mises à jour.
+:SUCCESS
+Félicitations, vos données confirment celles des pilotes. De nouvelles missions sont en cours de préparation.
+:FAILURE
+Echec. Les missions suivantes ont été annulées faute de renseignements suffisants.
+:FAILURE
+Echec. De nouveaux appareils vont devoir recommencer la mission.
+:FAILURE
+Echec. Une nouvelle unité va effectuer la reconnaissance à votre place.
+:END
+
+:TYPE TASK_CLOSE_AIR_SUPPORT
+:TEXT1
+Nos postes d'écoute avancés nous informent que l'ennemi se regroupe pour lancer une attaque.
+:TEXT2
+Les unités ennemies se regroupent sur le front en SECTOR.
+:TEXT3
+Un raid doit être lancé rapidement pour empêcher l'attaque.
+:TEXT1
+Les unités du front ont du mal à contenir les assauts des blindés ennemis.
+:TEXT2
+Les combats les plus âpres se déroulent en SECTOR.
+:TEXT3
+Les chars ennemis doivent être arrêtés avant d'être parvenus à percer nos lignes.
+:TEXT1
+Les unités d'avant-garde ne parviennent pas à contenir un assaut de blindés ennemis.
+:TEXT2
+La situation est critique, notamment en SECTOR.
+:TEXT3
+Un raid est nécessaire pour rétablir l'équilibre.
+:TEXT1
+Les lignes du front sont soumises à un feu nourri de blindés ennemis.
+:TEXT2
+La menace la plus importante est stationnée autour de SECTOR.
+:TEXT3
+Lancez un raid pour minimiser les pertes alliées.
+:TEXT1
+Les forces terrestres signalent une augmentation de l'activité ennemie.
+:TEXT2
+Des blindés ennemis se regroupent en SECTOR.
+:TEXT3
+Les pertes s'accumulent et un raid immédiat est nécessaire pour soulager le front.
+:TEXT1
+Nos unités de l'avant subissent de lourdes pertes causées par des blindés ennemis.
+:TEXT2
+Les tirs ennemis semblent provenir de SECTOR.
+:TEXT3
+Eliminez ces blindés avant que nos forces soient contraintes à battre en retraite.
+:TEXT1
+Nos patrouilles avancées indiquent que l'ennemi bat en retraite.
+:TEXT2
+Une colonne importante est en mouvement autour de SECTOR.
+:TEXT3
+Attaquez-la avant que l'ennemi n'ait pu établir une nouvelle ligne de défense.
+:TEXT1
+Nos unités de l'avant signalent une baisse d'intensité des tirs ennemis.
+:TEXT2
+Le front est particulièrement calme en SECTOR.
+:TEXT3
+Un raid rapide nous permettrait d'empêcher l'ennemi de se réorganiser.
+:TEXT1
+Nos unités de reconnaissance ont découvert que l'ennemi tente de consolider sa ligne de front.
+:TEXT2
+Des blindés ennemis battent en retraite à travers SECTOR.
+:TEXT3
+Nous devons détruire ces blindés avant qu'ils n'atteignent leur nouvelle position.
+:END
+
+:SUCCESS
+Fantastique ! Nos forces terrestres apprécient grandement votre travail !
+:SUCCESS
+La formation ennemie a été totalement neutralisée, le niveau de menace dans la zone est minime.
+:SUCCESS
+Cible détruite, opération ennemie annulée.
+:SUCCESS
+Bon travail, nos forces terrestres confirment la destruction totale de l'ennemi.
+:PARTIAL
+Malgré de lourdes pertes, les unités ennemies sont encore sur le terrain.
+:PARTIAL
+Les pertes infligées n'ont pas été suffisantes pour empêcher l'ennemi de poursuivre son opération.
+:PARTIAL
+Nos forces terrestres indiquent qu'elles sont encore en contact avec des groupes de chars ennemis.
+:PARTIAL
+Des chars ennemis sont toujours actifs dans le secteur. Vous avez dû en rater !
+:FAILURE
+Nos forces terrestres signalent que l'ennemi continue ses opérations.
+:FAILURE
+Nous subissons de lourdes pertes à cause du grand nombre de blindés encore opérationnels.
+:FAILURE
+Les opérations ennemies continuent. Vos efforts n'ont servi à rien.
+:FAILURE
+Les chars ennemis menacent toujours nos unités dans la zone. Nous devrons revoir nos plans.
+:END
+
+:TYPE TASK_COMBAT_AIR_PATROL
+:TEXT1
+Les forces ennemies ne doivent pas interférer avec nos opérations de supériorité aérienne.
+:TEXT2	
+:TEXT3
+Effectuez une mission CAP autour de SECTOR pour protéger nos unités de soutien.
+:TEXT1
+Pour parvenir à la supériorité aérienne, nous devons conserver le contrôle de l'espace aérien ami.
+:TEXT2	
+:TEXT3
+Effectuez une mission CAP autour de SECTOR pour protéger nos bases.
+:TEXT1
+Nos informations semblent indiquer que l'ennemi renforce son dispositif aérien.
+:TEXT2	
+:TEXT3
+Neutralisez toute menace ennemie en effectuant une mission CAP autour de SECTOR.
+:TEXT1
+Nous envisageons un possible raid ennemi sur nos bases.
+:TEXT2	
+:TEXT3
+Effectuez une mission CAP autour de SECTOR.
+:TEXT1
+Nous observons un regain d'activité aérienne chez l'ennemi.
+:TEXT2	
+:TEXT3
+Cela signifie que vous devez effectuer une mission CAP autour de SECTOR pour protéger nos bases.
+:TEXT1
+Vous devez empêcher tout appareil ennemi de pénétrer dans notre espace aérien.
+:TEXT2	
+:TEXT3
+Pour cela, vous devez effectuer une mission CAP autour de SECTOR.
+:END
+
+:SUCCESS
+Bravo, l'ennemi n'est pas parvenu à passer entre les mailles du filet.
+:FAILURE
+La menace aérienne ennemie dans le secteur s'est considérablement développée.
+:END
+
+:TYPE TASK_ESCORT
+:TEXT1	
+:TEXT2
+Un appareil allié doit effectuer une mission importante en SECTOR.
+:TEXT3
+Vous devez escorter cet appareil et empêcher l'ennemi de le contraindre à abandonner sa mission.
+:TEXT1	
+:TEXT2
+Un appareil allié a reçu l'ordre d'effectuer une mission en SECTOR.
+:TEXT3
+Pour réduire les risques, vous devez l'escorter et le protéger.
+:TEXT1	
+:TEXT2
+Un appareil allié a reçu un ordre de mission pour SECTOR.
+:TEXT3
+Nos rapports indiquent que l'ennemi considère cette zone comme stratégique. Escortez notre appareil pour le protéger.
+:TEXT1	
+:TEXT2
+Un raid allié doit avoir lieu sur SECTOR.
+:TEXT3
+Ce raid est d'une importance vitale, vous devez l'escorter et le protéger.
+:TEXT1	
+:TEXT2
+Une mission offensive doit avoir lieu contre des cibles autour de SECTOR.
+:TEXT3
+Effectuez une mission d'escorte pour protéger nos appareils contre les intercepteurs ennemis.
+:TEXT1	
+:TEXT2
+Des appareils alliés doivent attaquer des cibles situées autour de SECTOR.
+:TEXT3
+Le dispositif aérien ennemi sur la zone est important, il est donc nécessaire que vous escortiez ce vol.
+:TEXT1	
+:TEXT2
+Une mission de soutien est lancée sur SECTOR.
+:TEXT3
+Escortez la mission pour la protéger.
+:TEXT1	
+:TEXT2
+Des appareils alliés effectuent une mission en SECTOR.
+:TEXT3
+Escortez la mission pour empêcher l'ennemi de l'intercepter.
+:TEXT1	
+:TEXT2
+Une mission de soutien est en route pour SECTOR.
+:TEXT3
+Il est vital que cette mission se déroule dans de bonnes conditions. Escortez-la pour la protéger.
+:TEXT1	
+:TEXT2
+Nos appareils vont effectuer une mission de soutien sur SECTOR.
+:TEXT3
+Pour conserver la supériorité aérienne sur la zone, il est nécessaire que vous l'escortiez.
+:TEXT1	
+:TEXT2
+Une mission aérienne doit avoir lieu sur SECTOR.
+:TEXT3
+Escortez cette mission pour assurer sa protection.
+:TEXT1	
+:TEXT2
+Une mission doit avoir lieu en SECTOR.
+:TEXT3
+Nos renseignements indiquent que l'ennemi accentue son effort autour de nos corridors. Il est nécessaire que vous escortiez cette mission.
+:END
+
+:SUCCESS
+Beau travail, nos appareils ont atteint leur objectif.
+:SUCCESS
+Félicitations, le chef de mission vous remercie pour l'escorte.
+:SUCCESS
+Bon travail, l'ennemi n'est pas parvenu à empêcher la mission.
+:SUCCESS
+Mission accomplie. Les opérations continuent comme prévues.
+:FAILURE
+Quel désastre ! Où étiez-vous passé ?
+:FAILURE
+Vous n'avez pas réussi à assurer la sécurité du corridor aérien et nous avons dû renforcer notre dispositif de défense.
+:FAILURE
+Nous avons subi des pertes injustifiées par votre faute. Nos opérations seront repoussées.
+:FAILURE
+Nous avons souffert des pertes importantes par votre faute.
+:END
+
+:TYPE TASK_GROUND_STRIKE
+:TEXT1
+La mission de reconnaissance sur SECTOR nous a livré des informations intéressantes.
+:TEXT2
+Les photos révèlent une augmentation de l'activité ennemie sur le secteur.
+:TEXT3
+Il a été décidé de lancer une opération contre KEYSITE.
+:TEXT1
+Une mission de reconnaissance réussie sur SECTOR nous a livré des informations utiles.
+:TEXT2
+Les pilotes nous ont indiqué que la zone semblait stratégique pour l'ennemi.
+:TEXT3
+Nous avons la possibilité de porter un coup fatal au dispositif ennemi en neutralisant KEYSITE.
+:TEXT1
+La mission de reconnaissance sur SECTOR nous a livré des informations intéressantes.
+:TEXT2
+Nos planificateurs sont très satisfaits des résultats obtenus par la reconnaissance sur SECTOR.
+:TEXT3
+L'analyse des données nous permet de penser qu'un raid sur KEYSITE permettrait de désorganiser sérieusement les opérations ennemies.
+:TEXT1
+La mission de reconnaissance nous a livré des informations utiles.
+:TEXT2
+Une mission de reconnaissance rentre juste de SECTOR.
+:TEXT3
+Tout porte à croire que la zone est stratégique pour l'ennemi. Nous avons décidé en conséquence de lancer un raid contre KEYSITE.
+:TEXT1
+La mission de reconnaissance nous a livré des informations utiles.
+:TEXT2
+Nous venons de recevoir des informations sur SECTOR.
+:TEXT3
+Nos renseignements laissent penser que la zone est cruciale pour l'ennemi. Nous pouvons lui porter un rude coup en détruisant KEYSITE.
+:TEXT1
+La mission de reconnaissance effectuée sur SECTOR nous a livré des informations utiles.
+:TEXT2
+Les résultats de la mission sur SECTOR viennent d'arriver.
+:TEXT3
+L'analyse des données semble indiquer que la zone est stratégique pour l'ennemi. Nous devons donc attaquer KEYSITE sans délai.
+:END
+
+:SUCCESS
+Mission accomplie. L'effort de guerre ennemi va s'en ressentir.
+:SUCCESS
+Cible détruite, nous n'aurons pas à y retourner avant un moment.
+:SUCCESS
+Raid parfaitement exécuté, la cible est en ruines. Nos opérations peuvent continuer comme prévues.
+:SUCCESS
+Une cible à rayer de la liste ! 
+:PARTIAL
+La cible est encore opérationnelle. Il va falloir retourner finir le travail.
+:PARTIAL
+Les dégâts infligés sont insuffisants \: la cible est encore opérationnelle.
+:PARTIAL
+Aucun élément vital n'a été touché, la cible est encore opérationnelle.
+:PARTIAL
+La cible est encore opérationnelle malgré les dommages infligés.
+
+:FAILURE
+Il va falloir y retourner.
+:FAILURE
+Le raid est un échec, l'ennemi continue ses opérations.
+:FAILURE
+La cible est intacte, d'autres missions devront être lancées.
+:FAILURE
+Aucun dommage infligé à la cible. La mission est un échec.
+:END
+
+:TYPE TASK_OCA_STRIKE
+:TEXT1	
+:TEXT2
+L'ennemi est parvenu à s'emparer de SECTOR.
+:TEXT3
+Nous devons lancer un raid OCA pour rétablir la situation.
+:TEXT1	
+:TEXT2
+La capture de SECTOR par l'ennemi est un revers sérieux.
+:TEXT3
+Il faut lancer un raid OCA pour réduire l'ennemi avant qu'il n'exploite sa percée.
+:END
+
+:SUCCESS
+Raid réussi, les appareils ennemis sont neutralisés.
+:FAILURE
+Echec du raid, les opérations aériennes ennemies continuent.
+:END
+
+:TYPE TASK_OCA_SWEEP
+:TEXT1	
+:TEXT2
+L'occupation de SECTOR par l'ennemi gêne nos opérations.
+:TEXT3
+Pour soutenir l'attaque, une mission OCA est nécessaire.
+:TEXT1	
+:TEXT2
+La capture de SECTOR par l'ennemi nous retarde.
+:TEXT3
+Pour augmenter nos chances qu'un raid OCA soit efficace, il faut une mission OCA d'escorte.
+:TEXT1	
+:TEXT2
+La capture par l'ennemi de SECTOR nous inquiète.
+:TEXT3
+Il faut regagner la supériorité aérienne en lançant un raid OCA pour que nos appareils puissent neutraliser l'ennemi sans être gênés par les intercepteurs ennemis.
+:END
+
+:SUCCESS
+Raid réussi, les appareils ont atteint la zone.
+:FAILURE
+Echec du raid, l'ennemi a intercepté nos appareils avant que le raid ne soit terminé.
+:END
+
+:TYPE TASK_RECON
+:TEXT1
+Nos satellites ont récemment détecté un regain d'activité autour de SECTOR.
+:TEXT2
+Une mission de reconnaissance nous permettra d'en savoir plus.
+:TEXT3	
+:TEXT1
+Une transmission radio interceptée nous permet de penser que des unités ennemies ont pris position en SECTOR.
+:TEXT2
+Avant que nous préparions un raid, il est nécessaire d'effectuer une mission de reconnaissance.
+:TEXT3	
+:TEXT1
+Nous avons intercepté des communications radio inhabituelles en provenance de SECTOR.
+:TEXT2
+Une mission de reconnaissance sur la zone est nécessaire pour connaître les intentions de l'ennemi.
+:TEXT3	
+:TEXT1
+Nos capteurs infrarouges ont détecté une présence importante en SECTOR.
+:TEXT2
+Avant d'ajouter cette cible sur la liste, nous avons besoin qu'une mission de reconnaissance valide cette information.
+:TEXT3	
+:TEXT1
+Une longue colonne de poussière a été observée en mouvement en SECTOR.
+:TEXT2
+Une mission de reconnaissance nous permettra d'en savoir plus.
+:TEXT3	
+:TEXT1
+Les capteurs de mouvement ont détecté ce qui semble être une formation de véhicules ennemis se déplaçant autour de SECTOR.
+:TEXT2
+Une mission de reconnaissance est nécessaire pour confirmer cette information.
+:TEXT3	
+:TEXT1
+Des messages radio interceptés nous permettent de penser que des blindés ennemis sont en mouvement dans la zone autour de SECTOR.
+:TEXT2
+Avant de lancer un raid, nous devons confirmer leur présence en lançant une mission de reconnaissance.
+:TEXT3	
+:TEXT1
+Une unité de contre-mesure électronique a détecté plusieurs signaux en provenance de SECTOR.
+:TEXT2
+Nous devons déterminer si des unités anti-aériennes sont présentes dans la région avant de lancer un raid.
+:TEXT3	
+:TEXT1
+Une mission de reconnaissance à haute altitude nous a permis de détecter plusieurs signaux ennemis provenant de SECTOR.
+:TEXT2
+Une mission de reconnaissance à basse altitude nous permettrait de déterminer si l'ennemi a augmenté sa défense anti-aérienne sur la zone.
+:TEXT3	
+:TEXT1
+Une unité du génie ennemie a été observée en SECTOR.
+:TEXT2
+Le haut-commandement s'inquiète de la possible construction d'un nouveau site de DCA et réclame une mission de reconnaissance.
+:TEXT3	
+:TEXT1
+Une unité du génie ennemie a été observée en SECTOR.
+:TEXT2
+Nous n'avons pour l'instant aucun renseignement sur la raison de sa présence.
+:TEXT3	
+:TEXT1
+Une mission de reconnaissance à haute altitude a détecté un regain d'activité en SECTOR.
+:TEXT2
+Les renseignements nous ont demandé une mission de reconnaissance à basse altitude pour confirmer ces résultats.
+:TEXT3	
+:TEXT1
+Un rapport nous informe que le commandement ennemi s'intéresse à SECTOR.
+:TEXT2
+Nous avons besoin de plus de renseignements sur la zone, et une mission de reconnaissance a été planifiée.
+:TEXT3	
+:TEXT1
+Une escouade des forces spéciales a détecté une augmentation de l'activité ennemie autour de SECTOR.
+:TEXT2
+Nous devons déterminer si l'ennemi ne serait pas en train d'améliorer ses installations dans la zone.
+:TEXT3	
+:TEXT1
+L'ennemi a récemment interdit l'accès de SECTOR à la presse.
+:TEXT2
+Nous devons lancer une mission de reconnaissance sur la zone pour découvrir le fin mot de l'histoire.
+:TEXT3	
+:TEXT1
+Les planificateurs demandent des compléments d'information sur les installations ennemies en SECTOR.
+:TEXT2
+Une mission de reconnaissance doit leur fournir les informations demandées.
+:TEXT3	
+:TEXT1
+Nous ne savons pas si les installations ennemies de SECTOR sont encore opérationnelles.
+:TEXT2
+Une mission de reconnaissance nous permettra d'en savoir plus.
+:TEXT3	
+:END
+
+:SUCCESS
+Beau travail, les planificateurs des missions sauront utiliser ces informations.
+:SUCCESS
+Bravo, nous connaissons maintenant les intentions de l'ennemi et pouvons prévoir nos opérations en fonction.
+:SUCCESS
+Excellent, ces éléments nous permettent d'y voir plus clair dans le jeu de l'ennemi.
+:SUCCESS
+Ces données importantes nous permettent de revoir nos plans.
+:FAILURE
+Votre échec a pour effet de réduire l'efficacité de nos opérations aériennes.
+:FAILURE
+Parce que vous n'avez pas réussi à ramener les informations demandées, nous devons annuler plusieurs missions.
+:FAILURE
+Comme nous n'avons pas d'information sur les intentions de l'ennemi, nous ne pourrons pas mettre un terme à ses opérations.
+:FAILURE
+L'échec de votre mission met en péril nos opérations.
+:END
+
+:TYPE TASK_REPAIR
+:TEXT1	
+:TEXT2
+Nos unités du génie doivent être transportées jusqu'à SECTOR pour réparer les installations qui sont sur place.
+:TEXT3	
+:TEXT1	
+:TEXT2
+Les dégâts subis par les installations de SECTOR requièrent le transport immédiat sur zone d'unités du génie.
+:TEXT3	
+:TEXT1	
+:TEXT2
+Vous devez transporter des unités du génie jusqu'à SECTOR pour éviter que notre plan de bataille soit désorganisé à cause des dégâts subis par les installations.
+:TEXT3	
+:END
+
+:SUCCESS
+Installations opérationnelles, les opérations peuvent continuer.
+:FAILURE
+Installations toujours hors d'état, notre effort de guerre s'en ressent.
+:END
+
+:TYPE TASK_SEAD
+:TEXT1
+L'analyse des photographies aériennes indique que l'ennemi renforce ses défenses anti-aériennes.
+:TEXT2
+Il concentre son effort autour de SECTOR.
+:TEXT3
+Afin que nous puissions conserver la suprématie aérienne sur la zone, il est indispensable de réduire ces défenses.
+:TEXT1
+Nos radars signalent un regain d'activité des systèmes de défenses aériennes ennemis.
+:TEXT2
+L'un d'entre eux est signalé en SECTOR.
+:TEXT3
+Pour conserver l'avantage, nous devons détruire ce site.
+:TEXT1
+Une mission de reconnaissance signale une augmentation des capacités de défense ennemies.
+:TEXT2
+L'ennemi concentre son effort autour de SECTOR.
+:TEXT3
+Afin de conserver l'avantage et de soutenir nos unités terrestres, une mission SEAD est indispensable.
+:TEXT1
+Nos piquets de veille signalent l'activation de plusieurs systèmes de défense ennemis.
+:TEXT2
+L'un des sites repérés se trouve en SECTOR.
+:TEXT3
+Nous ne pouvons laisser ces sites gêner nos opérations. Une mission SEAD a été planifiée.
+:TEXT1
+Les rapports du renseignement électronique nous permettent de penser que l'ennemi accroît sa capacité de défense anti-aérienne.
+:TEXT2
+Les efforts de l'ennemi semblent plus importants autour de SECTOR.
+:TEXT3
+Pour que nous puissions prendre le contrôle de l'espace aérien autour de cette zone, ces sites doivent être détruits.
+:TEXT1
+Les renseignements signalent une augmentation de la capacité de défense anti-aérienne ennemie.
+:TEXT2
+Plusieurs sites sont concentrés autour de SECTOR.
+:TEXT3
+Avant de lancer des raids contre la zone, nous devons éliminer cette menace.
+:END
+
+:SUCCESS
+Les défenses ennemies ont été réduites. Nous pouvons désormais lancer des raids sur la zone.
+:SUCCESS
+La défense anti-aérienne sur la zone est trop puissante pour que nous puissions lancer des raids.
+:SUCCESS
+Félicitations, les capacités de défense anti-aériennes ennemies ont été neutralisées.
+:SUCCESS
+Félicitations, les capacités de défense anti-aériennes ennemies ont été neutralisées.
+:PARTIAL
+Malgré les pertes subies, les défenses ennemies représentent toujours une menace significative pour nos appareils. Pour mener nos missions à bien, il faudra les détruire.
+:PARTIAL
+Les dégâts infligés ont été insuffisants pour réduire les défenses ennemies. Une mission complémentaire est nécessaire.
+:PARTIAL
+En dépis des pertes infligées aux unités de défense ennemies, la menace reste significative.
+:PARTIAL
+Les défenses ennemies sont toujours opérationnelles et les raids prévus sur la zone ont été annulés.
+:FAILURE
+Les défenses ennemies sont intactes. Nos appareils ont été détournés pour éviter la zone et plusieurs missions annulées.
+:FAILURE
+Aucune perte signalée dans les défenses ennemies, les raids ont été annulés.
+:FAILURE
+Le dispositif de défense anti-aérienne ennemi est pleinement opérationnel. La mission est un échec.
+:FAILURE
+Les sites de DCA ennemis sont opérationnels. Nos appareils doivent contourner la zone.
+:END
+
+:TYPE TASK_SUPPLY
+:TEXT1	
+:TEXT2
+Les forces alliées de SECTOR réclament du ravitaillement.
+:TEXT3	
+:TEXT1	
+:TEXT2
+Pour poursuivre nos opérations, une mission de ravitaillement en SECTOR est nécessaire.
+:TEXT3	
+:TEXT1	
+:TEXT2
+L'augmentation de l'activité autour de SECTOR nous oblige à prévoir une mission de ravitaillement pour nos forces qui y sont stationnées.
+:TEXT3	
+:END
+
+:SUCCESS
+Le ravitaillement a été livré, les opérations peuvent continuer.
+:FAILURE
+Nos forces n'ont pas reçu suffisamment de ravitaillement pour continuer leurs opérations.
+:END
+
+:TYPE TASK_TRANSFER_HELICOPTER
+:TEXT1	
+:TEXT2
+Les renseignements nous informent d'une montée en puissance de l'activité ennemi aux alentours de SECTOR.
+:TEXT3
+Vous êtes transféré sur place pour appuyer nos troupes.
+:TEXT1	
+:TEXT2
+Nous devons renforcer nos capacités en SECTOR.
+:TEXT3
+Vous êtes transféré sur place.
+:TEXT1	
+:TEXT2
+Les unités alliées autour de SECTOR réclament plus de soutien.
+:TEXT3
+Vous devez être transféré sur la zone.
+:TEXT1	
+:TEXT2
+Les planificateurs prévoient une augmentation de l'activité en SECTOR.
+:TEXT3
+Vous allez être transféré sur les lieux.
+:TEXT1	
+:TEXT2
+Les rapports signalent une augmentation de l'activité ennemie autour de SECTOR.
+:TEXT3
+Vous êtes transféré à KEYSITE pour renforcer la zone.
+:END
+
+:SUCCESS
+Votre transfert est accompli, les opérations peuvent continuer.
+:FAILURE
+Le transfert n'a pas été effectué. Nous manquons d'effectifs sur la zone pour poursuivre la campagne.
+:END
+
+:TYPE TASK_TRANSFER_FIXED_WING
+:TEXT1	
+:TEXT2
+Les rapports signalent une augmentation de l'activité ennemie autour de SECTOR.
+:TEXT3
+Vous êtes transféré sur la zone en soutien.
+:TEXT1	
+:TEXT2
+Nous devons renforcer nos capacités en SECTOR.
+:TEXT3
+Vous êtes transféré sur place.
+:TEXT1	
+:TEXT2
+Les unités alliées autour de SECTOR réclament plus de soutien.
+:TEXT3
+Vous devez être transféré sur la zone.
+:TEXT1	
+:TEXT2
+Les planificateurs prévoient une augmentation de l'activité en SECTOR.
+:TEXT3
+Vous allez être transféré sur les lieux.
+:TEXT1	
+:TEXT2
+Les rapports signalent une augmentation de l'activité ennemie autour de SECTOR.
+:TEXT3
+Vous êtes transféré à KEYSITE pour renforcer la zone.
+:END
+
+:SUCCESS
+Votre transfert est accompli, les opérations peuvent continuer.
+:FAILURE
+Le transfert n'a pas été effectué. Nous manquons d'effectifs sur la zone pour poursuivre la campagne.
+:END
+
+:TYPE TASK_TROOP_INSERTION
+:TEXT1	
+:TEXT2
+Afin de tirer profit de nos succès contre les cibles autour de SECTOR, des troupes doivent être envoyées sur place pour garder la position.
+:TEXT3
+Assurez le transport de ces unités.
+:TEXT1	
+:TEXT2
+Les défenses ennemies de SECTOR sont suffisamment faibles pour permettre à l'infanterie de s'emparer de la zone.
+:TEXT3
+Une mission d'insertion est prévue à cet effet.
+:TEXT1	
+:TEXT2
+Les forces ennemies de SECTOR étant neutralisées, nous pouvons profiter de cet état de fait pour déployer des troupes.
+:TEXT3
+Une mission d'insertion sera nécessaire pour y parvenir.
+:TEXT1	
+:TEXT2
+Les défenses ennemies de SECTOR ont été détruites.
+:TEXT3
+Pour exploiter notre réussite, une mission d'insertion est prévue.
+:END
+
+:SUCCESS
+Déploiement accompli, la campagne peut continuer comme prévue.
+:FAILURE
+L'ennemi conserve la position, nos opérations nécessitent un soutien supplémentaire.
+:END
+
+:TYPE TASK_NOTHING
+:END
+
+:SUCCESS
+Malgré la réussite de votre mission, ce regrettable incident de tir a quelque peu terni votre réputation.
+:SUCCESS
+Malheureusement, les pertes fraternelles que vous avez causées nous donnent à réfléchir sur votre affectation.
+:SUCCESS
+Bien que la mission ait été un succès, les pertes par tir fraternel que vous avez causées nous inquiètent. Si vous ne parvenez pas à garder le contrôle de vos instincts agressifs, nous serons contraints à vous changer d'affectation.
+:PARTIAL
+De façon regrettable, le succès mitigé de cette mission est réduit à néant par l'incident de tir dont vous avez été la cause. Nous nous interrogeons sur le bien-fondé de votre affectation.
+:PARTIAL
+Bien que la mission n'ait pas été un échec total, les circonstances dans lesquelles vous avez causé des pertes par tir fraternel nous feront réfléchir avant de vous confier une nouvelle mission de ce type.
+:PARTIAL
+Cependant, malgré le succès mitigé de la mission, les pertes que vous avez causées dans nos rangs ont gravement terni votre réputation.
+:FAILURE
+Vos performances sont loin d'être à la hauteur. Non seulement la mission s'est révélée désastreuse, mais nous avons également subi de lourdes pertes fraternelles par votre faute. Vous risquez la cour martiale.
+:FAILURE
+Tout compte fait, cette opération est un terrible échec, notamment à cause des pertes fraternelles dont vous avez été la cause.
+:FAILURE
+La situation est pire maintenant qu'avant la mission, principalement à cause des pertes fraternelles dont vous êtes la cause. Considérez-vous heureux de ne pas passer en cour martiale.
+:END
+
+:MEDAL
+:TYPE ARMY_AVIATOR
+:TYPE SENIOR_AVIATOR
+:TYPE MASTER_AVIATOR
+:TEXT1
+En reconnaissance des risques encourus et des heures de vol en situation de combat que vous avez effectuées, nous avons l'honneur de vous remettre une MEDAL.
+:END
+
+:MEDAL
+:TYPE ARMY_AVIATOR
+:TYPE SENIOR_AVIATOR
+:TYPE MASTER_AVIATOR
+:TEXT1
+Nous avons l'honneur, en reconnaissance des heures de vol passées en situation de combat, de vous décerner une MEDAL.
+:END
+
+:MEDAL
+:TYPE FLYING_CROSS
+:TYPE SILVER_STAR
+:TYPE DISTINGUISHED_SERVICE
+:TEXT1
+En récompense de votre bravoure face à l'ennemi, le commandement est heureux de vous décerner une MEDAL.
+:TEXT1
+En récompense de vos qualités de commandement et de votre sens des responsabilités en plein coeur du combat, nous avons l'honneur de vous remettre une MEDAL.
+:TEXT1
+Pour récompenser votre courage exemplaire et votre sens du commandement, le commandement est heureux de vous décerner une MEDAL.
+:TEXT1
+En récompense de votre bravoure exemplaire, le commandement est fier de vous décerner une MEDAL.
+:TEXT1
+Pour récompenser votre courage exemplaire et votre sens du commandement au fil de nombreuses missions de combat, le commandement a l'honneur de vous remettre une MEDAL.
+:TEXT1
+Pour votre bravoure face au danger et avoir employé correctement toutes les armes à votre disposition, le commandement vous remet une MEDAL.
+:END		
+
+:MEDAL
+:TYPE MEDAL_OF_HONOUR
+:TEXT1
+En récompense de votre bravoure qui rejaillit sur l'ensemble de notre armée, le commandement a le plaisir et l'honneur de vous décerner une MEDAL.
+:TEXT1
+En reconnaissance de votre courage, le commandement a le plaisir de vous remettre une MEDAL.
+:END		
+
+:MEDAL
+:TYPE AIR_MEDAL
+:TEXT1
+En récompense de votre bravoure face à l'ennemi, le commandement est heureux de vous décerner une MEDAL.
+:TEXT1
+En récompense de vos qualités de commandement et de votre sens des responsabilités en plein coeur du combat, nous avons l'honneur de vous remettre une MEDAL.
+:TEXT1
+Pour récompenser votre courage exemplaire et votre sens du commandement, le commandement est heureux de vous décerner une MEDAL.
+:END		
+
+:MEDAL
+:TYPE PURPLE_HEART
+:TEXT1
+En récompense pour les blessures subies au combat au service de votre pays, le commandement à l'honneur de vous décerner un MEDAL.
+:END		
+
+:PROMOTION
+:TEXT1
+En récompense de vos qualités de commandement au coeur de l'action, le commandement a l'honneur de vous nommer RANK.
+:TEXT1
+En reconnaissance de votre conduite exemplaire à la tête de vos hommes, le commandement est heureux de vous nommer RANK.
+:TEXT1
+En récompense de vos indéniables qualités de commandement et de votre conduite irréprochable, le commandement a l'honneur de vous nommer RANK.
+:END		
+
+:OBJECTIVES
+:TYPE KEYSITE_ANCHORAGE
+:TEXT1
+Le porte-avions KEYSITE est la fierté de la flotte ennemie. Si nous parvenons à le couler, non seulement la capacité de combat ennemie s'en ressentira, mais nous aurons également réussi à affaiblir le moral ennemi.
+:TEXT1
+Le navire amiral de la flotte ennemie est le KEYSITE. Neutraliser cette menace est un objectif clé de notre campagne.
+:TEXT1
+Le porte-avions KEYSITE est le navire amiral de la flotte ennemie, ainsi que son poste de commandement. Couler ce navire réduirait grandement la capacité de réaction ennemie et nous donnerait un avantage majeur.
+:TEXT1
+Le porte-avions KEYSITE a pour mission d'assurer la défense de l'espace aérien ennemi. Si nous parvenons à le couler, la capacité de combat ennemie en sera grandement réduite.
+:END		
+
+:OBJECTIVES
+:TYPE KEYSITE_AIRBASE
+:TEXT1
+La base aérienne de KEYSITE en SECTOR est le centre de commandement principal des forces aériennes ennemies. Si nous parvenons à la capturer, nous pourrions paralyser l'ensemble de leur force aérienne.
+:TEXT1
+Le dispositif anti-aérien ennemi est contrôlé depuis la base de KEYSITE située en SECTOR. Jusqu'à ce que nous ayons capturé la base, le dispositif ennemi reste une menace potentielle. Capturer cette base est un objectif prioritaire.
+:TEXT1
+Les rapports du renseignement nous indiquent que la base de KEYSITE en SECTOR a récemment été modernisée. C'est la plaque tournante de toutes leurs opérations aériennes. Nous devons la capturer si nous voulons vaincre.
+:TEXT1
+Le renseignement nous signale que la base de KEYSITE a récemment été modernisée. Elle est située en SECTOR. C'est la plaque tournante de toutes leurs opérations aériennes. Nous devons la capturer si nous voulons vaincre.
+:TEXT1
+Une escouade des forces spéciales a découvert que le quartier général ennemi a été établi sur la base de KEYSITE en SECTOR. Si nous parvenons à la capturer, la capacité de combat ennemie en sera grandement affaiblie.
+:END		
+
+:OBJECTIVES
+:TYPE KEYSITE_OIL_REFINERY
+:TEXT1
+Les analystes du service des renseignements nous signale que la capacité de la raffinerie en SECTOR a été récemment augmentée. C'est la source de POL la plus importante des forces ennemies. La détruire nous assurerait un avantage majeur.
+:TEXT1
+Les analystes économiques nous signalent que les exportations de pétroles ennemies sont principalement liées à la raffinerie en SECTOR. La détruire aurait un impact majeur sur l'économie ennemie et pourrait le pousser à déclarer forfait.
+:TEXT1
+Bien que l'ennemi ait une industrie pétrolière établie depuis longtemps, la raffinerie en SECTOR a été modernisée récemment. La détruire nous permettrait de réduire considérablement la capacité de production ennemie et pourrait le pousser à abandonner la partie.
+:TEXT1
+Les photos satellites nous confirment que la raffinerie en SECTOR est la plaque tournante du système de pipeline. En la détruisant, nous mettrons à genoux l'industrie pétrolière ennemie.
+:END		
+
+:OBJECTIVES
+:TYPE KEYSITE_MILITARY_BASE
+:TEXT1
+Le satellite nous a permis de vérifier que la caserne militaire en SECTOR est la plaque tournante de la logistique ennemie. La capture de ce site est devenu un objectif prioritaire de notre campagne.
+:TEXT1
+Les renseignements nous confirment que le QG principal ennemi est établi dans la caserne en SECTOR. Sa capture nous permettrait de décapiter les formations terrestres ennemies.
+:TEXT1
+L'appareil du renseignement militaire ennemi est stationné dans la caserne en SECTOR. La capture du secteur nous permettrait de rendre le commandement ennemi aveugle et nous faciliterait considérablement la tâche. C'est un objectif prioritaire.
+:TEXT1
+Des informations fiables nous permettent de penser que le centre des opérations de l'ennemi est installé dans la caserne en SECTOR. La capture de cette caserne est un objectif prioritaire.
+:END		
+
+:OBJECTIVES
+:TYPE KEYSITE_POWER_STATION
+:TEXT1
+D'après nos informations, la centrale en SECTOR est un élément crucial de la grille de distribution électrique de l'ennemi. Si nous la détruisons, cela porterait un rude coup à l'économie ennemie. C'est une cible prioritaire.
+:TEXT1
+Nos analystes économiques rapportent que le complexe industriel ennemi le plus important est alimenté en électricité par la centrale située en SECTOR. La détruire nous permettrait de mettre l'économie ennemie à genoux et d'accélérer la conclusion de cette guerre. C'est une cible prioritaire.
+:TEXT1
+La centrale en SECTOR est stratégique pour l'ennemi dans la région. En la détruisant, nous pourrions alourdir considérablement la contrainte logistique de l'ennemi. La destruction de cet objectif nous faciliterait considérablement la tâche.	:TEXT1
+:TEXT1
+La centrale en SECTOR alimente le complexe militaro-industriel ennemi. Nos analystes pensent que la destruction de cette centrale pourrait réduire de façon significative la capacité de combat ennemie. Cette centrale est une cible prioritaire.
+:END		

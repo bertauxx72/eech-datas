@@ -1,0 +1,971 @@
+:START
+
+:TYPE TASK_ANTI_SHIP_STRIKE
+:TEXT1
+Satellite Intelligence has revealed an enemy carrier group in the combat area.
+:TEXT2
+On the most recent overhead pass it was in SECTOR.
+:TEXT3
+This must be neutralised before it can commence operations against our forces.
+:TEXT1
+A high altitude recon sortie has revealed a new enemy carrier group in the combat area.
+:TEXT2
+It was last spotted in SECTOR.
+:TEXT3
+It is imperative that this is attacked immediately before it has the chance to break contact.
+:TEXT1
+Signal Intelligence has discovered the presence of an enemy carrier group in the combat area.
+:TEXT2
+The signals last came from SECTOR.
+:TEXT3
+To maintain our air superiority challenge this must be destroyed as soon as possible.
+:TEXT1
+A picket ship has detected the radar emissions from an enemy carrier group in the combat area.
+:TEXT2
+The radar signals were detected in SECTOR.
+:TEXT3
+Launching an immediate strike against this target gives us the opportunity to hit them before they know they have been detected.
+:TEXT1
+Electronic Intelligence has revealed an active enemy carrier group in the theatre.
+:TEXT2
+The source of their signals is SECTOR.
+:TEXT3
+This has already inflicted considerable damage on our forces so it is imperative that we launch an immediate strike against it before it further degrades our capability.
+:TEXT1
+Communications Intelligence has detected that an enemy carrier group has reached the combat area.
+:TEXT2
+Their signals were last intercepted from SECTOR.
+:TEXT3
+Counter air requirements demand that this threat is neutralised without delay.
+:TEXT1
+Satellite Intelligence has revealed a new enemy carrier group in the combat area.
+:TEXT2
+This is in SECTOR.
+:TEXT3
+This must be neutralised before it can commence operations against our forces.
+:END
+
+:SUCCESS
+Congratulations! Scratch one carrier.
+:SUCCESS
+Well done! We are now well on the way towards establish naval superiority
+:SUCCESS
+You have successfully pressed home your attack, the carrier has sunk.
+:SUCCESS
+Congratulations! Much more of this and the enemy will have to start calling the area ironbottom sound.
+:FAILURE
+Most disappointing, your failure will lead to increased friendly losses in the combat area.
+:FAILURE
+Your failure allows enemy naval air operations to continue unhindered.
+:FAILURE
+Strike failed, mission planners will have to assign a more capable unit to this mission.
+:FAILURE
+Little or no damage inflicted on the primary target, a discouraging result that will only encourage the enemy to intensify his efforts.
+:END
+
+:TYPE TASK_BAI
+:TEXT1
+A special forces patrol has discovered enemy reinforcements moving up to the front. 
+:TEXT2
+The patrol reports the enemy to be in SECTOR.
+:TEXT3
+We must launch an immediate sortie against the enemy before the presence of our patrol is detected.
+:TEXT1
+A special forces patrol has discovered enemy reinforcements moving up to the front. 
+:TEXT2
+The enemy are last reported in SECTOR
+:TEXT3
+We must launch an immediate sortie against the enemy before they discover they have been detected. 
+:TEXT1
+A recon drone has sent back data that the enemy are reinforcing their forward units.
+:TEXT2
+Enemy were last spotted moving through SECTOR 
+:TEXT3
+Launch an immediate strike against them before they have the opportunity to dig in on the front line. 
+:TEXT1
+An Intelligence Operative reports that the enemy are moving elements of their reserve forward to support an attack.
+:TEXT2
+We have reliable information that parts of these forces are forming up in SECTOR.
+:TEXT3
+It is essential we strike these before they engage our forward ground units.
+:TEXT1
+Photo recon analysis has revealed the presence of mobile enemy support units behind the front line. 
+:TEXT2
+Enemy reserve units are currently positioned around SECTOR.
+:TEXT3
+A rapid strike will catch these forces in the open before they have the chance to harden their position.
+:TEXT1
+Increased signal traffic indicates increased activity from the enemy reserve echelon units.
+:TEXT2
+Enemy rear area activity is concentrated around SECTOR.
+:TEXT3
+An immediate strike should catch them by surprise.
+:TEXT1
+The last satellite fly by discovered increased activity behind the enemy front line.
+:TEXT2
+Reinforcements are massing around SECTOR.
+:TEXT3
+We must attack these units now whilst our information is still current.
+:END
+
+:SUCCESS
+Congratulations, that's one less enemy unit our ground forces will have to worry about.
+:SUCCESS
+Excellently executed strike, the enemies rear area is in chaos.
+:SUCCESS
+Well done, the enemy will now have to be more circumspect about committing his reserves.
+:PARTIAL
+Some losses inflicted but the enemy combat capability is not sufficiently degraded.
+:PARTIAL
+Despite losses the enemy unit remains battle worthy.
+:PARTIAL
+Casualties inflicted have not significantly reduced the enemy combat effectiveness.
+:FAILURE
+Enemy remains intact, this could put a lot of pressure on our front lines.
+:FAILURE
+Failure, enemy still has freedom of movement through his rear area.
+:FAILURE
+Attack failed, enemy can continue developing his operation without hindrance.
+:END
+
+:TYPE TASK_BARCAP
+:TEXT1
+To maintain air superiority over our carriers fly a BARCAP around SECTOR
+:TEXT2
+:TEXT3
+:TEXT1
+To neutralise any enemy air effort against friendly carriers fly a BARCAP around SECTOR
+:TEXT2
+:TEXT3
+:END
+
+:SUCCESS
+Success, enemy aircraft failed to penetrate this screen.
+:FAILURE
+A significant enemy threat was allowed to develop through this sector.
+:END
+
+:TYPE TASK_BDA
+:TEXT1
+Friendly aircraft have just struck enemy targets around SECTOR
+:TEXT2
+:TEXT3
+Operations require immediate information on the success of this strike.
+:TEXT1
+Air attacks have been launched against the enemy in the region of SECTOR
+:TEXT2
+:TEXT3
+Target planners need accurate intelligence on remaining enemy capability in this area.
+:TEXT1
+Our air offensive has been continued with strikes against targets in SECTOR
+:TEXT2
+:TEXT3
+High command needs details on this mission without delay
+:TEXT1
+Strike aircraft have just hit targets in SECTOR
+:TEXT2
+:TEXT3
+We need to know if the enemy threat here has now been neutralised.
+:TEXT1
+Enemy targets around SECTOR have been hit as part of our air offensive.
+:TEXT2
+:TEXT3
+Post strike target evaluation is an immediate requirement.
+:TEXT1
+Offensive air operations have been launched vs. enemy forces in SECTOR
+:TEXT2
+:TEXT3
+Offensive air operations have been launched vs. enemy forces in SECTOR We need urgent confirmation that enemy capability here has now been destroyed.
+:TEXT1
+Friendly aircraft have just struck KEYSITE in SECTOR
+:TEXT2
+:TEXT3
+Operations require immediate information on the success of this strike.
+:END
+
+:SUCCESS
+Intelligence now have the information they require, well done.
+:SUCCESS
+Mission successfully executed, operational data now updated.
+:SUCCESS
+Success, your data tallies with that from the strike pilots and new missions can now be planned accordingly.
+:FAILURE
+Failure. Follow up missions have now been aborted due lack of necessary data.
+:FAILURE
+Failure. Additional aircraft must now be assigned to this mission.
+:FAILURE
+Failure. Other aircraft must now be rescheduled to perform this mission.
+:END
+:TYPE TASK_CLOSE_AIR_SUPPORT
+:TEXT1
+Forward listening posts report that the enemy are massing for an attack.
+:TEXT2
+The enemy are concentrated along the front line in SECTOR
+:TEXT3
+An immediate strike must be launched to prevent a potentially critical breakthrough.
+:TEXT1
+Front line units are coming under increasing pressure from enemy armour.
+:TEXT2
+The heaviest fighting is currently around SECTOR
+:TEXT3
+The enemy tanks must be stopped before they break into our forward positions.
+:TEXT1
+Lead elements are unable to neutralise massed enemy armour.
+:TEXT2
+The situation is most critical around SECTOR
+:TEXT3
+A rapid air strike is the only way to restore the situation.
+:TEXT1
+The front lines are under heavy fire from enemy tanks.
+:TEXT2
+The worst of this is coming from an area around SECTOR
+:TEXT3
+Launch an immediate air strike in order to minimise friendly casualties.
+:TEXT1
+Ground forces report increased enemy activity on the front line.
+:TEXT2
+Enemy armour is concentrated in SECTOR.
+:TEXT3
+Friendly losses are mounting and an immediate air strike is requested to relieve the pressure.
+:TEXT1
+Forward units are suffering heavy losses from enemy AFVs.
+:TEXT2
+The main weight of enemy fire originates from SECTOR
+:TEXT3
+Knock these tanks out before our ground forces are forced to withdraw.
+:TEXT1
+Forward patrols report that the enemy are pulling back.
+:TEXT2
+A substantial column is currently on the move around SECTOR
+:TEXT3
+Hit them before they have the chance to establish a new defensive line.
+:TEXT1
+Front line units say that enemy fire has decreased significantly.
+:TEXT2
+The front line is most quiet around SECTOR
+:TEXT3
+An immediate strike will deny the enemy the opportunity to reorganise his retreating units.
+:TEXT1
+Recon units have discovered that the enemy are attempting to consolidate their front line.
+:TEXT2
+Enemy armour is retreating through SECTOR
+:TEXT3
+We must destroy this armour before it reaches its new position. 
+:END
+
+:SUCCESS
+Fantastic! There are some very relieved ground forces down there.
+:SUCCESS
+Enemy formation completely neutralised, the threat in this area is now negated.
+:SUCCESS
+Target destroyed, enemy operation aborted.
+:SUCCESS
+Great job, ground forces report they can see nothing but burning tanks.
+:PARTIAL
+Despite losses the enemy unit remains in the front line.
+:PARTIAL
+The casualties inflicted are not sufficient to deter the enemy from continuing with his operation.
+:PARTIAL
+Ground forces report they are still in contact with some battle worthy enemy tanks.
+:PARTIAL
+Enemy tanks are still active in the area - you must have missed some!
+:FAILURE
+Our ground forces report no slackening in the enemy operation.
+:FAILURE
+Ground forces report increasing losses from large numbers of enemy AFVs still in the combat area.
+:FAILURE
+Enemy operation is continuing undiminished by your effort.
+:FAILURE
+The threat from enemy tanks in this area remains high and we're now having to adjust our plans to account for this.
+:END
+
+:TYPE TASK_COMBAT_AIR_PATROL
+:TEXT1
+Enemy forces must not be allowed to interfere with our counter air operations.
+:TEXT2
+:TEXT3
+Fly a CAP around SECTOR to defend our aviation support assets in this area.
+:TEXT1
+To achieve battlefield air superiority we must maintain control over friendly airspace.
+:TEXT2
+:TEXT3
+To protect our bases fly a CAP around SECTOR.
+:TEXT1
+There are indications that the enemy is stepping up his counter air effort.
+:TEXT2
+:TEXT3
+To neutralise any enemy attacks fly a CAP in the region around SECTOR.
+:TEXT1
+There is concern that our airbases are vulnerable to enemy strike missions.
+:TEXT2
+:TEXT3
+A CAP mission is required around the region of SECTOR 
+:TEXT1
+Enemy air units show signs of increasing activity.
+:TEXT2
+:TEXT3
+This means that our airbases around SECTOR need the protection of a CAP.
+:TEXT1
+Enemy aircraft must be denied the opportunity of penetrating friendly airspace.
+:TEXT2
+:TEXT3
+To prevent any enemy threat from developing fly a CAP in the area of SECTOR.
+:END
+
+:SUCCESS
+Success, enemy aircraft failed to penetrate this screen.
+:FAILURE
+A significant enemy threat was allowed to develop through this sector.
+:END
+
+:TYPE TASK_ESCORT
+:TEXT1
+:TEXT2
+Friendly aircraft are flying an important mission to SECTOR
+:TEXT3
+It is important that the enemy are not allowed to disrupt this mission and so our aircraft must be escorted.
+:TEXT1
+:TEXT2
+Friendly aircraft have been tasked with a mission to SECTOR
+:TEXT3
+To minimise the chance of casualties it has been decided to allocate an escort to this mission
+:TEXT1
+:TEXT2
+Friendly aircraft are operating against SECTOR
+:TEXT3
+Intelligence reports that the enemy regard this as a key area so our mission must be escorted.
+:TEXT1
+:TEXT2
+A friendly strike mission is being launched against point SECTOR
+:TEXT3
+It is important that the enemy are not allowed to disrupt our attack and so our aircraft must be escorted.
+:TEXT1
+:TEXT2
+A key offensive mission is being launched vs. targets in the region around SECTOR
+:TEXT3
+To prevent losses from enemy interceptors our aircraft require an escort.
+:TEXT1
+:TEXT2
+Friendly aircraft have been tasked with destroying targets around SECTOR
+:TEXT3
+Enemy aircraft have been active around the area so our mission requires an escort.
+:TEXT1
+:TEXT2
+A friendly support mission is being launched against SECTOR
+:TEXT3
+An escort is required so that our aircraft can complete their task unhindered.
+:TEXT1
+:TEXT2
+Friendly aircraft are operating towards SECTOR
+:TEXT3
+The enemy have been active in this area recently and our aircraft require an escort.
+:TEXT1
+:TEXT2
+We have a support mission flying to SECTOR
+:TEXT3
+It is essential that the enemy do not interfere with missions in controlled airspace therefore this mission will be escorted.
+:TEXT1
+:TEXT2
+Friendly support aircraft have a mission to SECTOR
+:TEXT3
+To maintain air superiority in our rear area our aircraft require an escort.
+:TEXT1
+:TEXT2
+Friendly aircraft have been tasked with a mission to SECTOR
+:TEXT3
+We must maintain control of our air corridors so this mission will be escorted.
+:TEXT1
+:TEXT2
+We have friendly aircraft operating towards SECTOR
+:TEXT3
+Intelligence indicates that the enemy are attempting to interdict our air corridors so this mission requires an escort. 
+:END
+
+:SUCCESS
+Good job, escorted aircraft reached their objective safely.
+:SUCCESS
+Well done, the mission commander says thanks for the escort.
+:SUCCESS
+Good performance, enemy unable to interdict our operation.
+:SUCCESS
+Mission accomplished, operations can continue as planned.
+:FAILURE
+What a shambles! Where were you guys?
+:FAILURE
+Your failure to secure the air corridor has forced us to increase our counter air activity.
+:FAILURE
+We have suffered needless casualties due to the failure of the escort to protect its charges and our operations must be adjusted accordingly.
+:FAILURE
+Unacceptable losses have been suffered thanks to your poor performance.
+:END
+
+:TYPE TASK_GROUND_STRIKE
+:TEXT1
+The recon mission against SECTOR has discovered some interesting information.
+:TEXT2
+Photo analysis reveals increased enemy activity in this area.
+:TEXT3
+Therefore it has been decided to destroy KEYSITE located here.
+:TEXT1
+A successful recon sortie around the area at SECTOR obtained some key intelligence.
+:TEXT2
+The pilots debrief indicates this is a key area for the enemy.
+:TEXT3
+We can strike a significant blow against the enemy by neutralising KEYSITE.
+:TEXT1
+The recon mission against SECTOR has discovered some interesting information.
+:TEXT2
+Our mission planners are very pleased with the results of reconnaissance around SECTOR
+:TEXT3
+Data analysis allows us to conclude that a strike here will seriously disrupt the enemy plans. Therefore an immediate strike is being launched against KEYSITE, situated in this area.
+:TEXT1
+The recon mission has discovered some interesting information.
+:TEXT2
+A recon sortie has just returned from the SECTOR
+:TEXT3
+The information obtained from this mission has made us realise that this is a vital location. It is essential that a successful strike be launched against KEYSITE at once.
+:TEXT1
+The recon mission has discovered some interesting information.
+:TEXT2
+We have just received information from a recon mission around SECTOR
+:TEXT3
+The intelligence found indicates that this is a critical installation for the enemy. We can seriously degrade the enemy war effort by the destroying KEYSITE.
+:TEXT1
+The recon mission against SECTOR has discovered some interesting information.
+:TEXT2
+Results are just in from the reconnaissance of point SECTOR.
+:TEXT3
+Analysis of all the data shows that this region is more important than originally envisaged. Therefore we must attack KEYSITE without delay.
+:END
+
+:SUCCESS
+Mission accomplished, enemy war effort seriously degraded.
+:SUCCESS
+Target devastated, we won't have to return to this one for quite some time!
+:SUCCESS
+Excellently executed strike, target is in ruins and operations can continue as planned.
+:SUCCESS
+That's one less installation for the target planners to worry about!
+:PARTIAL
+Target remains operational, further missions will have to be tasked with finishing the job.
+:PARTIAL
+Some damage inflicted but insufficient to render the installation ineffective.
+:PARTIAL
+Nothing vital seems to have been hit, enemy operations are continuing.
+:PARTIAL
+Installation remains active despite the damage suffered.
+:FAILURE
+I guess we'll be going back to this one.
+:FAILURE
+Strike failed, enemy operations continuing undiminished.
+:FAILURE
+Installation remains intact, further strike missions will have to be scheduled because of your failure.
+:FAILURE
+Little or no damage inflicted to the target, mission a complete failure.
+:END
+
+:TYPE TASK_OCA_STRIKE
+:TEXT1
+:TEXT2
+The enemy success in capturing SECTOR is a major setback for us. 
+:TEXT3
+We need an OCA Strike to restore the situation as quickly as possible.
+:TEXT1
+:TEXT2
+There is grave concern about the enemy seizure of SECTOR. 
+:TEXT3
+Enemy forces must be destroyed with an OCA Strike before they can exploit their success.
+:END
+
+:SUCCESS
+Strike successful, enemy aircraft neutralised on the ground.
+:FAILURE
+Strike failed, enemy air operations will continue unhindered.
+:END		
+
+:TYPE TASK_OCA_SWEEP		
+:TEXT1
+:TEXT2
+Enemy occupation of SECTOR is seriously handicapping our air operations.
+:TEXT3
+To support the strike against this force an OCA sweep is required. 
+:TEXT1
+:TEXT2
+The enemy success in capturing SECTOR is a major setback for us. 
+:TEXT3
+To maximise the chance of an OCA strike succeeding in destroying the enemy here our attack aircraft need the support of an escorting OCA sweep.
+:TEXT1
+:TEXT2
+There is grave concern about the enemy seizure of SECTOR. 
+:TEXT3
+Gain air superiority over the area with an OCA Sweep to allow our strike aircraft to neutralise the enemy without interference from enemy interceptors.
+:END		
+
+:SUCCESS
+Sweep successful, strike aircraft reached target area.
+:FAILURE
+Sweep failed, enemy intercepted strike aircraft before the attack commenced.
+:END		
+
+:TYPE TASK_RECON		
+:TEXT1
+Satellite sensors have recently picked up a lot of movement from the region around SECTOR
+:TEXT2
+A recon mission is requested to find out what lies behind this.
+:TEXT3
+:TEXT1
+A radio intercept has revealed that there are significant enemy assets in position in SECTOR
+:TEXT2
+Before we can schedule a strike against this our mission planners require more detailed information. 
+:TEXT3
+:TEXT1
+We have intercepted an unusual amount of enemy radio traffic emanating from SECTOR
+:TEXT2
+A recon mission to this area is required to discover the enemy intentions.
+:TEXT3
+:TEXT1
+Infra Red sensors have picked up a surprising hot spot around SECTOR
+:TEXT2
+Before we add this to our target list accurate information is required from a recon mission to this point.
+:TEXT3
+:TEXT1
+A large column of dust was observed moving through SECTOR
+:TEXT2
+A recon mission is needed to ascertain what lies behind this.
+:TEXT3
+:TEXT1
+Movement detectors have picked up what appears to be a formation of enemy vehicles around SECTOR
+:TEXT2
+A recon mission has been tasked to obtain accurate information on the enemy unit in question 
+:TEXT3
+:TEXT1
+Radio intercepts have revealed that enemy armour is on the move in the region of SECTOR
+:TEXT2
+Before a strike is launched against this a recon mission is required to discover the exact position of the enemy.
+:TEXT3
+:TEXT1
+An Electronic Counter Measure unit has picked up multiple scan signals from around SECTOR
+:TEXT2
+Before a strike can penetrate this region a recon mission is required to establish the enemy anti aircraft capability.
+:TEXT3
+:TEXT1
+A recent high altitude recon mission reported has reported multiple enemy lock on attempts from SECTOR
+:TEXT2
+A low level recon mission is needed to establish if the enemy has bolstered their anti aircraft defences in this area.
+:TEXT3
+:TEXT1
+An enemy engineer unit has been observed in SECTOR
+:TEXT2
+High command are concerned the enemy are preparing a new anti aircraft site and a recon mission has been scheduled to obtain more data.
+:TEXT3
+:TEXT1
+An enemy engineer unit has been observed in SECTOR
+:TEXT2
+We urgently need accurate information on what is the reason for this.
+:TEXT3
+:TEXT1
+A recent high altitude recon sortie spotted a flurry of activity in the area of SECTOR
+:TEXT2
+Intelligence need more information on this and have requested a low level recon flight to the area.
+:TEXT3
+:TEXT1
+We have an intelligence report that the enemy command are concerned with the area in the vicinity SECTOR
+:TEXT2
+We need more data about this and a recon mission has been scheduled to this area.
+:TEXT3
+:TEXT1
+A special forces patrol has observed a significant increase in the amount of enemy traffic around SECTOR
+:TEXT2
+We need to discover if the enemy are upgrading their installations in this area.
+:TEXT3
+:TEXT1
+The enemy have suddenly declared the region around SECTOR as closed to the press.
+:TEXT2
+We need a recon flight to the area to discover if this is connected to the installations around this point.
+:TEXT3
+:TEXT1
+Mission planners require up to date information on the status of enemy installations in SECTOR
+:TEXT2
+A recon mission has been scheduled to this point. 
+:TEXT3
+:TEXT1
+We are unsure about whether enemy facilities in SECTOR are still operational.
+:TEXT2
+A recon mission is required to provide the necessary information.
+:TEXT3
+:END
+
+:SUCCESS
+Nice job, our mission planners are already using the information received.
+:SUCCESS
+Success, we know now the enemy intentions in this area and can plan accordingly.
+:SUCCESS
+Well done, another blank in the intelligence puzzle has been filled in.
+:SUCCESS
+Vital data received and our plans are now being revised to take this into account.
+:FAILURE
+Your failure will diminish the effectiveness of our air operations due to lack of accurate information.
+:FAILURE
+Your failure has resulted in follow up missions being aborted due to the want of accurate target data.
+:FAILURE
+Enemy operations can continue unhindered in this area due to the lack of intelligence we have on their capabilities.
+:FAILURE
+The enemy remain secure due to the failure of your reconnaissance effort.
+:END
+
+:TYPE TASK_REPAIR
+:TEXT1
+:TEXT2
+To maintain the pace of operations engineers require transport to SECTOR in order to repair facilities.
+:TEXT3
+:TEXT1
+:TEXT2
+Damage to installations around SECTOR are causing operational difficulties, therefore engineers are required in this area immediately.
+:TEXT3
+:TEXT1
+:TEXT2
+Transport engineers to SECTOR to prevent our combat effectiveness from being degraded due to damage to the installations. 
+:TEXT3
+:END
+
+:SUCCESS
+Facility now operational, missions can continue as planned.
+:FAILURE
+Facility remains inoperative and so diminishes our combat effort.
+:END
+
+:TYPE TASK_SEAD
+:TEXT1
+Photographic data analysis reveals the enemy are reinforcing their air defences.
+:TEXT2
+Their main effort is around SECTOR
+:TEXT3
+In order to control the airspace in this region the air defences here must be suppressed.
+:TEXT1
+Radar intelligence indicates increasingly active enemy air defence systems.
+:TEXT2
+One of these is in SECTOR
+:TEXT3
+To maintain our counter air effort the anti aircraft defences here must be destroyed.
+:TEXT1
+A recon mission reports increased enemy anti aircraft capability.
+:TEXT2
+This was centred around SECTOR
+:TEXT3
+Counter air operations are essential to battlefield success so a SEAD mission is required.
+:TEXT1
+A Signal intercept reveals increasingly active enemy air defences.
+:TEXT2
+One centre for such activity is SECTOR.
+:TEXT3
+We cannot allow enemy anti aircraft systems here to hinder our strike missions, therefore friendly aircraft have been tasked with a SEAD mission.
+:TEXT1
+Electronic intelligence leads us to conclude that the enemy are bolstering their counter air effort.
+:TEXT2
+They are especially concerned with protecting the region around SECTOR  
+:TEXT3
+To gain control of the airspace in this area the defences here must be destroyed.
+:TEXT1
+Communications intelligence verifies that the enemy anti aircraft effort is continuing.
+:TEXT2
+Defences are especially strong around SECTOR
+:TEXT3
+In order to launch successful strikes against this area we must first eliminate the air defences here. 
+:END		
+
+:SUCCESS
+Enemy air defences now suppressed and strike missions can now be launched into this region.
+:SUCCESS
+Anti Aircraft threat sufficiently diminished to allow our strike aircraft to penetrate the area.
+:SUCCESS
+Congratulations, enemy anti aircraft capability in this area neutralised.
+:SUCCESS
+Congratulations, enemy anti aircraft capability in this area neutralised.
+:PARTIAL
+Although some hits were scored enemy air defences still pose a significant threat to our aircraft, further missions are required to suppress this target.
+:PARTIAL
+Damage inflicted insufficient to neutralise the enemy anti aircraft capability at this point. A follow up mission will have to be launched.
+:PARTIAL
+Despite casualties the enemy anti aircraft unit remains active and still denies this airspace to our strike aircraft.
+:PARTIAL
+Anti aircraft system is still operational, strikes into this area have been cancelled until it has been completely destroyed.
+:FAILURE
+Enemy air defences undiminished, our aircraft will have to be diverted from other missions to counter this threat.
+:FAILURE
+No reduction of anti aircraft threat in this area, strike missions curtailed until it is dealt with.
+:FAILURE
+Enemy air defence system remains fully operational, mission a complete failure.
+:FAILURE
+Enemy anti aircraft capability is still at full effectiveness making it impossible for our strike aircraft to penetrate this airspace.
+:END
+
+:TYPE TASK_SUPPLY
+:TEXT1
+:TEXT2
+Friendly forces in SECTOR require resupply.
+:TEXT3
+:TEXT1
+:TEXT2
+To maintain operations a supply mission to SECTOR is required immediately.
+:TEXT3
+:TEXT1
+:TEXT2
+Increased activity around SECTOR has meant that friendly forces require resupply as a matter of some urgency.
+:TEXT3
+:END
+
+:SUCCESS
+Logistic requirements met, operations continuing at full effect.
+:FAILURE
+Insufficient supplies delivered to meet operational requirements, missions have therefore been scaled down accordingly.
+:END		
+
+:TYPE TASK_TRANSFER_HELICOPTER		
+:TEXT1
+:TEXT2
+Intelligence indicates increased enemy activity directed towards SECTOR
+:TEXT3
+Reinforce our units by transferring to this destination.
+:TEXT1
+:TEXT2
+Operational needs have led to the need for more aircraft in SECTOR
+:TEXT3
+Transfer to this location immediately.
+:TEXT1
+:TEXT2
+Friendly units around SECTOR request increased support.
+:TEXT3
+A transfer mission to this region is required.
+:TEXT1
+:TEXT2
+Mission planners report they need more friendly aircraft in SECTOR
+:TEXT3
+A transfer mission is required to deal with this.
+:TEXT1
+:TEXT2
+Intelligence indicates increased enemy activity directed towards SECTOR
+:TEXT3
+Reinforce our units by transferring to KEYSITE.
+:END		
+
+:SUCCESS
+Aircraft rebased successfully, operations can continue as planned.
+:FAILURE
+Aircraft not rebased, we now have insufficient combat power in this region to prosecute the campaign at full effectiveness.
+:END
+
+:TYPE TASK_TRANSFER_FIXED_WING
+:TEXT1
+:TEXT2
+Intelligence indicates increased enemy activity directed towards SECTOR
+:TEXT3
+Reinforce our units by transferring to this destination.
+:TEXT1
+:TEXT2
+Operational needs have led to the need for more aircraft in SECTOR
+:TEXT3
+Transfer to this location immediately.
+:TEXT1
+:TEXT2
+Friendly units around SECTOR request increased support.
+:TEXT3
+A transfer mission to this region is required.
+:TEXT1
+:TEXT2
+Mission planners report they need more friendly aircraft in SECTOR
+:TEXT3
+A transfer mission is required to deal with this.
+:TEXT1
+:TEXT2
+Intelligence indicates increased enemy activity directed towards SECTOR
+:TEXT3
+Reinforce our units by transferring to KEYSITE.
+:END
+
+:SUCCESS
+Aircraft rebased successfully, operations can continue as planned.
+:FAILURE
+Aircraft not rebased, we now have insufficient combat power in this region to prosecute the campaign at full effectiveness.
+:END
+
+:TYPE TASK_TROOP_INSERTION
+:TEXT1
+:TEXT2
+To capitalise on our success against targets around SECTOR ground troops are required to secure the position.
+:TEXT3
+Fly an immediate insertion mission.
+:TEXT1
+:TEXT2
+Enemy defences in SECTOR have been degraded sufficiently to allow infantry to take the area.
+:TEXT3
+They will require an insertion mission.
+:TEXT1
+:TEXT2
+With enemy forces neutralised in the region around SECTOR we can deploy ground forces to exploit the enemy weakness.
+:TEXT3
+They will require an insertion mission against the target area.
+:TEXT1
+:TEXT2
+Enemy defences in SECTOR have been destroyed.
+:TEXT3
+To maintain the momentum of our attack an insertion operation is required.
+:END
+
+:SUCCESS
+Installation secured, campaign can continue as planned.
+:FAILURE
+Enemy still hold the position, our operations here require additional support.
+:END
+
+:TYPE TASK_NOTHING
+:END
+
+:SUCCESS
+Sadly, despite the success of your mission the circumstances of the friendly fire incident has somewhat tarnished your reputation.
+:SUCCESS
+However, the casualties from friendly fire make us wonder whether you are really suitable material for a gunship commander.
+:SUCCESS
+Although the mission was a success the losses sustained from friendly fire leads to questions about your temperament. If you cannot curb your overly aggressive instincts you have no place in military aviation.
+:PARTIAL
+Regrettably the minor success of this mission has been negated by the friendly fire incident which demonstrates an alarmingly poor command ability on your part. 
+:PARTIAL
+Although this mission was not a complete failure, the circumstances of the friendly fire make us question your fitness to lead such missions again.
+:PARTIAL
+However, whatever success we could have claimed has been more than offset by the casualties suffered from friendly fire.
+:FAILURE
+Your performance was disgracefully inept. Not only was the mission a total failure but we have suffered losses from friendly fire. Your suitability for command is now very much in question.
+:FAILURE
+All in all this has been a dismal operation when you consider the friendly casualties together with the mission failure.
+:FAILURE
+The situation is made far worse due to the friendly fire incident during the mission. You can consider yourself fortunate not to be facing a court martial.
+:END
+
+:MEDAL
+:TYPE ARMY_AVIATOR
+:TYPE SENIOR_AVIATOR
+:TYPE MASTER_AVIATOR
+:TEXT1
+In recognition of your hours spent flying in the combat zone the air staff are pleased to award you the MEDAL medal.
+:END
+
+:MEDAL
+:TYPE ARMY_AVIATOR
+:TYPE SENIOR_AVIATOR
+:TYPE MASTER_AVIATOR
+:TEXT1
+In recognition of your hours spent flying in the combat zone the air staff are pleased to award you the MEDAL.
+:END
+
+:MEDAL
+:TYPE FLYING_CROSS
+:TYPE SILVER_STAR
+:TYPE DISTINGUISHED_SERVICE
+:TEXT1
+In recognition of your bravery in the face of the enemy above and beyond the call of duty the Air Staff is delighted to award you the MEDAL.
+:TEXT1
+In recognition of the inspirational leadership qualities shown in the midst of the enemy the Air Staff is delighted to award you the MEDAL.
+:TEXT1
+In recognition of the example your courage has set to the men under your command the Air Staff is delighted to award you the MEDAL.
+:TEXT1
+In recognition of the bravery you have demonstrated which is an inspiration to our entire armed force the Air Staff is delighted to award you the MEDAL.
+:TEXT1
+In recognition of the unfailing demonstration of determined leadership throughout many dangerous mission the Air Staff is delighted to award you the MEDAL.
+:TEXT1
+In recognition of your disregard for enemy fire whilst effectively employing all the weapons under your comman the Air Staff is delighted to award you the MEDAL.
+:END
+
+:MEDAL
+:TYPE MEDAL_OF_HONOUR
+:TEXT1
+In recognition of of your valiant actions in the midst of the enemy which have brought credit to our entire armed force the Air Staff is delighted to award you the MEDAL.
+:TEXT1
+In recognition of your unfailing demonstration of personal valour the Air Staff is delighted to award you the MEDAL.
+:END
+
+:MEDAL
+:TYPE AIR_MEDAL
+:TEXT1
+In recognition of your bravery in the face of the enemy above and beyond the call of duty the Air Staff is delighted to award you the MEDAL.
+:TEXT1
+In recognition of the inspirational leadership qualities shown in the midst of the enemy the Air Staff is delighted to award you the MEDAL.
+:TEXT1
+In recognition of the example your courage has set to the men under your command the Air Staff is delighted to award you the MEDAL.
+:END
+
+:MEDAL
+:TYPE PURPLE_HEART
+:TEXT1
+In recognition of the wound suffered whilst in the service of your country the Air Staff is pleased to award you the MEDAL.
+:END
+
+:PROMOTION
+:TEXT1
+In recognition of the leadership qualities you have shown whilst on active service the Air Staff is pleased to promote you to the rank of RANK.
+:TEXT1
+In recognition of the unfailing example you have set to the men under your command the Air Staff is pleased to promote you to the rank of RANK.
+:TEXT1
+In recognition of the command ability you have unfailingly demonstrated whilst engaged on active operations the Air Staff is pleased to promote you to the rank of RANK.
+:END
+
+:OBJECTIVES
+:TYPE KEYSITE_ANCHORAGE
+:TEXT1
+The carrier KEYSITE is the pride of the enemy fleet. If we can sink this not only will we seriously impair their combat capability but we will also seriously erode their morale.
+:TEXT1
+The major naval asset of the enemy fleet is the KEYSITE. Neutralising this threat will be a key objective of our campaign.
+:TEXT1
+Carrier KEYSITE is the enemy fleet flagship and their command and control centre. Striking this will reduce their combat effectiveness to such a degree that we will have victory within our grasp.
+:TEXT1
+The carrier KEYSITE provides much of the enemy counter air capability. Sinking this will so reduce their combat power that they will realise that their campaign is doomed.
+:END
+
+:OBJECTIVES
+:TYPE KEYSITE_AIRBASE
+:TEXT1
+The KEYSITE airbase in SECTOR is the main command centre for the enemy airforce. If we can capture this we might paralyse their airforce to the extent that they realise that defeat in inevitable.
+:TEXT1
+The enemy air defence system is controlled from the KEYSITE airbase in SECTOR. Until we can capture this their airforce will remain a potent threat. Securing this installation will be a key part of our strategy and a pre requisite for victory.     
+:TEXT1
+Intelligence reports that KEYSITE airbase in SECTOR has recently been extensively modernised. It is the pride of their airforce and the hub of all their air operations. We will need to capture this before we can seriously contemplate victory.
+:TEXT1
+Intelligence reports that KEYSITE airbase has recently been extensively modernised. It is located in SECTOR. This is the pride of their airforce and the hub of all their air operations. We will need to capture this before we can seriously contemplate victory.
+:TEXT1
+A covert operation has discovered that the campaign headquarters of the enemy airforce has been established at KEYSITE airbase in SECTOR. The damage we would inflict by capturing this would seriously erode their combat effectiveness. 
+:END
+
+:OBJECTIVES
+:TYPE KEYSITE_OIL_REFINERY
+:TEXT1
+Intelligence analysts report that the capacity of the oil refinery in SECTOR has increased significantly recently. This is now the major POL source for the enemy armed forces. Destroying this would seriously impair their manoeuvre capability. 
+:TEXT1
+Economic analysts state that the bulk of the enemies oil exports are now provided by the oil refinery in SECTOR. Destroying this would cripple their economy to the extent that they would have to seriously consider admitting defeat.
+:TEXT1
+Although the enemy have a long established petroleum industry only the oil refinery in SECTOR has up to date plant machinery. Destroying this would slow their oil production to a trickle and make the burden of the war intolerable for their economy.
+:TEXT1
+Recent satellite photos confirm that the oil refinery in SECTOR is the hub of their oil pipe line system. If we can destroy this then their entire petroleum industry will come to a halt.   
+:END
+
+:OBJECTIVES
+:TYPE KEYSITE_MILITARY_BASE
+:TEXT1
+From Satellite Intelligence we have ascertained that the military base in SECTOR is the centre of their campaign logistics system. Capture of this site is therefore a key objective for bringing the campaign to a successful conclusion.
+:TEXT1
+Signal Intelligence confirms that the main enemy HQ is positioned at the military base in SECTOR. The capture of this might well result in the decapitation of their combat units and so dramatically shorten the war.
+:TEXT1
+The enemy intelligence gathering apparatus is based at the military base in SECTOR. Capture of this base should at the very least partially blind the enemy and the achievement of this must be considered a vital component of our plan to secure victory.
+:TEXT1
+We have reliable information from our intelligence services that the military base in SECTOR will be the enemy centre of operations for the forthcoming campaign. This makes the capture of this base a key objective of our campaign plan. 
+:END
+
+:OBJECTIVES
+:TYPE KEYSITE_POWER_STATION
+:TEXT1
+It is reported that the power station in SECTOR is a key component of the enemy electrical grid. Destroying this would cripple their economy and this makes it a key target for our air campaign.
+:TEXT1
+Economic analysts report that the main enemy industrial complex draws the bulk of its energy from the power station in SECTOR. Bringing the enemy economy to a halt will be one of the keys to bringing this war to a successful conclusion and so this power station is a key target.
+:TEXT1
+The power station in SECTOR is a major part of the enemy infrastructure in the region. Destroying this might well place an intolerable burden on the enemy logistic system. The successful prosecution of this objective should go a long way towards helping us secure victory.
+:TEXT1
+The power station in SECTOR is a significant energy provider for the enemy military - industrial complex. Analysts expect that destruction of this will eventually significantly reduce the enemies combat capability. This makes this power station a primary objective of our campaign plan.
+:END
+:END

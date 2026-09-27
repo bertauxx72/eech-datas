@@ -1,0 +1,445 @@
+:TRANSLATION Attack Helicopters
+ENGLISH Attack Helicopters
+FRENCH Attaque
+GERMAN Angriff
+ITALIAN Attacco
+SPANISH Ataque
+RUSSIAN ≥≤∑¶®¨≤¶¢-∞±¶∑≤ù∞¶≤¨∞
+
+
+:TRANSLATION Marine Attack Helicopters
+ENGLISH Marine Attack Helicopters
+FRENCH Marine
+GERMAN Seeangriff 
+ITALIAN Attacco marino
+SPANISH Ataque marine
+RUSSIAN ï®∑±¥∞≤ •≤∑¶®¨≤¶¢-∞±¶∑≤ù∞¶≤¨∞
+
+
+:TRANSLATION Assault Helicopters
+ENGLISH Assault Helicopters
+FRENCH Assaut
+GERMAN Sturmangriff
+ITALIAN Assalto
+SPANISH Asalto
+RUSSIAN Ç¶∂∑õ®•¢≤ •≤∑¶®¨≤¶¢
+
+
+:TRANSLATION Marine Assault Helicopters
+ENGLISH Marine Assault Helicopters
+FRENCH Assaut Marine
+GERMAN Seesturmangriff
+ITALIAN Assalto marino
+SPANISH Asalto marine
+RUSSIAN ï®∑±¥∞≤ ã¶∂∑õ®•¢≤ •≤∑¶®¨≤¶¢
+
+
+:TRANSLATION Recon Helicopters
+ENGLISH Recon Helicopters
+FRENCH Reco
+GERMAN Aufkl‰rung
+ITALIAN Ricognizione
+SPANISH Recon
+RUSSIAN éπµ•≤ß¢•π¶≤¨´™¢≤ •≤∑¶®¨≤¶¢
+
+
+:TRANSLATION Recon/Attack Helicopters
+ENGLISH Recon/Attack Helicopters
+FRENCH Reco/Attaque
+GERMAN Aufkl/Angriff
+ITALIAN Ricogn./Attacco
+SPANISH Recon/Ataque
+RUSSIAN éπµ•≤ß¢•π¶≤¨´™®/∞±¶∑≤ù∞¶≤¨´™¢≤ •≤∑¶®¨≤¶¢
+
+
+:TRANSLATION Medium-Lift Transport Helicopters
+ENGLISH Medium-Lift Transport Helicopters
+FRENCH Porteur Moyen
+GERMAN Mittellast
+ITALIAN Media portanza
+SPANISH Medio
+RUSSIAN ë∑π™±©®∑¶™¢≤ •≤∑¶®¨≤¶¢ ±∑≤ß™≤ü ∏∑∂µ®©®ßÄ≤õ™®±¶∞
+
+
+:TRANSLATION Heavy-Lift Transport Helicopters
+ENGLISH Heavy-Lift Transport Helicopters
+FRENCH Porteur Lourd
+GERMAN Schwerlast
+ITALIAN Grande portanza
+SPANISH Pesado
+RUSSIAN ëØ†≤¨¢≤ ¶∑π™±©®∑¶™¢≤ •≤∑¶®¨≤¶¢
+
+
+:TRANSLATION Multi-Role Fighters
+ENGLISH Multi-Role Fighters
+FRENCH Chasseur
+GERMAN J‰ger 
+ITALIAN Caccia
+SPANISH Caza
+RUSSIAN ö±¶∑≤ù∞¶≤¨∞ õ™®∏®ô≤¨≤•®∏® ™πµ™π≠≤™∞Ø
+
+
+:TRANSLATION Carrier-Borne Attack Aircraft
+ENGLISH Carrier-Borne Attack Aircraft
+FRENCH Attaque Navy
+GERMAN Marineangriff
+ITALIAN Attacco della marina
+SPANISH Ataque Armada
+RUSSIAN ö±¶∑≤ù∞¶≤¨´™πØ π•∞πô∞Ø õ®∑±¥®∏® ùπµ∞∑®•π™∞Ø
+
+
+:TRANSLATION Carrier-Borne Interceptors
+ENGLISH Carrier-Borne Interceptors
+FRENCH Chasseur Navy
+GERMAN Marinej‰ger
+ITALIAN Caccia della marina
+SPANISH Asalto Armada
+RUSSIAN ñ≤∑≤å•π¶≠∞¥∞ õ®∑±¥®∏® ùπµ∞∑®•π™∞Ø
+
+
+:TRANSLATION Close Air Support Aircraft
+ENGLISH Close Air Support Aircraft
+FRENCH CAS
+GERMAN CAS
+ITALIAN CAS
+SPANISH CAS
+RUSSIAN í•∞πô∞Ø ©∑∞¥∑¢¶∞Ø
+
+
+:TRANSLATION Medium-Lift Transport Aircraft
+ENGLISH Medium-Lift Transport Aircraft
+FRENCH Porteur Moyen
+GERMAN Mittellast
+ITALIAN Media portanza
+SPANISH Medio
+RUSSIAN ë∑π™±©®∑¶™πØ π•∞πô∞Ø ±∑≤ß™≤ü ¶Ø†≤±¶∞
+
+
+:TRANSLATION Heavy-Lift Transport Aircraft
+ENGLISH Heavy-Lift Transport Aircraft
+FRENCH Porteur Lourd
+GERMAN Schwerlast
+ITALIAN Grande portanza
+SPANISH Pesado
+RUSSIAN ëØ†≤¨πØ ¶∑π™±©®∑¶™πØ π•∞πô∞Ø
+
+
+:TRANSLATION Air Defence Artillery
+ENGLISH Air Defence Artillery
+FRENCH SAM/DCA
+GERMAN SAM/AAA
+ITALIAN SAM/AAA
+SPANISH SAM/AAA
+RUSSIAN ∫≤™∞¶™πØ π∑¶∞¨¨≤∑∞Ø
+
+
+:TRANSLATION Primary Frontline
+ENGLISH Primary Frontline
+FRENCH Ligne de Front
+GERMAN Frontlinie
+ITALIAN Fronte
+SPANISH Frente
+RUSSIAN ñ≤∑≤ß®•πØ ¨∞™∞Ø §∑®™¶π
+
+
+:TRANSLATION Secondary Frontline
+ENGLISH Secondary Frontline
+FRENCH Soutien
+GERMAN Unterst¸tzung
+ITALIAN Supporto
+SPANISH Soporte
+RUSSIAN ≥¶®∑πØ ¨∞™∞Ø §∑®™¶π
+
+
+:TRANSLATION Assault Ships
+ENGLISH Assault Ships
+FRENCH Assaut
+GERMAN Sturmangriff
+ITALIAN Assalto
+SPANISH Asalto
+RUSSIAN ó®≤•¢≤ ¥®∑πù¨∞
+
+
+:TRANSLATION Frigates
+ENGLISH Frigates
+FRENCH FrÈgate
+GERMAN Fregatte
+ITALIAN Fregata
+SPANISH Fragata
+RUSSIAN É∑≤∏π¶¢
+
+
+:TRANSLATION Landing Craft
+ENGLISH Landing Craft
+FRENCH Navire de DÈbarquement
+GERMAN Landungsboot
+ITALIAN Nave per l'atterraggio
+SPANISH Portaaviones
+RUSSIAN ú∑≤ß±¶•π •¢±πß¥∞ ß≤±π™¶π
+
+:TRANSLATION Warning System
+ENGLISH Warning System
+FRENCH Warning System
+GERMAN Warning System
+ITALIAN Warning System
+SPANISH Sistema de Aviso
+RUSSIAN ú∞±¶≤õπ ß∞π∏™®±¶∞¥∞ ®¶¥πµ®•
+
+
+:TRANSLATION Co-Pilot
+ENGLISH Co-Pilot
+FRENCH Co-Pilot
+GERMAN Co-Pilot
+ITALIAN Co-Pilot
+SPANISH Copiloto
+RUSSIAN ≥¶®∑®ü ©∞¨®¶
+
+
+:TRANSLATION Co-Pilot Voices
+ENGLISH Co-Pilot Voices
+FRENCH Co-Pilot Voices
+GERMAN Co-Pilot Voices
+ITALIAN Co-Pilot Voices
+SPANISH Voces del copiloto
+RUSSIAN £®¨®± •¶®∑®∏® ©∞¨®¶π
+
+:TRANSLATION Wingmen Speech
+ENGLISH Wingmen Speech
+FRENCH Wingmen Speech
+GERMAN Wingmen Speech
+ITALIAN Wingmen Speech
+SPANISH Di·logos del punto
+RUSSIAN ≥≤ß®õ¢≤
+
+
+:TRANSLATION Wingmen Voices
+ENGLISH Wingmen Voices
+FRENCH Wingmen Voices
+GERMAN Wingmen Voices
+ITALIAN Wingmen Voices
+SPANISH Voces del punto
+RUSSIAN £®¨®±π •≤ß®õ¢å
+
+
+:TRANSLATION Air Traffic Controller
+ENGLISH Air Traffic Controller
+FRENCH Air Traffic Controller
+GERMAN Air Traffic Controller
+ITALIAN Air Traffic Controller
+SPANISH Controlador de Tr·fico AÈreo
+RUSSIAN °∞±©≤¶≠≤∑ ç≥°
+
+
+:TRANSLATION Air Traffic Control
+ENGLISH Air Traffic Control
+FRENCH Air Traffic Control
+GERMAN Air Traffic Control
+ITALIAN Air Traffic Control
+SPANISH Control de Tr·fico AÈreo
+RUSSIAN îñ° (î®õπ™ß™®-ß∞±©≤¶≠≤∑±¥∞ü ©∂™¥¶)
+
+
+:TRANSLATION Forward Air Controller
+ENGLISH Forward Air Controller
+FRENCH Forward Air Controller
+GERMAN Forward Air Controller
+ITALIAN Forward Air Controller
+SPANISH Controlador AÈreo Avanzado
+RUSSIAN ©≤∑≤ß®•®ü π•∞πô∞®™™¢ü ™π•®ß≠∞¥
+
+
+:TRANSLATION Forward Air Control
+ENGLISH Forward Air Control
+FRENCH Forward Air Control
+GERMAN Forward Air Control
+ITALIAN Forward Air Control
+SPANISH Control AÈreo Avanzado
+RUSSIAN ©≤∑≤ß®•®ü π•∞πô∞®™™¢ü îñ
+
+
+:TRANSLATION Ground Control
+ENGLISH Ground Control
+FRENCH Ground Control
+GERMAN Ground Control
+ITALIAN Ground Control
+SPANISH Control en Tierra
+RUSSIAN Æπµ≤õ™¢ü ¥®õπ™ß™¢ü ©∂™¥¶
+
+
+:TRANSLATION Tracking
+ENGLISH Tracking
+FRENCH Tracking
+GERMAN Tracking
+ITALIAN Tracking
+SPANISH Seguimiento
+RUSSIAN ú¨≤†≤™∞≤
+
+:TRANSLATION destroyed by
+ENGLISH destroyed by
+FRENCH destroyed by
+GERMAN destroyed by
+ITALIAN destroyed by
+SPANISH destruido por
+RUSSIAN ∂™∞≠¶®†≤™ µ•≤™®õ
+
+:TRANSLATION under attack by
+ENGLISH under attack by
+FRENCH under attack by
+GERMAN under attack by
+ITALIAN under attack by
+SPANISH bajo ataque de
+RUSSIAN π¶π¥®•π™ µ•≤™®õ
+
+:TRANSLATION mission
+ENGLISH mission
+FRENCH mission
+GERMAN einsatz
+ITALIAN missione
+SPANISH misi∫n
+RUSSIAN µπßπ™∞≤
+
+:TRANSLATION by
+ENGLISH by
+FRENCH by
+GERMAN by
+ITALIAN by
+SPANISH por
+RUSSIAN µ•≤™®õ
+
+:TRANSLATION captured by
+ENGLISH captured by
+FRENCH captured by
+GERMAN captured by
+ITALIAN captured by
+SPANISH captuado por
+RUSSIAN µπå•π≠≤™ µ•≤™®õ
+
+:TRANSLATION destroyed
+ENGLISH destroyed
+FRENCH destroyed
+GERMAN destroyed
+ITALIAN destroyed
+SPANISH destruido
+RUSSIAN ∂™∞≠¶®†≤™
+
+:TRANSLATION revealed enemy
+ENGLISH revealed enemy
+FRENCH revealed enemy
+GERMAN revealed enemy
+ITALIAN revealed enemy
+SPANISH ha revelado que el sitio enemigo
+RUSSIAN ®ù™π∑∂†∞¨ ©∑®¶∞•™∞¥π
+
+:TRANSLATION is currently
+ENGLISH is currently
+FRENCH is currently
+GERMAN is currently
+ITALIAN is currently
+SPANISH  se encuentra
+RUSSIAN • ™π±¶®Øä∞ü õ®õ≤™¶
+
+:TRANSLATION revealed
+ENGLISH revealed
+FRENCH revealed
+GERMAN revealed
+ITALIAN revealed
+SPANISH revel∫ que
+RUSSIAN ®ù™π∑∂†≤™
+
+:TRANSLATION has been destroyed
+ENGLISH has been destroyed
+FRENCH has been destroyed
+GERMAN has been destroyed
+ITALIAN has been destroyed
+SPANISH ha sido destruido
+RUSSIAN ∂™∞≠¶®†≤™
+
+:TRANSLATION joined
+ENGLISH joined
+FRENCH joined
+GERMAN joined
+ITALIAN joined
+SPANISH se ha unido
+RUSSIAN ±®≤ß∞™∞¨±Ø
+
+:TRANSLATION quit
+ENGLISH quit
+FRENCH quit
+GERMAN quit
+ITALIAN quit
+SPANISH abandona
+RUSSIAN •¢ã≤¨
+
+:TRANSLATION player connected
+ENGLISH player connected
+FRENCH player connected
+GERMAN player connected
+ITALIAN player connected
+SPANISH jugador conectado	
+RUSSIAN ∞∏∑®¥ ©∑∞±®≤ß∞™∞¨±Ø
+
+:TRANSLATION players connected
+ENGLISH players connected
+FRENCH players connected
+GERMAN players connected
+ITALIAN players connected
+SPANISH jugadores conectados
+RUSSIAN ∞∏∑®¥∞ ©∑∞±®≤ß∞™∞¨∞±´
+
+:TRANSLATION revealed enemy armoured battalion
+ENGLISH revealed enemy armoured battalion
+FRENCH revealed enemy armoured battalion
+GERMAN revealed enemy armoured battalion
+ITALIAN revealed enemy armoured battalion
+SPANISH ha revelado un batall∫n blindado enemigo
+RUSSIAN ®ù™π∑∂†∞¨ ∏∑∂©©∞∑®•¥∂ ù∑®™≤¶≤å™∞¥∞ ©∑®¶∞•™∞¥π
+
+:TRANSLATION enemy A-A installation
+ENGLISH enemy A-A installation
+FRENCH enemy A-A installation
+GERMAN enemy A-A installation
+ITALIAN enemy A-A installation
+SPANISH instalaci∫n A-A enemiga
+RUSSIAN ∂±¶π™®•¥π ñ≥û ©∑®¶∞•™∞¥π
+
+:TRANSLATION enemy A-A installations
+ENGLISH enemy A-A installations
+FRENCH enemy A-A installations
+GERMAN enemy A-A installations
+ITALIAN enemy A-A installations
+SPANISH instalaciones A-A enemigas
+RUSSIAN ∂±¶π™®•¥∞ ñ≥û ©∑®¶∞•™∞¥π
+
+:TRANSLATION Inset target OFF
+ENGLISH Inset target OFF
+FRENCH Inset target OFF
+GERMAN Inset target OFF
+ITALIAN Inset target OFF
+SPANISH Motrar objetivo OFF
+RUSSIAN û¶®ù∑π†≤™∞≤ ô≤¨∞ •¢¥¨ò≠≤™®
+
+:TRANSLATION Inset target ON
+ENGLISH Inset target ON
+FRENCH Inset target ON
+GERMAN Inset target ON
+ITALIAN Inset target ON
+SPANISH Mostrar objetivo ON
+RUSSIAN û¶®ù∑π†≤™∞≤ ô≤¨∞ •¥¨ò≠≤™®
+
+:TRANSLATION In-flight intelligence messages OFF
+ENGLISH In-flight intelligence messages OFF
+FRENCH In-flight intelligence messages OFF
+GERMAN In-flight intelligence messages OFF
+ITALIAN In-flight intelligence messages OFF
+SPANISH Mensajes de inteligencia en vuelo OFF
+RUSSIAN ñ≤∑≤ßπ≠π ±•®ß®¥ • ¥πù∞™∂ ®¶¥¨ò≠≤™π
+
+:TRANSLATION In-flight intelligence messages ON
+ENGLISH In-flight intelligence messages ON
+FRENCH In-flight intelligence messages ON
+GERMAN In-flight intelligence messages ON
+ITALIAN In-flight intelligence messages ON
+SPANISH Mensajes de inteligencia en vuelo ON
+RUSSIAN ñ≤∑≤ßπ≠π ±•®ß®¥ • ¥πù∞™∂ •¥¨ò≠≤™π
+
+ 

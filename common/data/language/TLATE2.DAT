@@ -1,0 +1,627 @@
+:START
+
+
+:TRANSLATION Select Destination
+ENGLISH Select Destination
+FRENCH SÈlectionner Destination
+GERMAN Zielort w‰hlen
+ITALIAN Seleziona destinazione
+SPANISH Seleccionar Destino
+RUSSIAN ≥¢ù∑π¶´ ©®¨∂≠π¶≤¨Ø
+
+
+:TRANSLATION Flight Group
+ENGLISH Flight Group
+FRENCH Escadrille
+GERMAN Fliegergruppe
+ITALIAN Gruppo di volo
+SPANISH Grupo de Vuelo
+RUSSIAN ∫•≤™®
+
+
+:TRANSLATION Wingmen
+ENGLISH Wingmen
+FRENCH Ailiers
+GERMAN Fl¸gelmann
+ITALIAN Compagni
+SPANISH Punto
+RUSSIAN ≥≤ß®õ¢≤
+
+
+:TRANSLATION Local Base
+ENGLISH Local Base
+FRENCH Base
+GERMAN Lokaler St¸tzpunkt
+ITALIAN Base locale
+SPANISH Base Local
+RUSSIAN ó¨∞†πüãπØ ùπµπ
+
+
+:TRANSLATION Other Players
+ENGLISH Other Players
+FRENCH Autres Joueurs
+GERMAN Weitere Spieler
+ITALIAN Altri giocatori
+SPANISH Otros Jugadores
+RUSSIAN °∑∂∏∞≤ ∞∏∑®¥∞
+
+
+:TRANSLATION Wingman List
+ENGLISH Wingman List
+FRENCH Liste Ailiers
+GERMAN Fl¸gelmannliste
+ITALIAN Lista dei compagni
+SPANISH Lista de Wingmen
+RUSSIAN ú©∞±®¥ •≤ß®õ¢å
+
+
+:TRANSLATION Player List
+ENGLISH Player List
+FRENCH Liste Joueurs
+GERMAN Spielerliste
+ITALIAN Lista dei giocatori
+SPANISH Lista de Jugadores
+RUSSIAN ú©∞±®¥ ∞∏∑®¥®•
+
+
+:TRANSLATION More...
+ENGLISH More...
+FRENCH Plus...
+GERMAN Weiter...
+ITALIAN Altro...
+SPANISH M·s...
+RUSSIAN °π¨≤≤...
+
+
+:TRANSLATION Select Message
+ENGLISH Select Message
+FRENCH SÈlectionner Message
+GERMAN Nachricht w‰hlen
+ITALIAN Seleziona messaggio
+SPANISH Selecciona Mensaje
+RUSSIAN ≥¢ù∑π¶´ ±®®ùä≤™∞≤
+
+
+:TRANSLATION Attack My Target
+ENGLISH Attack My Target
+FRENCH Attaquez Ma Cible
+GERMAN Angriff auf mein Ziel
+ITALIAN Attacca il mio bersagio
+SPANISH Ataca a mi Objetivo
+RUSSIAN í¶π¥®•π¶´ õ®ò ô≤¨´
+
+
+:TRANSLATION Help Me
+ENGLISH Help Me
+FRENCH A l'Aide
+GERMAN Hilf mir
+ITALIAN Aiutatemi
+SPANISH Ay˙dame
+RUSSIAN ñ∑®ã∂ ©®õ®ä∞
+
+
+:TRANSLATION Weapons Hold
+ENGLISH Weapons Hold
+FRENCH Cessez le Feu
+GERMAN Waffen halten
+ITALIAN Non sparate
+SPANISH Ataque en espera 
+RUSSIAN û∏®™´ ™≤ ®¶¥∑¢•π¶´
+
+
+:TRANSLATION Weapons Free
+ENGLISH Weapons Free
+FRENCH Feu ‡ VolontÈ
+GERMAN Waffen frei
+ITALIAN Liberi di sparare
+SPANISH Ataque Autorizado
+RUSSIAN û∏®™´ ©® ±•®≤õ∂ ∂±õ®¶∑≤™∞ò
+
+
+:TRANSLATION Hold Position
+ENGLISH Hold Position
+FRENCH Maintenir Position
+GERMAN Position halten
+ITALIAN Mantenere la posizione
+SPANISH MantÈn la PosiciÛn
+RUSSIAN û±¶π•π¶´±Ø ™π ©®µ∞ô∞∞
+
+
+:TRANSLATION Rejoin Formation
+ENGLISH Rejoin Formation
+FRENCH Reprendre Formation
+GERMAN Zur¸ck zur Formation
+ITALIAN Ricongiungersi in formazione
+SPANISH Vuelve a la formaciÛn
+RUSSIAN ≥≤∑™∂¶´±Ø • ©®±¶∑®≤™∞≤
+
+
+:TRANSLATION Return To Base
+ENGLISH Return To Base
+FRENCH Retournez ‡ la Base
+GERMAN Zur¸ck zum St¸tzpunkt
+ITALIAN Tornare alla base
+SPANISH Regresar a la Base
+RUSSIAN ≥®µ•∑π¶∞¶´±Ø ™π ùπµ∂
+
+
+:TRANSLATION Request Target List
+ENGLISH Request Target List
+FRENCH Demande Liste Cibles
+GERMAN Zielliste anfordern
+ITALIAN Richiesta di lista bersagli
+SPANISH Pedir Lista de Objetivos
+RUSSIAN ∫π©∑πã∞•πò ±©∞±®¥ ô≤¨≤ü
+
+
+:TRANSLATION Keyboard Message
+ENGLISH Keyboard Message
+FRENCH Message Clavier
+GERMAN Tastaturnachricht
+ITALIAN Messaggio da tastiera
+SPANISH Mensaje por Teclado
+RUSSIAN ñ∞±´õ≤™™®≤ ±®®ùä≤™∞≤
+
+
+:TRANSLATION Request Airstrike
+ENGLISH Request Airstrike
+FRENCH Appui AÈrien
+GERMAN Luftschlag anfordern
+ITALIAN Richiesta di attacco aereo
+SPANISH Solicita Ataque AÈreo
+RUSSIAN ∫π©∑®±∞¶´ π•∞π∂ßπ∑
+
+
+:TRANSLATION Request Artillery
+ENGLISH Request Artillery
+FRENCH Soutien d'Artillerie
+GERMAN Artillerie anfordern
+ITALIAN Richiesta di artiglieria
+SPANISH Solicita ArtillerÌa
+RUSSIAN ñ∑®ã∂ ™π™≤±¶∞ π∑¶∞¨¨≤∑∞ü±¥∞ü ∂ßπ∑
+
+
+:TRANSLATION Request Assistance
+ENGLISH Request Assistance
+FRENCH Demande Soutien
+GERMAN Hilfe anfordern
+ITALIAN Richiesta di assistenza
+SPANISH Solicita Asistencia
+RUSSIAN ∫π©∑®±∞¶´ ©®ß¥∑≤©¨≤™∞≤
+
+
+:TRANSLATION Transmit Recon
+ENGLISH Transmit Recon
+FRENCH Trans. Reco
+GERMAN Aufkl‰rung ¸bermitteln
+ITALIAN Trasmetti dati
+SPANISH InformaciÛn de reconocimiento
+RUSSIAN ñ≤∑≤ßπ¶´ ∑πµ•≤ßßπ™™¢≤
+
+
+:TRANSLATION Bob-Up
+ENGLISH Bob-Up
+FRENCH Surgir
+GERMAN Bob-Up
+ITALIAN Bob-Up
+SPANISH Bob-Up
+RUSSIAN ≥¢©®¨™∞¶´ "©®ß±¥®¥"
+
+
+:TRANSLATION Formation List
+ENGLISH Formation List
+FRENCH Liste Formations
+GERMAN Formationsliste
+ITALIAN Lista della formazione
+SPANISH Lista de FormaciÛn
+RUSSIAN ú©∞±®¥ ©®±¶∑®≤™∞ü
+
+
+:TRANSLATION Row Left
+ENGLISH Row Left
+FRENCH Ligne Gauche
+GERMAN Reihe links
+ITALIAN Fila sinistra
+SPANISH Fila Izquierda
+RUSSIAN Ç≤∑≤™∏π •¨≤•®
+
+
+:TRANSLATION Row Right
+ENGLISH Row Right
+FRENCH Ligne Droite
+GERMAN Reihe rechts
+ITALIAN Fila destra
+SPANISH Fila Derecha
+RUSSIAN Ç≤∑≤™∏π •©∑π•®
+
+
+:TRANSLATION Echelon Left
+ENGLISH Echelon Left
+FRENCH Echelon Gauche
+GERMAN Staffel links
+ITALIAN Formazione in linea sinistra
+SPANISH EscalÛn izquierdo
+RUSSIAN Ñã≤¨®™ •¨≤•®
+
+
+:TRANSLATION Echelon Right
+ENGLISH Echelon Right
+FRENCH Echelon Droit
+GERMAN Staffel rechts
+ITALIAN Formazione in linea destra
+SPANISH EscalÛn derecho
+RUSSIAN Ñã≤¨®™ •©∑π•®
+
+
+:TRANSLATION Column
+ENGLISH Column
+FRENCH Colonne
+GERMAN Spalte
+ITALIAN Colonna
+SPANISH Columna
+RUSSIAN î®¨®™™π
+
+
+:TRANSLATION Wedge
+ENGLISH Wedge
+FRENCH Vic
+GERMAN Keil
+ITALIAN Cuneo
+SPANISH CuÒa
+RUSSIAN î¨∞™
+
+
+:TRANSLATION Enter Message
+ENGLISH Enter Message
+FRENCH Entrer Message
+GERMAN Nachricht eingeben
+ITALIAN Introduci messaggio
+SPANISH Introduce Mensaje
+RUSSIAN ≥•≤ß∞¶≤ ¶≤¥±¶ ±®®ùä≤™∞Ø
+
+
+:TRANSLATION All Players
+ENGLISH All Players
+FRENCH Tous les Joueurs
+GERMAN Alle Spieler
+ITALIAN Tutti i giocatori
+SPANISH Todos los Jugadores
+RUSSIAN ≥±≤õ ∞∏∑®¥πõ
+
+
+:TRANSLATION Esc - Exit
+ENGLISH Esc - Exit
+FRENCH Echap - Quitter
+GERMAN Esc - Beenden
+ITALIAN Esc - Esci
+SPANISH Esc - Salir
+RUSSIAN Esc - ≥¢å®ß
+
+
+:TRANSLATION Heading
+ENGLISH Heading
+FRENCH Cap
+GERMAN Flugrichtung
+ITALIAN Direzione
+SPANISH Rumbo actual
+RUSSIAN Æπ©∑π•¨≤™∞≤
+
+
+:TRANSLATION Range
+ENGLISH Range
+FRENCH PortÈe
+GERMAN Entfernung
+ITALIAN Portata
+SPANISH Distancia
+RUSSIAN °∞±¶π™ô∞Ø
+
+
+:TRANSLATION Say Status
+ENGLISH Say Status
+FRENCH Donner Etat
+GERMAN Bitte Um Status 
+ITALIAN Riporta stato
+SPANISH Informa del Status
+RUSSIAN ú®®ùä∞¶≤ ±¶π¶∂±
+
+
+:TRANSLATION ADVISE_TRANSMIT_RECON
+ENGLISH Objective In Range - Advise you transmit recon data now
+FRENCH Objectif ‡ PortÈe - Transmettez les donnÈes de reconnaissance
+GERMAN Operationsziel in Reichweite - Empfehlung Aufkl‰rungsdaten jetzt ¸bermitteln
+ITALIAN Oggetto a portata - Trasmetti dati ora
+SPANISH Objetivo en alcance - Se aconseja transmitir los datos de reconocimiento
+RUSSIAN Å≤¨´ • ©∑≤ß≤¨πå ß®±Ø∏π≤õ®±¶∞ - ©∑®ã∂ ™≤õ≤ß¨≤™™® ©≤∑≤ßπ¶´ ∑πµ•≤ßßπ™™¢≤
+
+
+:TRANSLATION Press SPACE
+ENGLISH Press SPACE
+FRENCH Appuyez sur ESPACE
+GERMAN LEERTASTE dr¸cken
+ITALIAN Premi BARRA SPAZIATRICE
+SPANISH Pulsa Espacio
+RUSSIAN Æπ†õ∞¶≤ ñéûóèì
+
+
+:TRANSLATION Select Object To View
+ENGLISH Select Object To View
+FRENCH Choix de l'Objet ‡ Visualiser
+GERMAN Ansichtsobjekt w‰hlen
+ITALIAN Seleziona l'oggetto da visualizzare
+SPANISH Selecciona Objeto a Examinar
+RUSSIAN ≥¢ù∑π¶´ ®ùÄ≤¥¶ ß¨Ø ™πù¨òß≤™∞Ø
+
+
+:TRANSLATION All
+ENGLISH All
+FRENCH Tous
+GERMAN Alle
+ITALIAN Tutti
+SPANISH Todos
+RUSSIAN ≥±≤
+
+
+:TRANSLATION Players
+ENGLISH Players
+FRENCH Joueurs
+GERMAN Spieler
+ITALIAN Giocatori
+SPANISH Jugadores
+RUSSIAN ö∏∑®¥∞
+
+
+:TRANSLATION Available Gunships
+ENGLISH Available Gunships
+FRENCH HÈlicoptËres Disponibles
+GERMAN Verf¸gbare Hubschrauber
+ITALIAN Elicotteri disponibili
+SPANISH Naves Disponibles
+RUSSIAN °®±¶∂©™¢≤ •≤∑¶®¨≤¶¢
+
+
+:TRANSLATION Allied
+ENGLISH Allied
+FRENCH AlliÈs
+GERMAN Alliierte
+ITALIAN Alleati
+SPANISH Aliados
+RUSSIAN ú•®∞
+
+
+:TRANSLATION Enemy
+ENGLISH Enemy
+FRENCH Ennemis
+GERMAN Feind
+ITALIAN Nemici
+SPANISH Enemigos
+RUSSIAN ñ∑®¶∞•™∞¥
+
+
+:TRANSLATION Combat Helicopters
+ENGLISH Combat Helicopters
+FRENCH HÈlicoptËres de Combat
+GERMAN Kampfhubschrauber
+ITALIAN Elicotteri da combattimento
+SPANISH HelicÛpteros de Combate
+RUSSIAN ó®≤•¢≤ •≤∑¶®¨≤¶¢
+
+
+:TRANSLATION Transport Helicopters
+ENGLISH Transport Helicopters
+FRENCH HÈlicoptËres de Transport
+GERMAN Transporthubschrauber
+ITALIAN Elicotteri da trasporto
+SPANISH HelicÛpteros de Transporte
+RUSSIAN ë∑π™±©®∑¶™¢≤ •≤∑¶®¨≤¶¢
+
+
+:TRANSLATION Combat Aircraft
+ENGLISH Combat Aircraft
+FRENCH Avions de Combat
+GERMAN Kampfflugzeuge
+ITALIAN Aereo da combattimento
+SPANISH AviÛn de Combate
+RUSSIAN ó®≤•¢≤ ±πõ®¨≤¶¢
+
+
+:TRANSLATION Transport Aircraft
+ENGLISH Transport Aircraft
+FRENCH Avions de Transport
+GERMAN Transportflugzeuge
+ITALIAN Aereo da trasporto
+SPANISH AviÛn de Transporte
+RUSSIAN T∑π™±©®∑¶™¢≤ ±πõ®¨≤¶¢
+
+
+:TRANSLATION Combat Vehicles
+ENGLISH Combat Vehicles
+FRENCH VÈhicules de Combat
+GERMAN Kampffahrzeuge
+ITALIAN Veicoli da combattimento
+SPANISH VehÌculos de Combate
+RUSSIAN ó∑®™≤¶≤å™∞¥π
+
+
+:TRANSLATION Artillery
+ENGLISH Artillery
+FRENCH Artillerie
+GERMAN Artillerie
+ITALIAN Artiglieria
+SPANISH ArtillerÌa
+RUSSIAN í∑¶∞¨¨≤∑∞Ø
+
+
+:TRANSLATION Air Defence Units
+ENGLISH Air Defence Units
+FRENCH UnitÈs DCA
+GERMAN Flugabwehreinheiten
+ITALIAN Unit‡ aerea difensiva
+SPANISH Unidades de Defensa AÈrea
+RUSSIAN ú∑≤ß±¶•π ñ≥û
+
+
+:TRANSLATION Transport Vehicles
+ENGLISH Transport Vehicles
+FRENCH VÈhicules de Transport
+GERMAN Transportfahrzeuge
+ITALIAN Veicoli da trasporto
+SPANISH VehÌculos de Transporte
+RUSSIAN ë∑π™±©®∑¶™¢≤ ±∑≤ß±¶•π
+
+
+:TRANSLATION Infantry
+ENGLISH Infantry
+FRENCH Infanterie
+GERMAN Infanterie
+ITALIAN Fanteria
+SPANISH InfanterÌa
+RUSSIAN ñ≤å®¶π
+
+
+:TRANSLATION Carrier
+ENGLISH Carrier
+FRENCH Porte-Avions
+GERMAN Flugzeugtr‰ger
+ITALIAN Carriera
+SPANISH Transporte
+RUSSIAN ó®≤•¢≤ ¥®∑πù¨∞
+
+
+
+:TRANSLATION Range
+ENGLISH Range
+FRENCH PortÈe
+GERMAN Entfernung
+ITALIAN Portata
+SPANISH Distancia
+RUSSIAN ≥ ∑πß∞∂±≤
+
+
+:TRANSLATION Side
+ENGLISH Side
+FRENCH Camp
+GERMAN Seite
+ITALIAN Fazione
+SPANISH Bando
+RUSSIAN ú¶®∑®™π
+
+
+:TRANSLATION Category
+ENGLISH Category
+FRENCH CatÈgorie
+GERMAN Kategorie
+ITALIAN Categoria
+SPANISH CategorÌa
+RUSSIAN îπ¶≤∏®∑∞Ø
+
+
+:TRANSLATION Type
+ENGLISH Type
+FRENCH Type
+GERMAN Typ
+ITALIAN Tipo
+SPANISH Tipo
+RUSSIAN ë∞©
+
+
+:TRANSLATION Object
+ENGLISH Object
+FRENCH Objet
+GERMAN Objekt
+ITALIAN Oggetto
+SPANISH Objeto
+RUSSIAN ûùÄ≤¥¶
+
+
+:TRANSLATION Objects
+ENGLISH Objects
+FRENCH Objets
+GERMAN Objekte
+ITALIAN Oggetti
+SPANISH Objetos
+RUSSIAN ûùÄ≤¥¶¢
+
+
+:TRANSLATION Next
+ENGLISH Next
+FRENCH Suivant
+GERMAN Weiter
+ITALIAN Prossimo
+SPANISH Siguiente
+RUSSIAN ú¨≤ß∂òä∞ü
+
+
+:TRANSLATION Previous
+ENGLISH Previous
+FRENCH PrÈcÈdent
+GERMAN Zur¸ck
+ITALIAN Precedente
+SPANISH Anterior
+RUSSIAN ñ∑≤ß¢ß∂ä∞ü
+
+
+:TRANSLATION KILLS
+ENGLISH Kills
+FRENCH Kills
+GERMAN Treffer
+ITALIAN Uccisi
+SPANISH Muertes
+RUSSIAN ç™∞≠¶®†≤™® ô≤¨≤ü
+
+
+:TRANSLATION LOSSES
+ENGLISH Losses
+FRENCH Pertes
+GERMAN Verluste
+ITALIAN Perdite
+SPANISH Bajas
+RUSSIAN ñ®¶≤∑∞
+
+
+:TRANSLATION TASK
+ENGLISH Task
+FRENCH T‚che
+GERMAN Aufgabe
+ITALIAN Incarico
+SPANISH Tarea
+RUSSIAN ∫πßπ™∞≤
+
+
+:TRANSLATION RECON
+ENGLISH Recon
+FRENCH Reconnaissance
+GERMAN Aufkl‰rung
+ITALIAN Ricognizione
+SPANISH Recon
+RUSSIAN éπµ•≤ß¥π
+
+
+:TRANSLATION PATROL
+ENGLISH Patrol
+FRENCH Patrouille
+GERMAN Patrouille
+ITALIAN Patrol
+SPANISH Patrulla
+RUSSIAN ñπ¶∑∂¨´
+
+
+:TRANSLATION PLAYER
+ENGLISH Player
+FRENCH Joueur
+GERMAN Spieler
+ITALIAN Giocatore
+SPANISH Jugador
+RUSSIAN ö∏∑®¥
+
+
+:TRANSLATION MULTI
+ENGLISH Multi
+FRENCH Multi
+GERMAN Multiplayer
+ITALIAN Multi
+SPANISH Multi
+RUSSIAN ï™®∏®©®¨´µ®•π¶≤¨´±¥∞ü
+
+
+:END
+

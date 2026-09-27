@@ -1,0 +1,1618 @@
+:START
+
+
+:TRANSLATION Briefing
+ENGLISH Briefing
+FRENCH Briefing
+GERMAN Briefing
+ITALIAN Briefing
+SPANISH Directiva
+RUSSIAN ûùµ®∑
+
+
+:TRANSLATION Type
+ENGLISH Type
+FRENCH Type
+GERMAN Typ
+ITALIAN Tipo
+SPANISH Tipo
+RUSSIAN ë∞©
+
+
+:TRANSLATION Status
+ENGLISH Status
+FRENCH Etat
+GERMAN Status
+ITALIAN Stato
+SPANISH Status
+RUSSIAN ú¶π¶∂±
+
+
+:TRANSLATION Expires
+ENGLISH Expires
+FRENCH Expire
+GERMAN L‰uft aus
+ITALIAN Termina
+SPANISH Expira
+RUSSIAN ö±¶≤¥π≤¶
+
+
+:TRANSLATION Priority
+ENGLISH Priority
+FRENCH PrioritÈ
+GERMAN Priorit‰t
+ITALIAN Priorit‡
+SPANISH Prioridad
+RUSSIAN ñ∑∞®∑∞¶≤¶
+
+
+:TRANSLATION Estimated Duration
+ENGLISH Estimated Duration
+FRENCH DurÈe EstimÈe
+GERMAN Gesch‰tzte Dauer
+ITALIAN Durata stimata
+SPANISH DuraciÛn Estimada
+RUSSIAN °¨∞¶≤¨´™®±¶´
+
+
+:TRANSLATION Start Base
+ENGLISH Start Base
+FRENCH Base DÈpart
+GERMAN Startst¸tzpunkt
+ITALIAN Base di partenza
+SPANISH Base Inicial
+RUSSIAN óπµπ ß∞±¨®¥πô∞∞
+
+
+:TRANSLATION Landing Base
+ENGLISH Landing Base
+FRENCH Base ArrivÈe
+GERMAN Landest¸tzpunkt
+ITALIAN Base di atterraggio
+SPANISH Base de Aterrizaje
+RUSSIAN óπµπ ™πµ™π≠≤™∞Ø
+
+
+:TRANSLATION Group
+ENGLISH Group
+FRENCH Groupe
+GERMAN Gruppe
+ITALIAN Gruppo
+SPANISH Grupo
+RUSSIAN ∫•≤™®
+
+
+:TRANSLATION Objective
+ENGLISH Objective
+FRENCH Objectif
+GERMAN Operationsziel
+ITALIAN Obiettivo
+SPANISH Objetivo
+RUSSIAN ∫πßπ≠π
+
+
+:TRANSLATION Weather
+ENGLISH Weather
+FRENCH MÈtÈo
+GERMAN Wetter
+ITALIAN Meteo
+SPANISH Tiempo
+RUSSIAN ñ®∏®ßπ
+
+
+:TRANSLATION Locked By
+ENGLISH Locked By
+FRENCH VerrouillÈ Par
+GERMAN Aufgeschaltet von
+ITALIAN Agganciato da
+SPANISH Fijado por
+RUSSIAN ∫π¥∑≤©¨≤™® µπ
+
+
+:TRANSLATION Map
+ENGLISH Map
+FRENCH Carte
+GERMAN Karte
+ITALIAN Mappa
+SPANISH Mapa
+RUSSIAN îπ∑¶π
+
+
+:TRANSLATION View
+ENGLISH View
+FRENCH Vue
+GERMAN Ansicht
+ITALIAN Visuale
+SPANISH Vista
+RUSSIAN ñ®¥πµπ¶´
+
+
+:TRANSLATION Clear and dry
+ENGLISH Clear and dry
+FRENCH Clair et sec
+GERMAN Klar und trocken
+ITALIAN Limpido e secco
+SPANISH Despejado y Seco
+RUSSIAN á±™πØ, ù≤µ ®±πß¥®•
+
+
+:TRANSLATION Light rain
+ENGLISH Light rain
+FRENCH Pluie lÈgËre
+GERMAN Leichter Regen
+ITALIAN Pioggia leggera
+SPANISH Lluvia Ligera
+RUSSIAN ú¨πù¢ü ß®†ß´
+
+
+:TRANSLATION Stormy with heavy rain
+ENGLISH Stormy with heavy rain
+FRENCH Pluie
+GERMAN St¸rmisch und starker Regen
+ITALIAN Tempostoso con pioggia abbondante
+SPANISH Tormentoso con Lluvia Fuerte
+RUSSIAN Ç¶®∑õ®•πØ ± ±∞¨´™¢õ ß®†ß≤õ
+
+
+:TRANSLATION Snow
+ENGLISH Snow
+FRENCH Neige
+GERMAN Schnee
+ITALIAN Neve
+SPANISH Nieve
+RUSSIAN ú™≤∏
+
+
+:TRANSLATION North
+ENGLISH North
+FRENCH Nord
+GERMAN Nord
+ITALIAN Nord
+SPANISH Norte
+RUSSIAN ú≤•≤∑
+
+
+:TRANSLATION Northeast
+ENGLISH Northeast
+FRENCH Nord-Est
+GERMAN Nordost
+ITALIAN Nord-Est
+SPANISH Noreste
+RUSSIAN ú≤•≤∑®-•®±¶®¥
+
+
+:TRANSLATION East
+ENGLISH East
+FRENCH Est
+GERMAN Ost
+ITALIAN Est
+SPANISH Este
+RUSSIAN ≥®±¶®¥
+
+
+:TRANSLATION Southeast
+ENGLISH Southeast
+FRENCH Sud-Est
+GERMAN S¸dost
+ITALIAN Sud-Est
+SPANISH Sureste
+RUSSIAN Ω∏®-•®±¶®¥
+
+
+:TRANSLATION South
+ENGLISH South
+FRENCH Sud
+GERMAN S¸d
+ITALIAN Sud
+SPANISH Sur
+RUSSIAN Ω∏
+
+
+:TRANSLATION Southwest
+ENGLISH Southwest
+FRENCH Sud-Ouest
+GERMAN S¸dwest
+ITALIAN Sud-Ovest
+SPANISH Suroeste
+RUSSIAN Ω∏®-µπ©πß
+
+
+:TRANSLATION West
+ENGLISH West
+FRENCH Ouest
+GERMAN West
+ITALIAN Ovest
+SPANISH Oeste
+RUSSIAN ∫π©πß
+
+
+:TRANSLATION Northwest
+ENGLISH Northwest
+FRENCH Nord-Ouest
+GERMAN Nordwest
+ITALIAN Nord-Ovest
+SPANISH Noroeste
+RUSSIAN ú≤•≤∑®-µπ©πß
+
+
+:TRANSLATION Knots
+ENGLISH Knots
+FRENCH Noeuds
+GERMAN Knoten
+ITALIAN Nodi
+SPANISH Nudos
+RUSSIAN çµ¨®•
+
+
+:TRANSLATION Sector
+ENGLISH Sector
+FRENCH Secteur
+GERMAN Sektor
+ITALIAN Settore
+SPANISH Sector
+RUSSIAN î•πß∑π¶
+
+
+:TRANSLATION Efficiency
+ENGLISH Efficiency
+FRENCH EfficacitÈ
+GERMAN Effizienz
+ITALIAN Efficienza
+SPANISH Eficiencia
+RUSSIAN Ñ§§≤¥¶∞•™®±¶´
+
+
+:TRANSLATION Ammo
+ENGLISH Ammo
+FRENCH Muni.
+GERMAN Munition
+ITALIAN Munizioni
+SPANISH MuniciÛn
+RUSSIAN ó®≤µπ©π±
+
+
+:TRANSLATION Fuel
+ENGLISH Fuel
+FRENCH Carb.
+GERMAN Kraftstoff
+ITALIAN Carburante
+SPANISH Combustible
+RUSSIAN ë®©¨∞•®
+
+
+:TRANSLATION ENTER_SAVE_GAME_FILENAME
+ENGLISH Enter Filename
+FRENCH Nom du Fichier
+GERMAN Dateinamen eingeben
+ITALIAN Introdurre nome file
+SPANISH Introduce el Nombre del Fichero
+RUSSIAN ≥•≤ß∞¶≤ ∞õØ §πü¨π
+
+
+:TRANSLATION OVERWRITE_QUERY
+ENGLISH Overwrite
+FRENCH Ecraser
+GERMAN ‹berschreiben
+ITALIAN Sovrascrivi
+SPANISH Sobreescribir
+RUSSIAN ∫πõ≤™∞¶´
+
+
+:TRANSLATION ENTER_CHAT_MESSAGE
+ENGLISH Enter Message
+FRENCH Entrer Message
+GERMAN Nachricht eingeben
+ITALIAN Introdurre messaggio
+SPANISH Introduce el Mensaje
+RUSSIAN ≥•≤ß∞¶≤ ¶≤¥±¶ ±®®ùä≤™∞Ø
+
+
+:TRANSLATION CHAT_TARGET_ALL
+ENGLISH All
+FRENCH Tous
+GERMAN Alle
+ITALIAN Tutti
+SPANISH Todos
+RUSSIAN ≥±≤õ
+
+
+:TRANSLATION CHAT_TARGET_SIDE
+ENGLISH Side
+FRENCH Camp
+GERMAN Seite
+ITALIAN Fazione
+SPANISH Bando
+RUSSIAN ú¶®∑®™≤
+
+
+:TRANSLATION CHAT_TARGET_PILOT
+ENGLISH Pilot
+FRENCH Pilote
+GERMAN Pilot
+ITALIAN Pilota
+SPANISH Piloto
+RUSSIAN ñ∞¨®¶∂
+
+
+:TRANSLATION UI_SEND
+ENGLISH Send
+FRENCH Envoyer
+GERMAN Senden
+ITALIAN Invia
+SPANISH Enviar
+RUSSIAN û¶©∑π•∞¶´
+
+
+:TRANSLATION SEND TO
+ENGLISH Send To
+FRENCH Envoyer A
+GERMAN Senden an
+ITALIAN Invia a
+SPANISH Enviar a
+RUSSIAN û¶©∑π•∞¶´ πß∑≤±π¶∂
+
+
+:TRANSLATION ALL
+ENGLISH All
+FRENCH Tous
+GERMAN Alle
+ITALIAN Tutti
+SPANISH Todos
+RUSSIAN ≥±≤
+
+
+:TRANSLATION Send Message
+ENGLISH Send Message
+FRENCH Envoyer Message
+GERMAN Nachricht senden
+ITALIAN Invia messaggio
+SPANISH Enviar Mensaje
+RUSSIAN û¶©∑π•∞¶´ ±®®ùä≤™∞≤
+
+
+:TRANSLATION No Debrief Available
+ENGLISH No Debrief Available
+FRENCH Aucun DÈbrief Disponible
+GERMAN Keine Einsatzauswertung verf¸gbar
+ITALIAN Nessun Debrief Disp
+SPANISH No hay Informe Disponible
+RUSSIAN éπµù®∑ ©®¨≤¶®• ™≤ ©∑®∞µ•®ß∞¨±Ø
+
+
+:TRANSLATION Debriefing
+ENGLISH Debrief
+FRENCH Rapport
+GERMAN Auswert
+ITALIAN Debrief
+SPANISH Informe
+RUSSIAN éπµù®∑
+
+
+:TRANSLATION Kills
+ENGLISH Kills
+FRENCH Kills
+GERMAN Treffer
+ITALIAN Uccisi
+SPANISH Derribos
+RUSSIAN ç™∞≠¶®†≤™® ô≤¨≤ü
+
+
+:TRANSLATION killed by
+ENGLISH killed by
+FRENCH par
+GERMAN getroffen von
+ITALIAN Uccisi da
+SPANISH Abatido por
+RUSSIAN Å≤¨´ ©®∑π†≤™π
+
+
+:TRANSLATION Losses
+ENGLISH Losses
+FRENCH Pertes
+GERMAN Verluste
+ITALIAN Perdite
+SPANISH Bajas
+RUSSIAN ñ®¶≤∑∞
+
+
+:TRANSLATION Result
+ENGLISH Result
+FRENCH RÈsultat
+GERMAN Ergebnis
+ITALIAN Risultato
+SPANISH Resultado
+RUSSIAN é≤µ∂¨´¶π¶
+
+
+:TRANSLATION Base
+ENGLISH Base
+FRENCH Base
+GERMAN St¸tzpunkt
+ITALIAN Base
+SPANISH Base
+RUSSIAN óπµπ ß∞±¨®¥πô∞∞
+
+
+:TRANSLATION Mission
+ENGLISH Mission
+FRENCH Mission
+GERMAN Einsatz
+ITALIAN Missione
+SPANISH MisiÛn
+RUSSIAN ∫πßπ™∞≤
+
+
+:TRANSLATION Day
+ENGLISH Day
+FRENCH Jour
+GERMAN Tag
+ITALIAN Giorno
+SPANISH DÌa
+RUSSIAN °≤™´
+
+
+:TRANSLATION AVAILABLE
+ENGLISH Available
+FRENCH Disponible
+GERMAN Verf¸gbar
+ITALIAN Disponibile
+SPANISH Disponible
+RUSSIAN °®±¶∂©™¢
+
+
+:TRANSLATION Missions
+ENGLISH Missions
+FRENCH Missions
+GERMAN Eins‰tze
+ITALIAN Missioni
+SPANISH Misiones
+RUSSIAN ∫πßπ™∞Ø
+
+
+:TRANSLATION Groups
+ENGLISH Groups
+FRENCH Groupes
+GERMAN Gruppen
+ITALIAN Gruppi
+SPANISH Grupos
+RUSSIAN ∫•≤™´Ø
+
+
+:TRANSLATION Bases
+ENGLISH Bases
+FRENCH Bases
+GERMAN Milit‰rbasis
+ITALIAN Basi
+SPANISH Bases
+RUSSIAN óπµ¢
+
+
+:TRANSLATION Order Of Battle
+ENGLISH Order Of Battle
+FRENCH Ordre de Bataille
+GERMAN Gefechtsaufstellung
+ITALIAN Ordine di battaglia
+SPANISH Orden de Batalla
+RUSSIAN ≥±≤ ù®≤•¢≤ ß≤ü±¶•∞Ø
+
+
+:TRANSLATION O.O.B
+ENGLISH O.O.B
+FRENCH ODB
+GERMAN OOB
+ITALIAN O. d. B.
+SPANISH O.D.B.
+RUSSIAN ≥±≤
+
+
+:TRANSLATION Map
+ENGLISH Map
+FRENCH Carte
+GERMAN Karte
+ITALIAN Mappa
+SPANISH Mapa
+RUSSIAN îπ∑¶π
+
+
+:TRANSLATION Log
+ENGLISH Log
+FRENCH Journal
+GERMAN Log
+ITALIAN Registro
+SPANISH Registro
+RUSSIAN ú•®ß¥∞
+
+
+:TRANSLATION Payload
+ENGLISH Payload
+FRENCH Emport
+GERMAN Nutzlast
+ITALIAN Carico
+SPANISH Carga ˙til
+RUSSIAN û∑∂†∞≤
+
+
+:TRANSLATION Chat
+ENGLISH Chat
+FRENCH Chat
+GERMAN Chat
+ITALIAN Chat
+SPANISH Chat
+RUSSIAN π¶
+
+
+:TRANSLATION Options
+ENGLISH Options
+FRENCH Options
+GERMAN Optionen
+ITALIAN Opzioni
+SPANISH Opciones
+RUSSIAN Æπ±¶∑®∞¶´
+
+
+:TRANSLATION Save
+ENGLISH Save
+FRENCH Sauver
+GERMAN Speichern
+ITALIAN Salva
+SPANISH Salvar
+RUSSIAN ú®å∑π™∞¶´
+
+
+:TRANSLATION Situation Report
+ENGLISH Situation Report
+FRENCH Rapport Situation
+GERMAN Lagebericht
+ITALIAN Rapporto situazione
+SPANISH Informe de SituaciÛn
+RUSSIAN û©≤∑π¶∞•™πØ ±•®ß¥π
+
+
+:TRANSLATION Sit. Rep.
+ENGLISH Sit. Rep.
+FRENCH Rap. Sit.
+GERMAN Lageber.
+ITALIAN Rapp Sit
+SPANISH Inf. Sit.
+RUSSIAN û©. ú•.
+
+
+:TRANSLATION Report
+ENGLISH Report
+FRENCH Rapport
+GERMAN Lagebericht
+ITALIAN Rapporto
+SPANISH Informe
+RUSSIAN °®¥¨πß
+
+
+:TRANSLATION Base
+ENGLISH Base
+FRENCH Base
+GERMAN St¸tzpunkt
+ITALIAN Base
+SPANISH Base
+RUSSIAN óπµπ
+
+
+:TRANSLATION No Mission Selected
+ENGLISH No Mission Selected
+FRENCH Aucune Mission
+GERMAN Kein Einsatz gew‰hlt
+ITALIAN Nessuna missione selezionata
+SPANISH Ninguna MisiÛn Seleccionada
+RUSSIAN ∫πßπ™∞≤ ™≤ •¢ù∑π™®
+
+
+:TRANSLATION Status
+ENGLISH Status
+FRENCH Etat
+GERMAN Status
+ITALIAN Stato
+SPANISH Status
+RUSSIAN ú¶π¶∂±
+
+
+:TRANSLATION No Gunship Selected
+ENGLISH No Gunship Selected
+FRENCH Aucun HÈlicoptËre SÈlectionnÈ
+GERMAN Kein Kampfhubschrauber gew‰hlt
+ITALIAN Nessun elicottero selezionato
+SPANISH Ninguna Nave Seleccionada
+RUSSIAN Æ≤ •¢ù∑π™ •≤∑¶®¨≤¶
+
+
+:TRANSLATION Auto-Select
+ENGLISH Auto-Select
+FRENCH SÈlection Automatique
+GERMAN Auto-Wahl
+ITALIAN Selezione automatica
+SPANISH Auto-selecciÛn
+RUSSIAN í•¶®õπ¶∞≠≤±¥∞ü •¢ù®∑
+
+
+:TRANSLATION Confirm
+ENGLISH Confirm
+FRENCH Confirmer
+GERMAN Best‰tigen
+ITALIAN Conferma
+SPANISH Confirmar
+RUSSIAN ñ®ß¶•≤∑ß∞¶´
+
+
+:TRANSLATION Cockpit
+ENGLISH Cockpit
+FRENCH Cockpit
+GERMAN Cockpit
+ITALIAN Abitacolo
+SPANISH Cabina
+RUSSIAN îπù∞™π
+
+
+:TRANSLATION CLEAR
+ENGLISH Clear
+FRENCH Effacer
+GERMAN Lˆschen
+ITALIAN Cancella
+SPANISH Borrar
+RUSSIAN û≠∞±¶∞¶´
+
+
+:TRANSLATION QUIT MISSION
+ENGLISH Quit Mission
+FRENCH Quitter Mission
+GERMAN Einsatz beenden
+ITALIAN Abbandona missione
+SPANISH Abandonar MisiÛn
+RUSSIAN ≥¢å®ß
+
+
+:TRANSLATION Exit
+ENGLISH Exit
+FRENCH Quitter
+GERMAN Beenden
+ITALIAN Esci
+SPANISH Salir
+RUSSIAN ≥¢å®ß
+
+
+:TRANSLATION Expire Time
+ENGLISH Expire Time
+FRENCH Temps EcoulÈ
+GERMAN Zeitlimit
+ITALIAN Tempo al termine
+SPANISH Hora LÌmite
+RUSSIAN û±¶π•. •∑≤õØ
+
+
+:TRANSLATION Assigned
+ENGLISH Assigned
+FRENCH AffectÈ
+GERMAN Zugeteilt
+ITALIAN Assegnato
+SPANISH Asignado
+RUSSIAN Æπµ™π≠≤™¢
+
+
+:TRANSLATION Unassigned
+ENGLISH Unassigned
+FRENCH Non-AffectÈ
+GERMAN Nicht zugeteilt
+ITALIAN Non assegnato
+SPANISH Sin Asignar
+RUSSIAN Æ≤ ™πµ™π≠≤™¢
+
+
+:TRANSLATION Completed
+ENGLISH Completed
+FRENCH TerminÈ
+GERMAN Beendet
+ITALIAN Completato
+SPANISH Completada
+RUSSIAN ≥¢©®¨™≤™¢
+
+
+:TRANSLATION Capture
+ENGLISH Capture
+FRENCH Capturer
+GERMAN Eroberung
+ITALIAN Conquista
+SPANISH Capturar
+RUSSIAN ∫πå•π¶∞¶´
+
+
+:TRANSLATION Incomplete
+ENGLISH Incomplete
+FRENCH Non TerminÈ
+GERMAN Nicht beendet
+ITALIAN Incompleto
+SPANISH Incompleto
+RUSSIAN Æ≤ •¢©®¨™≤™π
+
+
+:TRANSLATION Complete
+ENGLISH Complete
+FRENCH TerminÈ
+GERMAN Beendet
+ITALIAN Completo
+SPANISH Completo
+RUSSIAN ≥¢©®¨™≤™π
+
+
+:TRANSLATION Destroy
+ENGLISH Destroy
+FRENCH DÈtruire
+GERMAN Zerstˆren
+ITALIAN Distruggi
+SPANISH DestruÌr
+RUSSIAN ç™∞≠¶®†∞¶´
+
+
+:TRANSLATION Objectives
+ENGLISH Objectives
+FRENCH Objectifs
+GERMAN Operationsziele
+ITALIAN Obiettivi
+SPANISH Objetivos
+RUSSIAN ∫πßπ≠∞
+
+
+:TRANSLATION A2G
+ENGLISH A2G
+FRENCH AS
+GERMAN A2G
+ITALIAN Aria-terra
+SPANISH AT
+RUSSIAN ≥-∫
+
+
+:TRANSLATION A2A
+ENGLISH A2A
+FRENCH AA
+GERMAN A2A
+ITALIAN Aria-aria
+SPANISH AA
+RUSSIAN ≥-≥
+
+
+:TRANSLATION Scout
+ENGLISH Scout
+FRENCH Reco
+GERMAN Sp‰her
+ITALIAN Ricognizione
+SPANISH Explorador
+RUSSIAN éπµ•≤ß≠∞¥
+
+
+:TRANSLATION Campaign Won By
+ENGLISH Campaign Won By
+FRENCH Campagne RemportÈe Par
+GERMAN Sieger dieser Kampagne
+ITALIAN Campagna vinta da
+SPANISH CampaÒa ganada por
+RUSSIAN ñ®ù≤ßπ ®ß≤∑†π™π
+
+
+:TRANSLATION Paused
+ENGLISH Paused
+FRENCH Pause
+GERMAN Angehalten
+ITALIAN Pausa
+SPANISH En Pausa
+RUSSIAN ñπ∂µπ
+
+
+:TRANSLATION Assigned To
+ENGLISH Assigned To
+FRENCH AffectÈ A
+GERMAN Zugeteilt zu
+ITALIAN Assegnato a
+SPANISH Asignado a
+RUSSIAN Æπµ™π≠≤™®
+
+
+:TRANSLATION Waypoint
+ENGLISH Waypoint
+FRENCH Point de Passage
+GERMAN Wegmarke
+ITALIAN Tappa
+SPANISH Punto de ruta
+RUSSIAN ë®≠¥π õπ∑ã∑∂¶π
+
+
+:TRANSLATION Grid
+ENGLISH Grid
+FRENCH Grille
+GERMAN Gitter
+ITALIAN Griglia
+SPANISH CuadrÌcula
+RUSSIAN ïπ±ã¶πù
+
+
+:TRANSLATION In Progress
+ENGLISH In Progress
+FRENCH En Cours
+GERMAN L‰uft
+ITALIAN In corso
+SPANISH En progreso
+RUSSIAN ≥ ©∑®ô≤±±≤
+
+
+:TRANSLATION Failed
+ENGLISH Failed
+FRENCH Echec
+GERMAN Gescheitert
+ITALIAN Fallito
+SPANISH Fallida
+RUSSIAN Æ≤ •¢©®¨™≤™®
+
+
+
+:TRANSLATION Partially Completed
+ENGLISH Partially Completed
+FRENCH TerminÈ Partiellement
+GERMAN Teilweise beendet
+ITALIAN Parzialmente completato
+SPANISH Parcialmente Completada
+RUSSIAN ≥¢©®¨™≤™® ≠π±¶∞≠™®
+
+
+:TRANSLATION Successfully Completed
+ENGLISH Successfully Completed
+FRENCH SuccËs
+GERMAN Erfolgreich beendet
+ITALIAN Completato con successo
+SPANISH Completada con …xito
+RUSSIAN ≥¢©®¨™≤™® ∂±©≤ã™®
+
+
+:TRANSLATION Idle
+ENGLISH Idle
+FRENCH Passif
+GERMAN Inaktiv
+ITALIAN Fermo
+SPANISH Pasivo
+RUSSIAN ú•®ù®ß≤™
+
+
+:TRANSLATION Waiting
+ENGLISH Waiting
+FRENCH En Attente
+GERMAN Warte
+ITALIAN In attesa
+SPANISH En Espera
+RUSSIAN û†∞ßπ≤¶
+
+
+:TRANSLATION Taking Off
+ENGLISH Taking Off
+FRENCH DÈcollage
+GERMAN Starte
+ITALIAN In decollo
+SPANISH Despegando
+RUSSIAN ≥µ¨≤¶π≤¶
+
+
+:TRANSLATION Navigating
+ENGLISH Navigating
+FRENCH Navigation
+GERMAN Navigiere
+ITALIAN In volo
+SPANISH En el aire
+RUSSIAN Æπ õπ∑ã∑∂¶≤
+
+
+:TRANSLATION Attacking
+ENGLISH Attacking
+FRENCH Attaque
+GERMAN Greife an
+ITALIAN In attacco
+SPANISH Atacando
+RUSSIAN ≥≤ß≤¶ ù®ü
+
+
+:TRANSLATION Returning
+ENGLISH Returning
+FRENCH Retour
+GERMAN Kehre zur¸ck
+ITALIAN Di ritorno
+SPANISH Regresando
+RUSSIAN ≥®µ•∑πäπ≤¶±Ø
+
+
+:TRANSLATION Landing
+ENGLISH Landing
+FRENCH Atterrissage
+GERMAN Lande
+ITALIAN Atterraggio
+SPANISH Aterrizaje
+RUSSIAN úπß∞¶±Ø
+
+
+:TRANSLATION Fully Operational
+ENGLISH Fully Operational
+FRENCH OpÈrationnel
+GERMAN Voll einsatzf‰hig
+ITALIAN Pienamente operativo
+SPANISH Totalmente Operativo
+RUSSIAN ñ®¨™®±¶´ò ù®≤±©®±®ù≤™
+
+
+:TRANSLATION Out Of Action
+ENGLISH Out Of Action
+FRENCH DÈtruit
+GERMAN Stillgelegt
+ITALIAN Fuori gioco
+SPANISH Fuera de AcciÛn
+RUSSIAN ≥¢•≤ß≤™ ∞µ ±¶∑®Ø
+
+
+:TRANSLATION Repairing
+ENGLISH Repairing
+FRENCH En RÈparation
+GERMAN In Reparatur
+ITALIAN In riparazione
+SPANISH En ReparaciÛn
+RUSSIAN é≤õ®™¶
+
+
+:TRANSLATION Helicopters
+ENGLISH Helicopters
+FRENCH HÈlicoptËres
+GERMAN Hubschrauber
+ITALIAN Elicotteri
+SPANISH HelicÛpteros
+RUSSIAN ≥≤∑¶®¨≤¶¢
+
+
+:TRANSLATION Attack
+ENGLISH Attack
+FRENCH Attaque
+GERMAN Angriff
+ITALIAN Attacco
+SPANISH Ataque
+RUSSIAN çßπ∑™¢ü
+
+
+:TRANSLATION Marine Attack
+ENGLISH Marine Attack
+FRENCH Marine
+GERMAN Seeangriff 
+ITALIAN Attacco marino
+SPANISH Ataque marine
+RUSSIAN çßπ∑™¢ü ≥ïú
+
+
+:TRANSLATION Assault
+ENGLISH Assault
+FRENCH Assaut
+GERMAN Sturmangriff
+ITALIAN Assalto
+SPANISH Asalto
+RUSSIAN Ç¶∂∑õ®•®ü
+
+
+:TRANSLATION Marine Assault
+ENGLISH Marine Assault
+FRENCH Assaut Marine
+GERMAN Seesturmangriff
+ITALIAN Assalto marino
+SPANISH Asalto marine
+RUSSIAN çßπ∑™¢≤ ≥ïú
+
+
+:TRANSLATION Recon
+ENGLISH Recon
+FRENCH Reco
+GERMAN Aufkl‰rung
+ITALIAN Ricognizione
+SPANISH Recon
+RUSSIAN éπµ•≤ß¥π
+
+
+:TRANSLATION Recon/Attack
+ENGLISH Recon/Attack
+FRENCH Reco/Attaque
+GERMAN Aufkl/Angriff
+ITALIAN Ricogn./Attacco
+SPANISH Recon/Ataque
+RUSSIAN éπµ•≤ß¥π/çßπ∑™¢ü
+
+
+:TRANSLATION Medium-Lift
+ENGLISH Medium-Lift
+FRENCH Porteur Moyen
+GERMAN Mittellast
+ITALIAN Media portanza
+SPANISH Medio
+RUSSIAN ú∑. ¶∑π™±©®∑¶
+
+
+:TRANSLATION Heavy-Lift
+ENGLISH Heavy-Lift
+FRENCH Porteur Lourd
+GERMAN Schwerlast
+ITALIAN Grande portanza
+SPANISH Pesado
+RUSSIAN TØ†. ¶∑π™±©®∑¶
+
+
+:TRANSLATION Aircraft
+ENGLISH Aircraft
+FRENCH Avion
+GERMAN Flugzeuge
+ITALIAN Aereo
+SPANISH AviÛn
+RUSSIAN úπõ®¨≤¶¢
+
+
+:TRANSLATION Fighter
+ENGLISH Fighter
+FRENCH Chasseur
+GERMAN J‰ger 
+ITALIAN Caccia
+SPANISH Caza
+RUSSIAN ö±¶∑≤ù∞¶≤¨´
+
+
+:TRANSLATION Navy Attack
+ENGLISH Navy Attack
+FRENCH Attaque Navy
+GERMAN Marineangriff
+ITALIAN Attacco marina
+SPANISH Ataque Armada
+RUSSIAN çßπ∑™¢ü ≥ïú
+
+
+:TRANSLATION Navy Fighter
+ENGLISH Navy Fighter
+FRENCH Chasseur Navy
+GERMAN Marinej‰ger
+ITALIAN Caccia marina
+SPANISH Asalto Armada
+RUSSIAN ö±¶∑≤ù∞¶≤¨´ ≥ïú
+
+
+:TRANSLATION CAS
+ENGLISH CAS
+FRENCH CAS
+GERMAN CAS
+ITALIAN CAS
+SPANISH CAS
+RUSSIAN ûñ≥
+
+
+:TRANSLATION Medium-lift
+ENGLISH Medium-lift
+FRENCH Porteur Moyen
+GERMAN Mittellast
+ITALIAN Media portanza
+SPANISH Medio
+RUSSIAN ú∑. ë∑π™±©®∑¶
+
+
+:TRANSLATION Heavy-lift
+ENGLISH Heavy-lift
+FRENCH Porteur Lourd
+GERMAN Schwerlast
+ITALIAN Grande portanza
+SPANISH Pesado
+RUSSIAN ëØ†. ë∑π™±©®∑¶
+
+
+:TRANSLATION Armour
+ENGLISH Armour
+FRENCH BlindÈ
+GERMAN Panzerung
+ITALIAN Corazza
+SPANISH Blindado
+RUSSIAN ó∑®™≤¶≤å™∞¥π
+
+
+:TRANSLATION SAM/AAA
+ENGLISH SAM/AAA
+FRENCH SAM/DCA
+GERMAN SAM/AAA
+ITALIAN SAM/AAA
+SPANISH SAM/AAA
+RUSSIAN ∫úç/∫éî
+
+
+:TRANSLATION Frontline
+ENGLISH Frontline
+FRENCH Ligne de Front
+GERMAN Frontlinie
+ITALIAN Fronte
+SPANISH Frente
+RUSSIAN ñ≤∑≤ß®•¢≤
+
+
+:TRANSLATION Support
+ENGLISH Support
+FRENCH Soutien
+GERMAN Unterst¸tzung
+ITALIAN Supporto
+SPANISH Soporte
+RUSSIAN ú™πù†≤™∞Ø
+
+
+:TRANSLATION Artillery
+ENGLISH Artillery
+FRENCH Artillerie
+GERMAN Artillerie
+ITALIAN Artiglieria
+SPANISH ArtillerÌa
+RUSSIAN í∑¶∞¨¨≤∑∞Ø
+
+
+:TRANSLATION MLRS
+ENGLISH MLRS
+FRENCH MLRS
+GERMAN MLRS
+ITALIAN MLRS
+SPANISH MLRS
+RUSSIAN éú∫û
+
+
+:TRANSLATION Warships
+ENGLISH Warships
+FRENCH Navires
+GERMAN Kriegsschiffe
+ITALIAN Navi da guerra
+SPANISH Buque de Guerra
+RUSSIAN ≥ïÉ/É¨®¶
+
+
+:TRANSLATION Assault
+ENGLISH Assault
+FRENCH Assaut
+GERMAN Sturmangriff
+ITALIAN Assalto
+SPANISH Asalto
+RUSSIAN çßπ∑™¢≤
+
+
+:TRANSLATION Frigate
+ENGLISH Frigate
+FRENCH FrÈgate
+GERMAN Fregatte
+ITALIAN Fregata
+SPANISH Fragata
+RUSSIAN ú¶®∑®†≤•¢≤
+
+
+:TRANSLATION Landing Craft
+ENGLISH Landing Craft
+FRENCH Navire de DÈbarquement
+GERMAN Landungsboot
+ITALIAN Nave per l'atterraggio
+SPANISH Portaaviones
+RUSSIAN °≤±π™¶™¢≤
+
+
+:TRANSLATION Airbase
+ENGLISH Airbase
+FRENCH Base
+GERMAN Luftst¸tzpunkt
+ITALIAN Base aerea
+SPANISH Base AÈrea
+RUSSIAN í•∞πùπµπ
+
+
+:TRANSLATION Anchorage
+ENGLISH Anchorage
+FRENCH Ancrage
+GERMAN Ankerplatz
+ITALIAN Ancoraggio
+SPANISH Fondeadero
+RUSSIAN á¥®∑™πØ ±¶®Ø™¥π
+
+
+:TRANSLATION Factory
+ENGLISH Factory
+FRENCH Usine
+GERMAN Fabrik
+ITALIAN Fabbrica
+SPANISH F·brica
+RUSSIAN Éπù∑∞¥π
+
+
+:TRANSLATION FARP
+ENGLISH FARP
+FRENCH FARP
+GERMAN FARP
+ITALIAN FARP
+SPANISH FARP
+RUSSIAN ññú∫
+
+
+:TRANSLATION Military Base
+ENGLISH Military Base
+FRENCH Caserne
+GERMAN Milit‰rbasis
+ITALIAN Base militare
+SPANISH Base Militar
+RUSSIAN ≥®≤™™πØ ùπµπ
+
+
+:TRANSLATION Port
+ENGLISH Port
+FRENCH Port
+GERMAN Hafen
+ITALIAN Porto
+SPANISH Puerto
+RUSSIAN ñ®∑¶
+
+
+:TRANSLATION Power Station
+ENGLISH Power Station
+FRENCH Centrale
+GERMAN E-Werk
+ITALIAN Staz. Energetica
+SPANISH Centr. ElÈctrica
+RUSSIAN Ñ¨≤¥¶∑®±¶π™ô∞Ø
+
+
+:TRANSLATION Refinery
+ENGLISH Refinery
+FRENCH Raffinerie
+GERMAN ÷lraffinerie
+ITALIAN Raffineria
+SPANISH RefinerÌa
+RUSSIAN Æ≤§¶≤µπ•®ß
+
+
+:TRANSLATION Oil Refinery
+ENGLISH Oil Refinery
+FRENCH Raffinerie
+GERMAN ÷lraffinerie
+ITALIAN Raffineria
+SPANISH RefinerÌa
+RUSSIAN Æ≤§¶≤µπ•®ß
+
+
+:TRANSLATION Radio Transmitter
+ENGLISH Radio Transmitter
+FRENCH Centre Radio
+GERMAN Funksendezentrale
+ITALIAN Trasmettitore radio
+SPANISH Emisora de Radio
+RUSSIAN é≤¶∑π™±¨Ø¶®∑
+
+
+:TRANSLATION Transmitter
+ENGLISH Transmitter
+FRENCH Centre Radio
+GERMAN Funksender
+ITALIAN Trasmettitore
+SPANISH Emisora
+RUSSIAN ñ≤∑≤ßπ¶≠∞¥
+
+
+:TRANSLATION Nothing
+ENGLISH Nothing
+FRENCH Rien
+GERMAN Nichts
+ITALIAN Nulla
+SPANISH Nada
+RUSSIAN Æ∞≠≤∏®
+
+
+:TRANSLATION Advance
+ENGLISH Advance
+FRENCH AvancÈ
+GERMAN Vormarsch
+ITALIAN Avanzata
+SPANISH Avance
+RUSSIAN ñ∑®ß•∞†≤™∞≤
+
+
+:TRANSLATION Anti-Ship Strike
+ENGLISH Anti-Ship Strike
+FRENCH Raid Air-Mer
+GERMAN Schlag gegen Schiff
+ITALIAN Colpo anti-nave
+SPANISH Ataq. Antibarco
+RUSSIAN ñ∑®¶∞•®¥®∑πù≤¨´™¢ü ∂ßπ∑
+
+
+:TRANSLATION Battlefield Air Interdiction
+ENGLISH Battlefield Air Interdiction
+FRENCH Interdiction
+GERMAN Luftabriegelung der Kampfzone (BAI)
+ITALIAN Interdizione aerea sul campo di battaglia (BAI)
+SPANISH Ataque Objetivo Terrestre
+RUSSIAN ñ≤∑≤å•π¶ ™πµ≤õ™¢å ô≤¨≤ü
+
+
+:TRANSLATION BAI
+ENGLISH BAI
+FRENCH BAI
+GERMAN BAI
+ITALIAN BAI
+SPANISH BAI
+RUSSIAN ñÆÅ
+
+
+:TRANSLATION Barrier Combat Air Patrol
+ENGLISH Barrier Combat Air Patrol
+FRENCH Patrouille de Combat AÈrien et de Protection
+GERMAN Bewaffnete Luftraumbarriere (BARCAP)
+ITALIAN Pattuglia di combattimento aereo protettivo (BARCAP)
+SPANISH Patrulla AÈrea Defensiva
+RUSSIAN ∫π∏∑πß∞¶. •®µß∂ã™¢ü ©π¶∑∂¨´ 
+
+
+:TRANSLATION BARCAP
+ENGLISH BARCAP
+FRENCH BARCAP
+GERMAN BARCAP
+ITALIAN BARCAP
+SPANISH BARCAP
+RUSSIAN ∫ó≥ñ
+
+
+:TRANSLATION Battle Damage Assessment
+ENGLISH Battle Damage Assessment
+FRENCH Evaluation DÈg‚ts
+GERMAN Kampfschadenauswertung (BDA)
+ITALIAN Valutazione dei danni causati (BDA)
+SPANISH Control de DaÒos
+RUSSIAN ûô≤™¥π ∂ä≤∑ùπ ©∑®¶∞•™∞¥∂
+
+
+:TRANSLATION BDA
+ENGLISH BDA
+FRENCH BDA
+GERMAN BDA
+ITALIAN BDA
+SPANISH BDA
+RUSSIAN ûçñ
+
+
+:TRANSLATION Close Air Support
+ENGLISH Close Air Support
+FRENCH Appui AÈrien RapprochÈ
+GERMAN Luftnahunterst¸tzung (CAS)
+ITALIAN Supporto aereo ravvicinato (CAS)
+SPANISH Apoyo AÈreo Cercano
+RUSSIAN ñ®ßß≤∑†¥π ± •®µß∂åπ
+
+
+:TRANSLATION CAS
+ENGLISH CAS
+FRENCH CAS
+GERMAN CAS
+ITALIAN CAS
+SPANISH CAS
+RUSSIAN ûñ≥
+
+
+:TRANSLATION Coastal Patrol
+ENGLISH Coastal Patrol
+FRENCH Patrouille CÙtiËre
+GERMAN K¸stenpatrouille
+ITALIAN Pattugliamento costiero
+SPANISH Patrulla Costera
+RUSSIAN ó≤∑≤∏®•®ü ©π¶∑∂¨´
+
+
+:TRANSLATION Combat Air Patrol
+ENGLISH Combat Air Patrol
+FRENCH Patrouille de Combat AÈrien
+GERMAN Bewaffnete Luftraum¸berwachung (CAP)
+ITALIAN Pattuglia di combattimento (CAP)
+SPANISH Patrulla AÈrea de Combate
+RUSSIAN ó®≤•®ü •®µß∂ã™¢ü ©π¶∑∂¨´ 
+
+
+:TRANSLATION CAP
+ENGLISH CAP
+FRENCH CAP
+GERMAN CAP
+ITALIAN CAP
+SPANISH CAP
+RUSSIAN ó≥ñ
+
+
+:TRANSLATION Engage
+ENGLISH Engage
+FRENCH Engager
+GERMAN Angriff
+ITALIAN Attacca
+SPANISH Entablar combate
+RUSSIAN ≥±¶∂©∞¶´ • ù®ü
+
+
+:TRANSLATION Escort
+ENGLISH Escort
+FRENCH Escorter
+GERMAN Begleitschutz
+ITALIAN Scorta
+SPANISH Escolta
+RUSSIAN ú®©∑®•®†ß≤™∞≤
+
+
+:TRANSLATION Free Flight
+ENGLISH Free Flight
+FRENCH Vol Libre
+GERMAN Freiflug
+ITALIAN Volo libero
+SPANISH Vuelo Libre
+RUSSIAN ú•®ù®ß™¢ü ©®¨≤¶
+
+
+:TRANSLATION Ground Strike
+ENGLISH Ground Strike
+FRENCH Attaque au Sol
+GERMAN Bodenschlag
+ITALIAN Incursione al suolo
+SPANISH Ataque de superficie
+RUSSIAN Æπµ≤õ™¢ü ∂ßπ∑
+
+
+:TRANSLATION STRIKE
+ENGLISH Strike
+FRENCH Raid
+GERMAN Schlag
+ITALIAN INCURSIONE
+SPANISH Ataque
+RUSSIAN çßπ∑
+
+
+
+:TRANSLATION Landing Holding
+ENGLISH Landing Holding
+FRENCH Circuit d'Attente
+GERMAN Warte auf Landung...
+ITALIAN Punto d'atterraggio
+SPANISH Aterrizaje en suspenso
+RUSSIAN û†∞ßπ™∞≤ ©®±πß¥∞
+
+
+:TRANSLATION Offensive Counter Air Strike
+ENGLISH Offensive Counter Air Strike
+FRENCH Frappe Contre-Offensive AÈrienne
+GERMAN Offensiver Luftabwehrschlag (OCA)
+ITALIAN Attacco contraerea offensiva
+SPANISH Ataque Instalaciones AntiaÈreas
+RUSSIAN ú≤∑∞Ø ∂ßπ∑®• ©® π•∞πùπµπõ 
+
+
+:TRANSLATION OCA STRIKE
+ENGLISH OCA Strike
+FRENCH Frappe COA
+GERMAN OCA-Schlag
+ITALIAN OCA Strike
+SPANISH Ataque OCA
+RUSSIAN çßπ∑ ©® íóñ
+
+
+:TRANSLATION Offensive Counter Air Sweep
+ENGLISH Offensive Counter Air Sweep
+FRENCH Raid Contre-Offensif AÈrien
+GERMAN Offensive Luftabwehrpatrouille
+ITALIAN Penetrazione contraerea offensiva
+SPANISH B˙squeda y Ataque  Instalaciones AntiaÈreas
+RUSSIAN ú≤∑∞Ø ∂ßπ∑®• ©® π•∞πùπµπõ ©∑®¶∞•™∞¥π
+
+
+:TRANSLATION OCA SWEEP
+ENGLISH OCA Sweep
+FRENCH Raid COA
+GERMAN OCA-Patrouille
+ITALIAN OCA Sweep
+SPANISH Barrido OCA
+RUSSIAN ç≥≥úñ
+
+
+:TRANSLATION Recon
+ENGLISH Recon
+FRENCH Reco
+GERMAN Aufkl‰rung
+ITALIAN Ricognizione
+SPANISH Recon
+RUSSIAN éπµ•≤ß¥π
+
+
+:TRANSLATION Repair
+ENGLISH Repair
+FRENCH RÈparer
+GERMAN Reparatur
+ITALIAN Riparare
+SPANISH Reparar
+RUSSIAN é≤õ®™¶
+
+
+:TRANSLATION Retreat
+ENGLISH Retreat
+FRENCH Retraite
+GERMAN R¸ckzug
+ITALIAN Ritirarsi
+SPANISH Retirada
+RUSSIAN û¶å®ß
+
+
+:TRANSLATION Suppression Of Enemy Air Defences
+ENGLISH Suppression of Enemy Air Defences
+FRENCH RÈduction des DÈfenses Anti-AÈrienne
+GERMAN Unterdr¸ckung feindlicher Flugabwehr (SEAD)
+ITALIAN Soppressione delle difese aeree nemiche (SEAD)
+SPANISH SupresiÛn de las Defensas AÈreas Enemigas
+RUSSIAN ñ®ßπ•¨≤™∞≤ ñ≥û
+
+
+:TRANSLATION SEAD
+ENGLISH SEAD
+FRENCH SEAD
+GERMAN SEAD
+ITALIAN SEAD
+SPANISH SEAD
+RUSSIAN ññ≥û
+
+
+:TRANSLATION Supply
+ENGLISH Supply
+FRENCH Ravitaillement
+GERMAN Nachschub
+ITALIAN Rifornimento
+SPANISH Suministro
+RUSSIAN ú™πù†≤™∞≤
+
+
+:TRANSLATION Takeoff
+ENGLISH Takeoff
+FRENCH DÈcollage
+GERMAN Start
+ITALIAN Decollo
+SPANISH Despegue
+RUSSIAN ≥µ¨≤¶
+
+
+:TRANSLATION Takeoff Holding
+ENGLISH Takeoff Holding
+FRENCH Attente DÈcollage
+GERMAN Warte auf Start
+ITALIAN Punto di decollo
+SPANISH Despegue en suspenso
+RUSSIAN û†∞ßπ™∞≤ •µ¨≤¶π
+
+
+:TRANSLATION Transfer
+ENGLISH Transfer
+FRENCH Transfert
+GERMAN Transfer
+ITALIAN Trasferimento
+SPANISH Traslado
+RUSSIAN ñ≤∑≤ùπµ∞∑®•π™∞≤
+
+
+:TRANSLATION Troop Insertion
+ENGLISH Troop Insertion
+FRENCH Insertion
+GERMAN Truppeneinflug
+ITALIAN Inserzione di truppe
+SPANISH InserciÛn de Tropas
+RUSSIAN ≥¢±πß¥π ß≤±π™¶π
+
+
+:TRANSLATION Insertion
+ENGLISH Insertion
+FRENCH Insertion
+GERMAN Einflug
+ITALIAN Inserimento
+SPANISH InserciÛn
+RUSSIAN °≤±π™¶
+
+
+:TRANSLATION Infantry
+ENGLISH Infantry
+FRENCH Infanterie
+GERMAN Infanterie
+ITALIAN Fanteria
+SPANISH InfanterÌa
+RUSSIAN ñ≤å®¶π
+
+
+:END
+

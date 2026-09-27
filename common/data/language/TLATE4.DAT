@@ -1,0 +1,302 @@
+:START
+
+
+:TRANSLATION Rearmed, refuelled and repaired
+ENGLISH Rearmed, refuelled and repaired
+FRENCH Réarmé, ravitaillé et réparé
+GERMAN Neu bewaffnet, nachgetankt und repariert
+ITALIAN Riarmato, riparato e carico di carburante
+SPANISH Rearmado, repostado y reparado
+RUSSIAN œª¹·¯ ²ª, §¨µ¹©·¹¥¬²ª ° ¨¦·²›¨ª¦°·¨¥¹ª
+
+
+:TRANSLATION Loaded air-to-ground weapons
+ENGLISH Loaded air-to-ground weapons
+FRENCH Armes air-sol emportées
+GERMAN Luft-Boden-Waffen geladen
+ITALIAN Armi aria-terra caricate
+SPANISH Armamento Aire-Tierra Cargado
+RUSSIAN œª¹·¯ ²ª ´¨›©¬²´¦¨› "¥¨µ§¶Œ-µ²›¬¯"
+
+
+:TRANSLATION Loaded air-to-air weapons
+ENGLISH Loaded air-to-air weapons
+FRENCH Armes air-air emportées
+GERMAN Luft-Luft-Waffen geladen
+ITALIAN Armi aria-aria caricate
+SPANISH Armamento Aire-Aire Cargado
+RUSSIAN œª¹·¯ ²ª ´¨›©¬²´¦¨› "¥¨µ§¶Œ-¥¨µ§¶Œ"
+
+
+:TRANSLATION Loaded scout mission weapons
+ENGLISH Loaded scout mission weapons
+FRENCH Systèmes Reco. Emportés
+GERMAN Späheinsatzwaffen geladen
+ITALIAN Armi per le missioni di ricognizione caricate
+SPANISH Armamento de Misión de Reconocimiento Cargado 
+RUSSIAN œª¹·¯ ²ª ·¹µ¥²§¢¥¹¦²¬«ª¨-¶§¹·ª¢› ´¨›©¬²´¦¨›
+
+
+:TRANSLATION Cockpit blurred rotors ON
+ENGLISH Cockpit blurred rotors ON
+FRENCH Flou rotor cockpit ON
+GERMAN Verschwommene Rotorblätter EIN
+ITALIAN Rappresentazione rotori ON
+SPANISH Activado el Efecto de Rotor en Cabina 
+RUSSIAN ¦¨·¹ ¹¦« ¥°ª¦
+
+
+:TRANSLATION Cockpit blurred rotors OFF
+ENGLISH Cockpit blurred rotors OFF
+FRENCH Flou rotor cockpit OFF
+GERMAN Verschwommene Rotorblätter AUS
+ITALIAN Rappresentazione rotori OFF
+SPANISH Desactivado el Efecto de Rotor en Cabina 
+RUSSIAN ®² ¨¦¨·¹ ¹¦« ¥°ª¦
+
+
+:TRANSLATION Padlock target
+ENGLISH Padlock target
+FRENCH Padlock cible
+GERMAN Padlock Ziel
+ITALIAN Aggancia la visuale del bersaglio
+SPANISH Fijar objetivo
+RUSSIAN ³°µ¶¹¬«ª¨ ±¨©·¨¥¨ §¹¦« ™²¬«
+
+
+:TRANSLATION Padlock wingman
+ENGLISH Padlock wingman
+FRENCH Padlock ailier
+GERMAN Padlock Flügelmann
+ITALIAN Aggancia la visuale del compagno
+SPANISH Fijar punto
+RUSSIAN ³°µ¶¹¬«ª¨ ±¨©·¨¥¨ §¹¦« ¥²§¨›¨¸¨
+
+
+:TRANSLATION Padlock air threat
+ENGLISH Padlock air threat
+FRENCH Padlock bandit
+GERMAN Padlock Luftbedrohung
+ITALIAN Aggancia la visuale della minaccia aerea
+SPANISH Fijar amenaza aérea
+RUSSIAN ³°µ¶¹¬«ª¨ ±¨©·¨¥¨ §¹¦« ¥¨µ§¶‹ª¶˜ ¶¸·¨µ¶
+
+
+:TRANSLATION Padlock ground threat
+ENGLISH Padlock ground threat
+FRENCH Padlock men. terrestre
+GERMAN Padlock Bodenbedrohung
+ITALIAN Aggancia la visuale della minaccia di terra
+SPANISH Fijar amenaza en tierra
+RUSSIAN ³°µ¶¹¬«ª¨ ±¨©·¨¥¨ §¹¦« ª¹µ²›ª¶˜ ¶¸·¨µ¶
+
+
+:TRANSLATION Padlock incoming
+ENGLISH Padlock incoming
+FRENCH Padlock missile
+GERMAN Padlock Rakete
+ITALIAN Aggancia la visuale del missile in avvicinamento
+SPANISH Fijar entrante
+RUSSIAN ³°µ¶¹¬«ª¨ ±¨©·¨¥¨ §¹¦« ©·°¬° ¹˜Š¶˜±¯ ·¹´²¦¶
+
+
+:TRANSLATION Padlock waypoint
+ENGLISH Padlock waypoint
+FRENCH Padlock point de nav.
+GERMAN Padlock Wegmarke
+ITALIAN Aggancia la visuale della tappa
+SPANISH Fijar punto de ruta
+RUSSIAN ³°µ¶¹¬«ª¨ ±¨©·¨¥¨ §¹¦« ¦¨­´¶ ›¹·‹·¶¦¹
+
+
+:TRANSLATION Weapon camera primed
+ENGLISH Weapon camera primed
+FRENCH Caméra arme activée
+GERMAN Waffenkamera aktiviert
+ITALIAN Telecamera sull'arma attivata
+SPANISH Cámara de Armamento Preparada
+RUSSIAN ”¹›²·¹ ¨·¶ °¯ ª¹¸¨¦¨¥²
+
+
+:TRANSLATION Auto-action camera
+ENGLISH Auto-action camera
+FRENCH Caméra auto-action
+GERMAN Automatische Action-Kamera
+ITALIAN Inquadramento automatico azione
+SPANISH Cámara automática
+RUSSIAN ’¥¦¨›¹¦°­²±´¹¯ ´¹›²·¹
+
+
+:TRANSLATION Chase camera
+ENGLISH Chase camera
+FRENCH Caméra de poursuite
+GERMAN Verfolgungskamera
+ITALIAN Telecamera di inseguimento
+SPANISH Cámara de persecución
+RUSSIAN ”¹›²·¹ ±¬² ²ª°¯
+
+
+:TRANSLATION Drop camera
+ENGLISH Drop camera
+FRENCH Caméra largage
+GERMAN Abwurfkamera
+ITALIAN Telecamera da sgancio
+SPANISH Cámara en tierra
+RUSSIAN ³°§ ±¥²·Œ¶
+
+
+:TRANSLATION Static camera
+ENGLISH Static camera
+FRENCH Caméra fixe
+GERMAN Statische Kamera
+ITALIAN Telecamera statica
+SPANISH Cámara estática
+RUSSIAN ®²©¨§¥° ª¹¯ ´¹›²·¹
+
+
+:TRANSLATION Fly-by camera
+ENGLISH Fly-by camera
+FRENCH Caméra passage
+GERMAN Vorbeiflugkamera
+ITALIAN Telecamera di passaggio
+SPANISH Cámara en vuelo
+RUSSIAN ”¹›²·¹ ¨´¨¥¨¸¨ ¥°§¹
+
+
+:TRANSLATION Cinematic camera
+ENGLISH Cinematic camera
+FRENCH Caméra cinématique
+GERMAN Filmkamera
+ITALIAN Telecamera cinematica
+SPANISH Cámara cinemática
+RUSSIAN ”°ª²›¹¦¨¸·¹¤°­²±´¹¯ ´¹›²·¹
+
+
+:TRANSLATION Structure camera
+ENGLISH Structure camera
+FRENCH Caméra bâtiment
+GERMAN Bautenkamera
+ITALIAN Telecamera della struttura
+SPANISH Cámara de estructura
+RUSSIAN ”¹›²·¹ ¨€²´¦¹
+
+
+:TRANSLATION Weapon camera
+ENGLISH Weapon camera
+FRENCH Caméra arme
+GERMAN Waffenkamera
+ITALIAN Telecamera sull'arma attivata
+SPANISH Cámara de Armamento
+RUSSIAN ”¹›²·¹ ¨·¶ °¯
+
+
+:TRANSLATION Mission Completed
+ENGLISH Mission Completed
+FRENCH Mission Terminée
+GERMAN Einsatz abgeschlossen
+ITALIAN Missione completata
+SPANISH Misión Completada
+RUSSIAN º¹§¹ª°² ¥¢©¨¬ª²ª¨
+
+
+:TRANSLATION Mission Failed
+ENGLISH Mission Failed
+FRENCH Mission Failed
+GERMAN Mission Failed
+ITALIAN Mission Failed
+SPANISH Misión Fallida
+RUSSIAN Mission Failed
+
+
+:TRANSLATION Campaign Over
+ENGLISH Campaign Over
+FRENCH Campagne Terminée
+GERMAN Kampagne beendet
+ITALIAN Campagna terminata
+SPANISH Campaña Terminada
+RUSSIAN ”¹›©¹ª°¯ µ¹´¨ª­²ª¹
+
+
+:TRANSLATION Key Allied Installations Lost
+ENGLISH Key Allied Installations Lost
+FRENCH Installations Stratégiques Alliées Perdues
+GERMAN Verluste alliierter Schlüsseleinrichtungen
+ITALIAN Installazioni chiave alleate perse
+SPANISH Instalación Aliada Clave Perdida
+RUSSIAN ”¬˜­²¥¢² ¨€²´¦¢ ±¨˜µª¢Œ ±°¬ ©¨¦²·¯ª¢
+
+
+:TRANSLATION Key Objectives Achieved
+ENGLISH Key Objectives Achieved
+FRENCH Objectifs Stratégiques Atteints
+GERMAN Erreichte Schlüsselziele
+ITALIAN Obiettivi chiave raggiunti
+SPANISH Objetivos Clave Logrados
+RUSSIAN ±ª¨¥ª¢² µ¹§¹­° ¥¢©¨¬ª²ª¢
+
+
+:TRANSLATION Key Objectives
+ENGLISH Key Objectives
+FRENCH Objectifs Stratégiques
+GERMAN Schlüsselziele
+ITALIAN Obiettivi chiave
+SPANISH Objetivos Clave
+RUSSIAN ±ª¨¥ª¢² µ¹§¹­°
+
+
+:TRANSLATION Enemy Air Forces Seriously Depleted
+ENGLISH Enemy Air Forces Seriously Depleted
+FRENCH Forces Aériennes Ennemies Affaiblies
+GERMAN Feindliche Lufteinheiten ernsthaft geschädigt
+ITALIAN Forze aeree nemiche seriamente danneggiate
+SPANISH Fuerzas Aéreas Enemigas Seriamente Mermadas
+RUSSIAN ³³œ ©·¨¦°¥ª°´¹ ª¹ª²±²ª ±²·«²µª¢Ÿ ¶Š²·
+
+
+:TRANSLATION Enemy Victory
+ENGLISH Enemy Victory
+FRENCH Victoire Ennemie
+GERMAN Feindlicher Sieg
+ITALIAN Vittoria nemica
+SPANISH Victoria Enemiga
+RUSSIAN –¨·¹ ²ª°²
+
+
+:TRANSLATION Allied Victory
+ENGLISH Allied Victory
+FRENCH Victoire Alliée
+GERMAN Alliierter Sieg
+ITALIAN Vittoria alleata
+SPANISH Victoria Aliada
+RUSSIAN –¨²§¹
+
+
+:TRANSLATION Time in Campaign
+ENGLISH Time in Campaign
+FRENCH Temps de Campagne
+GERMAN Kampagnenzeit
+ITALIAN Tempo campagna
+SPANISH Tiempo en Campaña
+RUSSIAN ³·²›¯ ¶­¹±¦°¯ ¥ ´¹›©¹ª°°
+
+
+:TRANSLATION Server Terminated Connection
+ENGLISH Server Terminated Connection
+FRENCH Connexion Serveur Terminée
+GERMAN Server hat Verbindung abgebrochen
+ITALIAN Connessione al server terminata
+SPANISH El Servidor Cortó la Conexión
+RUSSIAN œ²·¥²· ©·²·¥¹¬ ±¨²§°ª²ª°²
+
+
+:TRANSLATION Insufficient Resources Left For Conflict
+ENGLISH Insufficient Resources Left For Conflict
+FRENCH Plus Assez De Ressources Pour Le Conflit
+GERMAN Ressourcen unzureichend für Konflikt
+ITALIAN Insufficienti risorse rimaste per il conflitto
+SPANISH Recursos Insuficientes para el Conflicto
+RUSSIAN ®²§¨±¦¹¦¨­ª¨ ·²±¶·±¨¥ §¬¯ ©·¨§¨¬ ²ª°¯ ´¨ª¤¬°´¦¹.
+
+
+:END
+

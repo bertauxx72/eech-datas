@@ -1,0 +1,2287 @@
+:START
+
+:TRANSLATION Loading
+ENGLISH Loading
+FRENCH Chargement
+GERMAN Lade
+ITALIAN Caricamento
+SPANISH Cargando
+RUSSIAN ∫π∏∑∂µ¥π...
+
+
+:TRANSLATION Version
+ENGLISH Version
+FRENCH Version
+GERMAN Version
+ITALIAN Versione
+SPANISH VersiÛn
+RUSSIAN ≥≤∑±∞Ø
+
+
+:TRANSLATION First Time Graphics Conversion
+ENGLISH First Time Graphics Conversion
+FRENCH Conversion Graphique (Premier Lancement)
+GERMAN Erstmalige Grafikumwandlung
+ITALIAN Prima conversione grafica
+SPANISH ConversiÛn inicial de gr·ficos
+RUSSIAN Æπ≠π¨´™πØ ©®ß∏®¶®•¥π ∏∑π§∞¥∞
+
+
+:TRANSLATION Graphics
+ENGLISH Graphics
+FRENCH Graphismes
+GERMAN Grafik
+ITALIAN Grafica
+SPANISH Gr·ficos
+RUSSIAN £∑π§∞¥π
+
+
+:TRANSLATION Maths
+ENGLISH Maths
+FRENCH Maths
+GERMAN Mathematik
+ITALIAN Elaborazioni matematiche
+SPANISH Algoritmos
+RUSSIAN ≥¢≠∞±¨≤™∞Ø
+
+
+:TRANSLATION CD Rom
+ENGLISH CD Rom
+FRENCH CD-ROM
+GERMAN CD-Rom
+ITALIAN CD-ROM
+SPANISH CD Rom
+RUSSIAN CD ROM
+
+
+:TRANSLATION Joystick
+ENGLISH Joystick
+FRENCH Joystick
+GERMAN Joystick
+ITALIAN Joystick
+SPANISH Joystick
+RUSSIAN °†®ü±¶∞¥
+
+
+:TRANSLATION Update
+ENGLISH Update
+FRENCH Mise ‡ Jour
+GERMAN Update
+ITALIAN Aggiornamento
+SPANISH ActualizaciÛn
+RUSSIAN ûù™®•¨≤™∞≤
+
+
+:TRANSLATION Comms System
+ENGLISH Comms System
+FRENCH Comms
+GERMAN Kommunikationssystem
+ITALIAN Sistema di comunicazione
+SPANISH Sistema de Comunicaciones
+RUSSIAN ú∞±¶≤õπ ±•Øµ∞
+
+
+:TRANSLATION 3D System
+ENGLISH 3D System
+FRENCH PÈriphÈrique 3D
+GERMAN 3D-System
+ITALIAN Sistemi 3D
+SPANISH Sistema 3D
+RUSSIAN 3D-±∞±¶≤õπ
+
+
+:TRANSLATION Tag System
+ENGLISH Tag System
+FRENCH SystËme TAG
+GERMAN Tag-System
+ITALIAN Descrizione comandi
+SPANISH Sistema Tag
+RUSSIAN ú∞±¶≤õπ ß≤±¥∑∞©¶®∑®•
+
+
+:TRANSLATION UI Manager
+ENGLISH UI Manager
+FRENCH Gestionnaire UI
+GERMAN UI-Manager
+ITALIAN Gestore interfaccia utente
+SPANISH Manager del interfaz
+RUSSIAN Æπ±¶∑®ü¥∞ ∞™¶≤∑§≤ü±π
+
+
+:TRANSLATION System Manager
+ENGLISH System Manager
+FRENCH Gestionnaire SystËme
+GERMAN System-Manager
+ITALIAN Gestione dei sistemi
+SPANISH Manager del sistema
+RUSSIAN Æπ±¶∑®ü¥∞ ±∞±¶≤õ¢
+
+
+:TRANSLATION AI System
+ENGLISH AI System
+FRENCH Gestionnaire IA
+GERMAN KI-System
+ITALIAN Sistema IA
+SPANISH Sistema IA
+RUSSIAN ú∞±¶≤õπ öö
+
+
+:TRANSLATION Players
+ENGLISH Players
+FRENCH Joueurs
+GERMAN Spieler
+ITALIAN Giocatori
+SPANISH Jugadores
+RUSSIAN ö∏∑®¥∞
+
+
+:TRANSLATION Sound System
+ENGLISH Sound System
+FRENCH Son
+GERMAN Sound-System
+ITALIAN Sistema sonoro
+SPANISH Sistema de Sonido
+RUSSIAN ∫•∂¥
+
+
+:TRANSLATION Finished Initialisation
+ENGLISH Finished Initialisation
+FRENCH Initialisation TerminÈe
+GERMAN Initialisierung beendet
+ITALIAN Inizializzazione conclusa
+SPANISH InicializaciÛn Finalizada
+RUSSIAN ö™∞ô∞π¨∞µπô∞Ø µπ¥®™≠≤™π
+
+
+:TRANSLATION Main Screen
+ENGLISH Main
+FRENCH Menu Principal
+GERMAN Haupt
+ITALIAN Schermata principale
+SPANISH Men˙
+RUSSIAN û±™®•™®≤ õ≤™ò
+
+
+:TRANSLATION UI_COMBAT
+ENGLISH Combat
+FRENCH Combat
+GERMAN Kampf
+ITALIAN Combattimento
+SPANISH Combate
+RUSSIAN ó®∞
+
+
+:TRANSLATION UI_PILOTS
+ENGLISH Pilots
+FRENCH Pilotes
+GERMAN Piloten
+ITALIAN Piloti
+SPANISH Pilotos
+RUSSIAN ñ∞¨®¶¢
+
+
+:TRANSLATION Options Screen
+ENGLISH Options
+FRENCH Options
+GERMAN Optionen
+ITALIAN Opzioni
+SPANISH Opciones
+RUSSIAN Æπ±¶∑®ü¥∞
+
+
+:TRANSLATION UI_MULTIPLAYER
+ENGLISH Multiplayer
+FRENCH Multijoueur
+GERMAN Multiplayer
+ITALIAN Multigiocatore
+SPANISH Multijugador
+RUSSIAN ú≤¶≤•πØ ∞∏∑π
+
+
+:TRANSLATION Medals
+ENGLISH Medals
+FRENCH DÈcorations
+GERMAN Orden
+ITALIAN Medaglie
+SPANISH Medallas
+RUSSIAN ï≤ßπ¨∞
+
+
+:TRANSLATION Red Force
+ENGLISH Red Force
+FRENCH Rouge
+GERMAN Rote Streitmacht
+ITALIAN Red Force
+SPANISH Fuerza Roja
+RUSSIAN î∑π±™¢≤
+
+
+:TRANSLATION Blue Force
+ENGLISH Blue Force
+FRENCH Bleu
+GERMAN Blaue Streitmacht
+ITALIAN Blue Force
+SPANISH Fuerza Azul
+RUSSIAN ú∞™∞≤
+
+
+:TRANSLATION Weapons Log
+ENGLISH Weapons Log
+FRENCH Armement
+GERMAN Waffenlog
+ITALIAN Registro delle armi
+SPANISH Informe de Armas
+RUSSIAN Ñ§§≤¥¶∞•™®±¶´
+
+
+:TRANSLATION Flight Log
+ENGLISH Flight Log
+FRENCH Carnet de Vol
+GERMAN Flug-Log
+ITALIAN Registro di volo
+SPANISH Informe de Vuelo
+RUSSIAN ñ®±¨∂†™®ü ±©∞±®¥
+
+
+:TRANSLATION Lieutenant
+ENGLISH Lieutenant
+FRENCH Lieutenant
+GERMAN Leutnant
+ITALIAN Tenente
+SPANISH Teniente
+RUSSIAN ì≤ü¶≤™π™¶
+
+
+:TRANSLATION Lt.
+ENGLISH Lt.
+FRENCH Lt.
+GERMAN Ltn.
+ITALIAN Ten.
+SPANISH Tte.
+RUSSIAN ì-¶
+
+
+:TRANSLATION Captain
+ENGLISH Captain
+FRENCH Capitaine
+GERMAN Hauptmann
+ITALIAN Capitano
+SPANISH Capit·n
+RUSSIAN îπ©∞¶π™
+
+
+:TRANSLATION Capt.
+ENGLISH Capt.
+FRENCH Cpt.
+GERMAN Hptm.
+ITALIAN Cap.
+SPANISH Capt.
+RUSSIAN î-™
+
+
+:TRANSLATION Major
+ENGLISH Major
+FRENCH Commandant
+GERMAN Major
+ITALIAN Maggiore
+SPANISH Mayor
+RUSSIAN ïπü®∑
+
+
+:TRANSLATION Maj.
+ENGLISH Maj.
+FRENCH Com.
+GERMAN Maj.
+ITALIAN Mag.
+SPANISH May.
+RUSSIAN ï-∑
+
+
+:TRANSLATION Lt. Colonel
+ENGLISH Lt. Colonel
+FRENCH Lt. Colonel
+GERMAN Oberstleutnant
+ITALIAN Tenente colonnello
+SPANISH Tte Coronel
+RUSSIAN ñ®ß©®¨¥®•™∞¥
+
+
+:TRANSLATION Lt. Col.
+ENGLISH Lt.Col.
+FRENCH Lcl.
+GERMAN Obltn.
+ITALIAN Ten. Col.
+SPANISH TCol.
+RUSSIAN ñ. ©-¥.
+
+
+:TRANSLATION Colonel
+ENGLISH Colonel
+FRENCH Colonel
+GERMAN Oberst
+ITALIAN Colonnello
+SPANISH Coronel
+RUSSIAN ñ®¨¥®•™∞¥
+
+
+:TRANSLATION Col.
+ENGLISH Col.
+FRENCH Col.
+GERMAN Oberst
+ITALIAN Col.
+SPANISH Cor.
+RUSSIAN ñ-¥
+
+
+:TRANSLATION ADD
+ENGLISH ADD
+FRENCH AJOUTER
+GERMAN HINZUF‹GEN
+ITALIAN AGGIUNGI
+SPANISH A—ADIR
+RUSSIAN °ûóí≥öëê
+
+
+:TRANSLATION RENAME
+ENGLISH RENAME
+FRENCH RENOMMER
+GERMAN UMBENENNEN
+ITALIAN RINOMINA
+SPANISH RENOMBRAR
+RUSSIAN ñèéèöïèÆû≥íëê
+
+
+:TRANSLATION DELETE
+ENGLISH DELETE
+FRENCH EFFACER
+GERMAN L÷SCHEN
+ITALIAN CANCELLA
+SPANISH BORRAR
+RUSSIAN ç°íìöëê
+
+
+:TRANSLATION Date Commissioned
+ENGLISH Date Commissioned
+FRENCH EntrÈe en Service
+GERMAN In Dienst gestellt am
+ITALIAN Data arruolamento
+SPANISH Fecha
+RUSSIAN °π¶π µπ≠∞±¨≤™∞Ø ™π ±¨∂†ù∂
+
+
+:TRANSLATION Air Kills
+ENGLISH Air Kills
+FRENCH Air-Air
+GERMAN Lufttreffer
+ITALIAN Unit‡ aeree eliminate
+SPANISH Aire
+RUSSIAN ç™∞≠¶®†≤™® •®µß∂ã™¢å ô≤¨≤ü
+
+
+:TRANSLATION Ground Kills
+ENGLISH Ground Kills
+FRENCH Air-Sol
+GERMAN Bodentreffer
+ITALIAN Unit‡ di terra eliminate
+SPANISH Tierra
+RUSSIAN î-•® ©®∑π†≤™™¢å ™πµ≤õ™¢å ô≤¨≤ü
+
+
+:TRANSLATION Sea Kills
+ENGLISH Sea Kills
+FRENCH Air-Mer
+GERMAN Seetreffer
+ITALIAN Unit‡ navali eliminate
+SPANISH Mar
+RUSSIAN î-•® ©®∑π†≤™™¢å õ®∑±¥∞å ô≤¨≤ü
+
+
+:TRANSLATION KIA
+ENGLISH KIA
+FRENCH TAC
+GERMAN Gefallen
+ITALIAN KIA
+SPANISH MEC
+RUSSIAN úù∞¶ ©∑®¶∞•™∞¥®õ
+
+
+:TRANSLATION Fratricides
+ENGLISH Fratricides
+FRENCH Fraternels
+GERMAN Staffelmitglieder
+ITALIAN Fratricidi
+SPANISH Fratricidios
+RUSSIAN ç™∞≠¶®†≤™® ±•®∞å
+
+
+:TRANSLATION Flying Hours
+ENGLISH Flying Hours
+FRENCH Heures de Vol
+GERMAN Flugstunden
+ITALIAN Ore di volo
+SPANISH Horas de Vuelo
+RUSSIAN î-•® ¨≤¶™¢å ≠π±®•
+
+
+:TRANSLATION Successful Tours
+ENGLISH Successful Tours
+FRENCH Campagnes RÈussies
+GERMAN Erfolgreiche Eins‰tze
+ITALIAN Successi
+SPANISH …xitos
+RUSSIAN î-•® ∂±©≤ã™¢å ±õ≤™
+
+
+:TRANSLATION Failed Tours
+ENGLISH Failed Tours
+FRENCH Campagnes RatÈes
+GERMAN Erfolglose Eins‰tze
+ITALIAN Fallimenti
+SPANISH Fracasos
+RUSSIAN î-•® ™≤∂ßπ≠™¢å ±õ≤™
+
+
+:TRANSLATION Missions Flown
+ENGLISH Missions Flown
+FRENCH Missions
+GERMAN Geflogene Eins‰tze
+ITALIAN Missioni volate
+SPANISH Misiones voladas
+RUSSIAN ûùä≤≤ ¥-•® ù®≤•¢å •¢¨≤¶®•
+
+
+:TRANSLATION Success Rate
+ENGLISH Success Rate
+FRENCH Taux de SuccËs
+GERMAN Erfolgsrate
+ITALIAN Percentuale di successo
+SPANISH Porcentaje de …xitos
+RUSSIAN Ñ§§≤¥¶∞•™®±¶´
+
+
+:TRANSLATION WEAPON
+ENGLISH WEAPON
+FRENCH ARME
+GERMAN WAFFE
+ITALIAN ARMA
+SPANISH ARMA
+RUSSIAN ëöñ ûéçàöá
+
+
+:TRANSLATION FIRED
+ENGLISH FIRED
+FRENCH TIRS
+GERMAN ABGEFEUERT
+ITALIAN SPARATI
+SPANISH DISPAROS
+RUSSIAN ≥Üúëéèìû≥
+
+
+:TRANSLATION HIT
+ENGLISH HIT
+FRENCH TOUCHE
+GERMAN TREFFER
+ITALIAN COLPITI
+SPANISH ACIERTOS
+RUSSIAN ñûñí°íÆöÖ
+
+
+:TRANSLATION EFF
+ENGLISH EFF
+FRENCH EFF
+GERMAN EFF
+ITALIAN EFF
+SPANISH EF.
+RUSSIAN ÑÉÉ.
+
+
+:TRANSLATION US
+ENGLISH US
+FRENCH US
+GERMAN USA
+ITALIAN USA
+SPANISH E.E.U.U.
+RUSSIAN úÇí
+
+
+:TRANSLATION Russian
+ENGLISH Russian
+FRENCH Russe
+GERMAN Russland
+ITALIAN Russia
+SPANISH Ruso
+RUSSIAN éçúúîöè
+
+
+:TRANSLATION Medal Campaign
+ENGLISH Awarded for completion of the campaign
+FRENCH DÈcernÈe en fin de campagne
+GERMAN Verliehen f¸r Beendigung der Kampagne
+ITALIAN Assegnata per il completamento della campagna
+SPANISH Distinguido por la finalizaciÛn de la campaÒa
+RUSSIAN ∫π ∂≠π±¶∞≤ • ù®≤•¢å ß≤ü±¶•∞Øå
+
+
+:TRANSLATION Medal Army Aviator
+ENGLISH Awarded after 4 hours of flight
+FRENCH DÈcernÈe aprËs 4 heures de vol
+GERMAN Verliehen nach 4 Flugstunden
+ITALIAN Assegnata dopo 4 ore di volo
+SPANISH Distinguido tras 4 horas de vuelo
+RUSSIAN ∫π 4 ¨≤¶™¢å ≠π±®•
+
+
+:TRANSLATION Medal Senior Aviator
+ENGLISH Awarded after 15 hours of flight
+FRENCH DÈcernÈe aprËs 15 heures de vol
+GERMAN Verliehen nach 15 Flugstunden
+ITALIAN Assegnata dopo 15 ore di volo
+SPANISH Distinguido tras 15 horas de vuelo
+RUSSIAN ∫π 15 ¨≤¶™¢å ≠π±®•
+
+
+:TRANSLATION Medal Master Aviator
+ENGLISH Awarded after 50 hours flight
+FRENCH DÈcernÈe aprËs 50 heures de vol
+GERMAN Verliehen nach 50 Flugstunden
+ITALIAN Assegnata dopo 50 ore di volo
+SPANISH Distinguido tras 50 horas de vuelo
+RUSSIAN ∫π 50 ¨≤¶™¢å ≠π±®•
+
+
+:TRANSLATION Medal Injury
+ENGLISH Awarded for injury in the line of duty
+FRENCH DÈcernÈe pour blessure au combat
+GERMAN Verliehen f¸r Verwundung im Einsatz
+ITALIAN Assegnata per le ferite in battaglia
+SPANISH Distinguido por heridas en cumplimiento del deber
+RUSSIAN ∫π ∑π™≤™∞≤ ©∑∞ •¢©®¨™≤™∞∞ ù®≤•®∏® µπßπ™∞Ø
+
+
+:TRANSLATION Medal Valour
+ENGLISH Awarded for valour
+FRENCH DÈcernÈe pour bravoure
+GERMAN Verliehen f¸r Tapferkeit
+ITALIAN Assegnata per il valore
+SPANISH Distinguido por valor
+RUSSIAN ∫π ©∑®Ø•¨≤™™∂ò ß®ù¨≤±¶´
+
+
+:TRANSLATION Medal Saudi
+ENGLISH Saudi Arabia Campaign Medal
+FRENCH MÈdaille de la Campagne d'Arabie Saoudite
+GERMAN Orden f¸r Saudi-Arabien-Kampagne
+ITALIAN Medaglia per la campagna in Arabia Saudita
+SPANISH La Medalla de la CampaÒa de Arabia SaudÌ
+RUSSIAN ï≤ßπ¨´ "∫π ∂≠π±¶∞≤ • ù®Øå • úπ∂ß®•±¥®ü í∑π•∞∞"
+
+
+:TRANSLATION Medal Lebanon
+ENGLISH Lebanon Campaign Medal
+FRENCH MÈdaille de la Campagne du Liban
+GERMAN Orden f¸r Libanon-Kampagne
+ITALIAN Medaglia per la campagna in Libano
+SPANISH La Medalla de la CampaÒa del LÌbano
+RUSSIAN ï≤ßπ¨´ "∫π ∂≠π±¶∞≤ • ù®Øå • ì∞•π™≤"
+
+
+:TRANSLATION Medal Taiwan
+ENGLISH Taiwan Independence Medal
+FRENCH MÈdaille de la Campagne pour l'IndÈpendance de TaÔwan
+GERMAN Taiwanesischer Unabh‰ngigkeitsorden
+ITALIAN Medaglia per l'indipendenza di Taiwan
+SPANISH La Medalla de la Independencia de Taiwan
+RUSSIAN ï≤ßπ¨´ "∫π ™≤µπ•∞±∞õ®±¶´ ëπü•π™Ø"
+
+
+:TRANSLATION Medal Army Wings
+ENGLISH Army Aviator Wings
+FRENCH Army Aviator Wings
+GERMAN Fl¸gel f¸r Armeeflieger
+ITALIAN Grado di aviatore dell'esercito
+SPANISH Las Alas de Aviador de la Armada
+RUSSIAN ñ®≠≤¶™¢≤ ¥∑¢¨´Ø
+
+
+:TRANSLATION Medal Senior Wings
+ENGLISH Senior Aviator Wings
+FRENCH Senior Aviator Wings
+GERMAN Fl¸gel f¸r altgediente Flieger
+ITALIAN Grado di aviatore superiore
+SPANISH Las Alas de Aviador Senior de la Armada
+RUSSIAN î∑¢¨´Ø ± ®¶¨∞≠∞≤õ
+
+
+:TRANSLATION Medal Master Wings
+ENGLISH Master Aviator Wings
+FRENCH Master Aviator Wings
+GERMAN Fl¸gel f¸r Meisterflieger
+ITALIAN Grado di aviatore capo
+SPANISH Las Alas de Maestro Aviador de la Armada
+RUSSIAN î∑¢¨´Ø ©≤∑•®ü ±¶≤©≤™∞
+
+
+:TRANSLATION Medal Purple
+ENGLISH Purple Heart
+FRENCH Coeur Pourpre
+GERMAN Verwundetenabzeichen
+ITALIAN Medaglia al valore
+SPANISH El CorazÛn P˙rpura
+RUSSIAN ñ∂∑©∂∑™®≤ ±≤∑ßô≤
+
+
+:TRANSLATION Medal Air
+ENGLISH Air Medal
+FRENCH MÈdaille de l'Air
+GERMAN Luftorden
+ITALIAN Medaglia aerea
+SPANISH La Medalla del Aire
+RUSSIAN ï≤ßπ¨´ ≥≥ú
+
+
+:TRANSLATION Medal Distinguished
+ENGLISH Distinguished Flying Cross
+FRENCH Distinguished Flying Cross
+GERMAN Fliegerkreuz mit Auszeichnung
+ITALIAN Croce al valore in volo
+SPANISH La Cruz del Aire
+RUSSIAN î∑≤±¶ ≥≥ú µπ ®±®ù¢≤ µπ±¨∂∏∞
+
+
+:TRANSLATION Medal Silver
+ENGLISH Silver Star
+FRENCH Etoile d'Argent
+GERMAN Silberner Stern
+ITALIAN Stella d'argento
+SPANISH La Estrella de Plata
+RUSSIAN ú≤∑≤ù∑Ø™πØ µ•≤µßπ
+
+
+:TRANSLATION Medal Service
+ENGLISH Distinguished Service Medal
+FRENCH Distinguished Service Medal
+GERMAN Orden f¸r auﬂerordentliche Verdienste
+ITALIAN Croce al valore militare
+SPANISH La Medalla por Servicios Distinguidos
+RUSSIAN ï≤ßπ¨´ µπ ®±®ù¢≤ µπ±¨∂∏∞
+
+
+:TRANSLATION Medal Honour
+ENGLISH Medal of Honour
+FRENCH MÈdaille d'Honneur
+GERMAN Ehrenmedaille
+ITALIAN Medaglia d'onore
+SPANISH La Medalla de Honor
+RUSSIAN ï≤ßπ¨´ ≠≤±¶∞
+
+
+:TRANSLATION Medal SV Lebanon
+ENGLISH Defence of Lebanon Medal
+FRENCH MÈdaille de la DÈfense du Liban
+GERMAN Orden f¸r die Verteidigung Libanons
+ITALIAN Medaglia per la difesa del Libano
+SPANISH La Medalla de Defensa del LÌbano
+RUSSIAN ï≤ßπ¨´ "∫π ®ù®∑®™∂ ì∞•π™π"
+
+
+:TRANSLATION Medal SV Yemen
+ENGLISH Medal for Victory over Saudi Arabia
+FRENCH MÈdaille de la Victoire contre l'Arabie Saoudite
+GERMAN Orden f¸r den Sieg ¸ber Saudi-Arabien
+ITALIAN Medaglia per la vittoria sull'Arabia Saudita
+SPANISH La Medalla por la Victoria sobre Arabia SaudÌ
+RUSSIAN ï≤ßπ¨´ "∫π ©®ù≤ß∂ ™πß úπ∂ß®•±¥®ü í∑π•∞≤ü"
+
+
+:TRANSLATION Medal SV Taiwan
+ENGLISH Medal for Restoration of Taiwan
+FRENCH MÈdaille de la RÈunification de TaÔwan
+GERMAN Orden f¸r die R¸ckgabe Taiwans
+ITALIAN Medaglia per la restaurazione di Taiwan
+SPANISH La Medalla por la RestauraciÛn de Taiwan
+RUSSIAN ï≤ßπ¨´ "∫π •®±±®≤ß∞™≤™∞≤ ëπü•π™Ø"
+
+
+:TRANSLATION Medal SV Master Wings
+ENGLISH Service Medal, 1st Class
+FRENCH Service Medal, 1st Class
+GERMAN Verdienstorden Erster Klasse
+ITALIAN Medaglia per il servizio, 1a classe
+SPANISH La Medalla al Servicio, Primera Clase
+RUSSIAN ï≤ßπ¨´ "∫π µπ±¨∂∏∞" 1-ü ±¶≤©≤™∞
+
+
+:TRANSLATION Medal SV Senior Wings
+ENGLISH Service Medal, 2nd Class
+FRENCH Service Medal, 2nd Class
+GERMAN Verdienstorden Zweiter Klasse
+ITALIAN Medaglia per il servizio, 2a classe
+SPANISH La Medalla al Servicio, Segunda Clase
+RUSSIAN ï≤ßπ¨´ "∫π µπ±¨∂∏∞" 2-ü ±¶≤©≤™∞
+
+
+:TRANSLATION Medal SV Army Wings
+ENGLISH Service Medal, 3rd Class
+FRENCH Service Medal, 3rd Class
+GERMAN Verdienstorden Dritter Klasse
+ITALIAN Medaglia per il servizio, 3a classe
+SPANISH La Medalla al Servicio, Tercera Clase
+RUSSIAN ï≤ßπ¨´ "∫π µπ±¨∂∏∞" 3-ü ±¶≤©≤™∞
+
+
+:TRANSLATION Medal SV Glory
+ENGLISH Order of Glory
+FRENCH Ordre de la Gloire
+GERMAN Ehrenorden
+ITALIAN Ordine glorioso
+SPANISH La Orden de Gloria
+RUSSIAN û∑ß≤™ ú¨π•¢
+
+
+:TRANSLATION Medal SV Banner
+ENGLISH Red Banner
+FRENCH BanniËre Rouge
+GERMAN Rote Fahne
+ITALIAN Bandiera rossa
+SPANISH El Emblema Rojo
+RUSSIAN û∑ß≤™ î∑π±™®∏® µ™πõ≤™∞
+
+
+:TRANSLATION Medal SV Service
+ENGLISH Order of Service
+FRENCH Ordre de Service
+GERMAN Orden f¸r Verdienste
+ITALIAN Ordine di servizio
+SPANISH La Orden de Servicio
+RUSSIAN û∑ß≤™ "∫π µπ±¨∂∏∞"
+
+
+:TRANSLATION Medal SV Lenin
+ENGLISH Order of Lenin
+FRENCH Ordre de LÈnine
+GERMAN Lenin-Orden
+ITALIAN Ordine di Lenin
+SPANISH La Orden de Lenin
+RUSSIAN û∑ß≤™ ì≤™∞™π
+
+
+:TRANSLATION Medal SV Victory
+ENGLISH Order of Victory
+FRENCH Ordre de la Victoire
+GERMAN Siegermedaille
+ITALIAN Ordine della vittoria
+SPANISH La Orden de Victoria
+RUSSIAN û∑ß≤™ ñ®ù≤ß¢
+
+
+:TRANSLATION Medal SV Star
+ENGLISH Gold Star
+FRENCH Etoile d'Or
+GERMAN Goldener Stern
+ITALIAN Stella d'oro
+SPANISH La Estrella de Oro
+RUSSIAN ∫®¨®¶πØ ∫•≤µßπ
+
+
+:TRANSLATION CONTROLLER MENU
+ENGLISH Controls
+FRENCH ContrÙles
+GERMAN Steuerungen
+ITALIAN Comandi di gioco
+SPANISH Controles
+RUSSIAN ç©∑π•¨≤™∞≤
+
+
+:TRANSLATION UI_KEYBOARD
+ENGLISH Keyboard
+FRENCH Clavier
+GERMAN Tastatur
+ITALIAN Tastiera
+SPANISH Teclado
+RUSSIAN î¨π•∞π¶∂∑π
+
+
+:TRANSLATION UI_JOYSTICK
+ENGLISH Joystick
+FRENCH Joystick
+GERMAN Joystick
+ITALIAN Joystick
+SPANISH Joystick
+RUSSIAN °†®ü±¶∞¥
+
+
+:TRANSLATION UI_NONE_AVAILABLE
+ENGLISH None Available
+FRENCH Aucun
+GERMAN Keine verf¸gbar
+ITALIAN Nessuno disponibile
+SPANISH Ninguno disponible
+RUSSIAN Æ≤¶
+
+
+:TRANSLATION UI_CYCLIC
+ENGLISH Cyclic
+FRENCH Cyclique
+GERMAN Steuerkn¸ppel
+ITALIAN Passo ciclico
+SPANISH CÌclico
+RUSSIAN Å∞¥¨∞≠≤±¥∞ü ãπ∏
+
+
+:TRANSLATION UI_COLLECTIVE
+ENGLISH Collective
+FRENCH Collectif
+GERMAN Kollektivhebel
+ITALIAN Passo collettivo
+SPANISH Colectivo
+RUSSIAN ûùä∞ü ãπ∏
+
+
+:TRANSLATION UI_PEDAL
+ENGLISH Pedal
+FRENCH PÈdalier
+GERMAN Pedal
+ITALIAN Pedali
+SPANISH Pedal
+RUSSIAN ñ≤ßπ¨∞
+
+
+:TRANSLATION UI_DEVICE
+ENGLISH Device
+FRENCH PÈriphÈrique
+GERMAN Ger‰t
+ITALIAN Dispositivo
+SPANISH Dispositivo
+RUSSIAN ç±¶∑®ü±¶•®
+
+
+:TRANSLATION Throttle
+ENGLISH Throttle
+FRENCH Gaz
+GERMAN Gashebel
+ITALIAN Manetta
+SPANISH Regulador (Throttle)
+RUSSIAN °∑®±±≤¨´
+
+
+:TRANSLATION Rudder Pedals
+ENGLISH Rudder Pedals
+FRENCH Palonnier
+GERMAN Gierpedale
+ITALIAN Pedali del timone
+SPANISH Pedales de TimÛn
+RUSSIAN ñ≤ßπ¨∞ ∑∂¨Ø
+
+
+:TRANSLATION Reverse Throttle
+ENGLISH Reverse Throttle
+FRENCH Gaz InversÈ
+GERMAN Umkehrschub
+ITALIAN Manetta rovesciata
+SPANISH Invertir el Throttle
+RUSSIAN ûù∑π¶™πØ ¶Ø∏π
+
+
+:TRANSLATION Keyboard Assist
+ENGLISH Keyboard Assist
+FRENCH Assist. Clavier
+GERMAN Tastaturhilfe
+ITALIAN Assistenza della tastiera
+SPANISH AmortiguaciÛn de Teclado
+RUSSIAN ú∏¨π†∞•π™∞≤ ••®ßπ ± ¥¨π•∞π¶∂∑¢
+
+
+:TRANSLATION DYNAMICS MENU
+ENGLISH Dynamics
+FRENCH ModËle de Vol
+GERMAN Dynamik
+ITALIAN Dinamica
+SPANISH Din·mica
+RUSSIAN °∞™πõ∞¥π
+
+
+:TRANSLATION Blade Stall
+ENGLISH Blade Stall
+FRENCH DÈcrochage HÈlice
+GERMAN Blattstrˆmungsabriss
+ITALIAN Stallo delle pale
+SPANISH Efecto de Pala en Retroceso
+RUSSIAN ú∑¢• ©®¶®¥π ™π ¨®©π±¶Øå
+
+
+:TRANSLATION Cross Couple
+ENGLISH Cross Couple
+FRENCH Couple
+GERMAN Querkopplung
+ITALIAN Coppia incrociata
+SPANISH Potencia de Fuga
+RUSSIAN î®õ©≤™±πô∞Ø ∑≤π¥¶∞•™®∏® õ®õ≤™¶π
+
+
+:TRANSLATION Ground Effect
+ENGLISH Ground Effect
+FRENCH Effet Sol
+GERMAN Bodeneffekt
+ITALIAN Effetto suolo
+SPANISH Efecto suelo
+RUSSIAN Ñ¥∑π™∞∑∂òä∞ü â§§≤¥¶ µ≤õ¨∞
+
+
+:TRANSLATION Transitional Lift
+ENGLISH Transitional Lift
+FRENCH Portance Trans.
+GERMAN ‹bergangsauftrieb
+ITALIAN Spinta traslatoria
+SPANISH SustentaciÛn transitoria
+RUSSIAN íâ∑®ß∞™πõ∞≠≤±¥∞ü ©®ßÄ≤õ
+
+
+:TRANSLATION Over Torque
+ENGLISH Over-Torque
+FRENCH Sur-Couple
+GERMAN Erhˆhtes Drehmoment
+ITALIAN Sovra-coppia
+SPANISH Efecto sobre-torsiÛn
+RUSSIAN ñ∑≤•¢ã≤™∞≤ ¥∑∂¶Øä≤∏® õ®õ≤™¶π
+
+
+:TRANSLATION Vortex Ring
+ENGLISH Vortex Ring
+FRENCH Vortex
+GERMAN Wirbelring
+ITALIAN Spira
+SPANISH Turbulencias
+RUSSIAN ≥∞å∑≤•®≤ ¥®¨´ô®
+
+
+:TRANSLATION Wind
+ENGLISH Wind
+FRENCH Vent
+GERMAN Wind
+ITALIAN Vento
+SPANISH Viento
+RUSSIAN ≥≤¶≤∑
+
+
+:TRANSLATION GRAPHICS_MENU
+ENGLISH Graphics
+FRENCH Graphismes
+GERMAN Grafik
+ITALIAN Grafica
+SPANISH Gr·ficos
+RUSSIAN £∑π§∞¥π
+
+
+:TRANSLATION Low
+ENGLISH Low
+FRENCH Faibles
+GERMAN Gering
+ITALIAN Basso
+SPANISH Bajo
+RUSSIAN Æ∞µ¥πØ
+
+
+:TRANSLATION Medium
+ENGLISH Medium
+FRENCH Interm.
+GERMAN Normal
+ITALIAN Medio
+SPANISH Medio
+RUSSIAN ú∑≤ß™ØØ
+
+
+:TRANSLATION High
+ENGLISH High
+FRENCH ElevÈs
+GERMAN Hoch
+ITALIAN Alto
+SPANISH Alto
+RUSSIAN ≥¢±®¥πØ
+
+
+:TRANSLATION Automatic
+ENGLISH Automatic
+FRENCH Automatique
+GERMAN Automatisch
+ITALIAN Automatica
+SPANISH Autom·tico
+RUSSIAN í•¶®õπ¶∞≠≤±¥∞
+
+
+:TRANSLATION Primary Display Driver
+ENGLISH Primary Display Driver
+FRENCH Carte Principale
+GERMAN Prim‰rer Anzeigetreiber
+ITALIAN Driver del video primario
+SPANISH Controlador de Pantalla Principal
+RUSSIAN û±™®•™®ü ß∞±©¨≤ü™¢ü ß∑πü•≤∑
+
+
+:TRANSLATION Terrain Detail
+ENGLISH Terrain Detail
+FRENCH DÈtails Terrain
+GERMAN Gel‰ndedetails
+ITALIAN Dettaglio del suolo
+SPANISH Detalle de Terreno
+RUSSIAN °≤¶π¨∞µπô∞Ø ©®•≤∑å™®±¶∞
+
+
+:TRANSLATION Object Detail
+ENGLISH Object Detail
+FRENCH DÈtails Objet
+GERMAN Objektdetails
+ITALIAN Dettaglio degli oggetti
+SPANISH Detalle de Objetos
+RUSSIAN °≤¶π¨∞µπô∞Ø ®ùÄ≤¥¶®•
+
+
+:TRANSLATION Cockpit Detail
+ENGLISH Cockpit Detail
+FRENCH DÈtails Cockpit
+GERMAN Cockpitdetails
+ITALIAN Dettaglio dell'abitacolo
+SPANISH Detalle de Cabina
+RUSSIAN °≤¶π¨∞µπô∞Ø ¥πù∞™¢
+
+
+:TRANSLATION Rain Textures
+ENGLISH Rain Textures
+FRENCH Textures Pluie
+GERMAN Regentexturen
+ITALIAN Texture della pioggia
+SPANISH Lluvia
+RUSSIAN ú¨≤ß¢ ß®†ßØ
+
+
+:TRANSLATION Cockpit Rotors
+ENGLISH Cockpit Rotors
+FRENCH Rotors Cockpit
+GERMAN Cockpitrotoren
+ITALIAN Rotori
+SPANISH Rotores de Cabina
+RUSSIAN û¶®ù∑π†≤™∞≤ •∞™¶π
+
+
+:TRANSLATION Device Selection
+ENGLISH Device Selection
+FRENCH PÈriphÈrique 3D
+GERMAN Ger‰teauswahl
+ITALIAN Selezione periferiche
+SPANISH SelecciÛn de Dispositivo
+RUSSIAN ≥¢ù®∑ ∂±¶∑®ü±¶•π
+
+
+:TRANSLATION Screen Resolution
+ENGLISH Screen Resolution
+FRENCH RÈsolution
+GERMAN Bildschirmauflˆsung
+ITALIAN Risoluzione dello schermo
+SPANISH ResoluciÛn de Pantalla
+RUSSIAN éπµ∑≤ã≤™∞≤ â¥∑π™π
+
+
+:TRANSLATION Realism Title
+ENGLISH Realism
+FRENCH RÈalisme
+GERMAN Realismus
+ITALIAN Realismo
+SPANISH Realismo
+RUSSIAN é≤π¨∞±¶∞≠™®±¶´
+
+
+:TRANSLATION Novice
+ENGLISH Novice
+FRENCH Novice
+GERMAN Neuling
+ITALIAN Principiante
+SPANISH Novato
+RUSSIAN ç©∑®ä≤™™πØ
+
+
+:TRANSLATION Realistic
+ENGLISH Realistic
+FRENCH RÈaliste
+GERMAN Realistisch
+ITALIAN Realistico
+SPANISH Realista
+RUSSIAN é≤π¨∞±¶∞≠™πØ
+
+
+:TRANSLATION Hard
+ENGLISH Hard
+FRENCH Expert
+GERMAN Schwierig
+ITALIAN Difficile
+SPANISH DifÌcil
+RUSSIAN ≥¢±®¥πØ
+
+
+:TRANSLATION Easy
+ENGLISH Easy
+FRENCH Facile
+GERMAN Leicht
+ITALIAN Facile
+SPANISH F·cil
+RUSSIAN Æ∞µ¥πØ
+
+
+:TRANSLATION Co-Pilot Target ID
+ENGLISH Co-Pilot Target ID
+FRENCH ID Cible Copilote
+GERMAN Zielidentifikation durch Kopilot
+ITALIAN Identificazione bersaglio del co-pilota
+SPANISH Copiloto - Id. de Objetivos
+RUSSIAN û©®µ™π•π™∞≤ ô≤¨≤ü (•¶®∑®ü ©∞¨®¶)
+
+
+:TRANSLATION Co-Pilot ECM
+ENGLISH Co-Pilot ECM
+FRENCH CME Copilote
+GERMAN ECM durch Kopilot
+ITALIAN ECM co-pilota
+SPANISH Copiloto-Sistemas de Defensa
+RUSSIAN éÑó (•¶®∑®ü ©∞¨®¶)
+
+
+:TRANSLATION Avionics
+ENGLISH Avionics
+FRENCH Avioniques
+GERMAN Avionik
+ITALIAN Avionica
+SPANISH AviÛnica
+RUSSIAN í•∞®™∞¥π
+
+
+:TRANSLATION Difficulty
+ENGLISH Difficulty
+FRENCH DifficultÈ
+GERMAN Schwierigkeitsgrad
+ITALIAN Difficolt‡
+SPANISH Dificultad
+RUSSIAN ç∑®•≤™´ ±¨®†™®±¶∞
+
+
+:TRANSLATION Restart
+ENGLISH Restart Game
+FRENCH Relancer Jeu
+GERMAN Spiel neu starten
+ITALIAN Ricomincia partita
+SPANISH Reiniciar juego
+RUSSIAN ñ≤∑≤µπ©∂±¶∞¶´ ∞∏∑∂
+
+
+:TRANSLATION SOUND MENU
+ENGLISH Sound
+FRENCH Son
+GERMAN Sound
+ITALIAN Suono
+SPANISH Sonido
+RUSSIAN ∫•∂¥
+
+
+:TRANSLATION Sound Effects
+ENGLISH Sound Effects
+FRENCH Effets Sonores
+GERMAN Soundeffekte
+ITALIAN Effetti sonori
+SPANISH Efectos de Sonido
+RUSSIAN ∫•∂¥®•¢≤ â§§≤¥¶¢
+
+
+:TRANSLATION Music
+ENGLISH Music
+FRENCH Musique
+GERMAN Musik
+ITALIAN Musica
+SPANISH M˙sica
+RUSSIAN ï∂µ¢¥π
+
+
+:TRANSLATION Speech
+ENGLISH Speech
+FRENCH Voix
+GERMAN Sprachausgabe
+ITALIAN Dialoghi
+SPANISH Voces
+RUSSIAN éπß∞®©≤∑≤∏®•®∑¢
+
+
+:TRANSLATION Co-Pilot Speech
+ENGLISH Co-Pilot Speech
+FRENCH Copilote
+GERMAN Sprachausgabe Kopilot
+ITALIAN Dialoghi co-pilota
+SPANISH Voz del Co-piloto
+RUSSIAN ú®®ùä≤™∞Ø •¶®∑®∏® ©∞¨®¶π
+
+
+:TRANSLATION MP_SERIAL
+ENGLISH Serial
+FRENCH SÈrie
+GERMAN Seriell
+ITALIAN Seriale
+SPANISH Serie
+RUSSIAN ñ®±¨≤ß®•π¶≤¨´™¢ü ©®∑¶
+
+
+:TRANSLATION MP_INTERNET
+ENGLISH Internet TCP/IP
+FRENCH TCP/IP Internet
+GERMAN Internet TCP/IP
+ITALIAN Internet TCP/IP
+SPANISH Internet TCP/IP
+RUSSIAN ö™¶≤∑™≤¶ TCP/IP
+
+
+:TRANSLATION MP_MODEM
+ENGLISH Modem
+FRENCH Modem
+GERMAN Modem
+ITALIAN Modem
+SPANISH MÛdem
+RUSSIAN ï®ß≤õ
+
+
+:TRANSLATION MP_IPX
+ENGLISH IPX
+FRENCH IPX
+GERMAN IPX
+ITALIAN IPX
+SPANISH IPX
+RUSSIAN IPX
+
+:TRANSLATION MP_CONNECTION
+ENGLISH Connection
+FRENCH Connexion
+GERMAN Verbindung
+ITALIAN Connessione
+SPANISH ConexiÛn
+RUSSIAN ú®≤ß∞™≤™∞≤
+
+
+:TRANSLATION MP_CHANGE
+ENGLISH Change
+FRENCH Changer
+GERMAN ƒndern
+ITALIAN Cambia
+SPANISH Cambiar
+RUSSIAN öµõ≤™∞¶´
+
+
+:TRANSLATION MP_IP_ADDRESS
+ENGLISH IP Address
+FRENCH Adresse IP
+GERMAN IP-Adresse
+ITALIAN Indirizzo IP
+SPANISH DirecciÛn IP
+RUSSIAN IP πß∑≤±
+
+
+:TRANSLATION MP_PHONE_NUMBER
+ENGLISH Phone Number
+FRENCH NumÈro
+GERMAN Telefon-Nr.
+ITALIAN Numero di telefono
+SPANISH N˙mero de TelÈfono
+RUSSIAN Æ®õ≤∑ ¶≤¨≤§®™π
+
+
+:TRANSLATION MP_ANSWER
+ENGLISH Answer
+FRENCH RÈpondre
+GERMAN Antwort
+ITALIAN Rispondi
+SPANISH Contestar
+RUSSIAN û¶•≤¶∞¶´
+
+
+:TRANSLATION MP_DIAL
+ENGLISH Dial
+FRENCH Appeler
+GERMAN Anrufen
+ITALIAN Componi
+SPANISH Marcar
+RUSSIAN Æπù∑π¶´ ™®õ≤∑
+
+
+:TRANSLATION MP_CANCEL
+ENGLISH Cancel
+FRENCH Annuler
+GERMAN Abbrechen
+ITALIAN Annulla
+SPANISH Cancelar
+RUSSIAN û¶õ≤™π
+
+
+:TRANSLATION MP_INSTALLED
+ENGLISH Installed
+FRENCH InstallÈ
+GERMAN Installiert
+ITALIAN Installato 
+SPANISH Instalado
+RUSSIAN ç±¶π™®•¨≤™®
+
+
+:TRANSLATION MP_INITIALISED
+ENGLISH Initialised
+FRENCH InitialisÈ
+GERMAN Initialisiert
+ITALIAN Inizializzato
+SPANISH Inicializado
+RUSSIAN ö™∞ô∞π¨∞µ∞∑®•π™®
+
+
+:TRANSLATION MP_STATUS
+ENGLISH Status
+FRENCH Etat
+GERMAN Status
+ITALIAN Stato
+SPANISH Status
+RUSSIAN ú¶π¶∂±
+
+
+:TRANSLATION MP_CONNECTED
+ENGLISH Connected
+FRENCH ConnectÈ
+GERMAN Verbindung
+ITALIAN Connesso
+SPANISH Conectado
+RUSSIAN ú®≤ß∞™≤™∞≤ ∂±¶π™®•¨≤™®
+
+
+:TRANSLATION MP_UNCONNECTED
+ENGLISH Unconnected
+FRENCH DÈconnectÈ
+GERMAN Keine Verbindung
+ITALIAN Disconnetti
+SPANISH Desconectado
+RUSSIAN ú®≤ß∞™≤™∞≤ ©∑≤∑•π™®
+
+
+:TRANSLATION MP_CONNECTING
+ENGLISH Connecting
+FRENCH Connexion...
+GERMAN Verbinde...
+ITALIAN In connessione
+SPANISH Conectando
+RUSSIAN ç±¶π™π•¨∞•π≤¶±Ø ±®≤ß∞™≤™∞≤
+
+
+:TRANSLATION MP_INVALID_PROPERTIES
+ENGLISH Invalid Properties
+FRENCH PropriÈtÈs Incorrectes
+GERMAN Ung¸ltige Eigenschaften
+ITALIAN Propriet‡ non valide
+SPANISH Propiedades no V·lidas
+RUSSIAN Æ≤¥®∑∑≤¥¶™¢≤ ™π±¶∑®ü¥∞
+
+
+:TRANSLATION MP_NO_SERVICE_PROVIDER
+ENGLISH No Service Provider
+FRENCH Aucun FAI
+GERMAN Kein Anbieter
+ITALIAN Nessun provider
+SPANISH Sin Proveedor de Servicios
+RUSSIAN Æ≤¶
+
+
+:TRANSLATION MP_NONE
+ENGLISH None
+FRENCH Aucun
+GERMAN Kein
+ITALIAN Nessuno
+SPANISH Ninguno
+RUSSIAN Æ≤¶
+
+
+:TRANSLATION None
+ENGLISH None
+FRENCH Aucun
+GERMAN Kein
+ITALIAN Nessuno
+SPANISH Ninguno
+RUSSIAN Æ≤¶
+
+
+:TRANSLATION MP_WAITING_FOR_CALL
+ENGLISH Waiting for call
+FRENCH Attente d'Appel
+GERMAN Warte auf Anruf...
+ITALIAN In attesa di chiamata
+SPANISH Esperando Llamada
+RUSSIAN û†∞ßπ™∞≤ µ•®™¥π
+
+
+:TRANSLATION MP_FINDING_GAMES
+ENGLISH Finding Games
+FRENCH Recherche Parties
+GERMAN Suche Spiele...
+ITALIAN Ricerca partite
+SPANISH Buscando Juegos
+RUSSIAN ñ®∞±¥ ∞∏∑
+
+
+:TRANSLATION MP_JOINING_GAMES
+ENGLISH Joining Games
+FRENCH Connexion Parties
+GERMAN Schlieﬂe mich Spiel an
+ITALIAN Accesso partite
+SPANISH Incorpor·ndose a Juegos
+RUSSIAN ñ∑∞±®≤ß∞™≤™∞≤ ¥ ∞∏∑≤
+
+
+:TRANSLATION MP_CONNECTED_AT
+ENGLISH Connected At
+FRENCH ConnectÈ ‡
+GERMAN Verbindung bei
+ITALIAN Connesso a
+SPANISH Conectado a
+RUSSIAN ú¥®∑®±¶´ ±®≤ß∞™≤™∞Ø
+
+
+:TRANSLATION MP_COM_PORT
+ENGLISH Comms Port
+FRENCH Port Com
+GERMAN Komm.-Port
+ITALIAN Porta Comm
+SPANISH Puerto de Comunicaciones
+RUSSIAN î®õõ∂™∞¥πô∞®™™¢ü ©®∑¶
+
+
+:TRANSLATION MP_BAUD_RATE
+ENGLISH Baud Rate
+FRENCH Tx Transfert
+GERMAN Baudrate
+ITALIAN Baud Rate
+SPANISH Ratio de Baudios
+RUSSIAN ú¥®∑®±¶´ ©≤∑≤ßπ≠∞, ù®ß
+
+
+:TRANSLATION MP_STOP_BITS
+ENGLISH Stop Bits
+FRENCH Bits d'ArrÍt
+GERMAN Stoppbits
+ITALIAN Bit di stop
+SPANISH Bits de Parada
+RUSSIAN ú¶®©-ù∞¶¢
+
+
+:TRANSLATION MP_PARITY
+ENGLISH Parity
+FRENCH ParitÈ
+GERMAN Parit‰t
+ITALIAN Parit‡
+SPANISH Paridad
+RUSSIAN ≤¶™®±¶´
+
+
+:TRANSLATION MP_HANDSHAKE
+ENGLISH Handshake
+FRENCH NÈgociation
+GERMAN Handshake
+ITALIAN Collegamento
+SPANISH Conectado
+RUSSIAN ñ®ß¶•≤∑†ß≤™∞≤ ±•Øµ∞
+
+
+:TRANSLATION Free Flight
+ENGLISH Free Flight
+FRENCH Vol Libre
+GERMAN Freiflug
+ITALIAN Volo libero
+SPANISH Vuelo Libre
+RUSSIAN ú•®ù®ß™¢ü ©®¨≤¶
+
+
+:TRANSLATION Campaign
+ENGLISH Campaign
+FRENCH Campagne
+GERMAN Kampagne
+ITALIAN Campagna
+SPANISH CampaÒa
+RUSSIAN îπõ©π™∞Ø
+
+
+:TRANSLATION Skirmish
+ENGLISH Skirmish
+FRENCH Escarmouche
+GERMAN Scharm¸tzel
+ITALIAN Schermaglia
+SPANISH Misiones
+RUSSIAN ó®≤•πØ ®©≤∑πô∞Ø
+
+
+:TRANSLATION Demo
+ENGLISH Demo
+FRENCH DÈmo
+GERMAN Demo
+ITALIAN Demo
+SPANISH Demo
+RUSSIAN °≤õ®™±¶∑πô∞Ø
+
+
+:TRANSLATION Session
+ENGLISH Session
+FRENCH Session
+GERMAN Sitzung
+ITALIAN Sessione
+SPANISH SesiÛn
+RUSSIAN ö∏∑¢
+
+
+:TRANSLATION Time Of Day
+ENGLISH Time Of Day
+FRENCH Quand
+GERMAN Tageszeit
+ITALIAN Ora del giorno
+SPANISH Hora del DÌa
+RUSSIAN ≥∑≤õØ ß™Ø
+
+
+:TRANSLATION Random
+ENGLISH Random
+FRENCH AlÈatoire
+GERMAN Zufall
+ITALIAN Casuale
+SPANISH Aleatorio
+RUSSIAN ñ∑®∞µ•®¨´™®≤
+
+
+:TRANSLATION Dawn
+ENGLISH Dawn
+FRENCH Aube
+GERMAN Morgengrauen
+ITALIAN Alba
+SPANISH Amanecer
+RUSSIAN éπ±±•≤¶
+
+
+:TRANSLATION Midday
+ENGLISH Midday
+FRENCH Midi
+GERMAN Mittag
+ITALIAN Mezzogiorno
+SPANISH MediodÌa
+RUSSIAN ñ®¨ß≤™´
+
+
+:TRANSLATION Afternoon
+ENGLISH Afternoon
+FRENCH AprËs-Midi
+GERMAN Nachmittag
+ITALIAN Pomeriggio
+SPANISH Tarde
+RUSSIAN ñ®±¨≤ ©®¨∂ß™Ø
+
+
+:TRANSLATION Dusk
+ENGLISH Dusk
+FRENCH CrÈpuscule
+GERMAN Abendd‰mmerung
+ITALIAN Crepuscolo
+SPANISH Anochecer
+RUSSIAN ú∂õ≤∑¥∞
+
+
+:TRANSLATION Midnight
+ENGLISH Midnight
+FRENCH Nuit
+GERMAN Mitternacht
+ITALIAN Mezzanotte
+SPANISH Medianoche
+RUSSIAN ñ®¨™®≠´
+
+
+:TRANSLATION Variable
+ENGLISH Variable
+FRENCH Variable
+GERMAN Wechselhaft
+ITALIAN Variabile
+SPANISH Variable
+RUSSIAN ñ≤∑≤õ≤™™o
+
+
+:TRANSLATION Good
+ENGLISH Good
+FRENCH Beau
+GERMAN Gut
+ITALIAN Buono
+SPANISH Bueno
+RUSSIAN á±™o
+
+
+:TRANSLATION Fair
+ENGLISH Fair
+FRENCH Gris
+GERMAN Normal
+ITALIAN Bello
+SPANISH Normal
+RUSSIAN ûù¨π≠™o
+
+
+:TRANSLATION Poor
+ENGLISH Poor
+FRENCH Pluie
+GERMAN Schlecht
+ITALIAN Povero
+SPANISH Malo
+RUSSIAN Ç¶®∑õ
+
+
+:TRANSLATION Realism
+ENGLISH Realism
+FRENCH RÈalisme
+GERMAN Realismus
+ITALIAN Realismo
+SPANISH Realismo
+RUSSIAN é≤π¨∞µõ
+
+
+:TRANSLATION Infinite Weapons
+ENGLISH Infinite Weapons
+FRENCH Mun. Infinies
+GERMAN Waffen unbegrenzt
+ITALIAN Armi infinite
+SPANISH Armamento Infinito
+RUSSIAN ó®≤©∑∞©π±¢ ™≤ ¥®™≠πò¶±Ø
+
+
+:TRANSLATION Infinite Fuel
+ENGLISH Infinite Fuel
+FRENCH Carb. Infini
+GERMAN Kraftstoff unbegrenzt
+ITALIAN Carburante infinito
+SPANISH Combustible Infinito
+RUSSIAN ë®©¨∞•® ™≤ ¥®™≠π≤¶±Ø
+
+
+:TRANSLATION Collisions
+ENGLISH Collisions
+FRENCH Collisions
+GERMAN Kollisionen
+ITALIAN Collisioni
+SPANISH Colisiones
+RUSSIAN ú¶®¨¥™®•≤™∞Ø
+
+
+:TRANSLATION Weapons Damage
+ENGLISH Weapons Damage
+FRENCH DÈg‚ts Arme
+GERMAN Waffenschaden
+ITALIAN Danni subiti
+SPANISH DaÒos en las Armas
+RUSSIAN ñ®•∑≤†ß≤™∞≤ ®∑∂†∞Ø
+
+
+:TRANSLATION Environment
+ENGLISH Environment
+FRENCH Environnement
+GERMAN Umgebung
+ITALIAN Ambiente
+SPANISH Entorno
+RUSSIAN ú∑≤ßπ
+
+
+:TRANSLATION Game Type
+ENGLISH Game Type
+FRENCH Type de Partie
+GERMAN Spieltyp
+ITALIAN Tpo di partita
+SPANISH Tipo de Juego
+RUSSIAN ë∞© ∞∏∑¢
+
+
+:TRANSLATION Deathmatch
+ENGLISH Deathmatch
+FRENCH Deathmatch
+GERMAN Kampf auf Leben und Tod
+ITALIAN Deathmatch
+SPANISH Duelo a Muerte
+RUSSIAN ≥®µß∂ã™¢ü ù®ü
+
+
+:TRANSLATION Cooperative
+ENGLISH Cooperative
+FRENCH CoopÈratif
+GERMAN Kooperativ
+ITALIAN Cooperativo
+SPANISH Cooperativo
+RUSSIAN ú®•õ≤±¶™¢≤ ß≤ü±¶•∞Ø
+
+
+:TRANSLATION Time Limit
+ENGLISH Time Limit
+FRENCH Limite Temps
+GERMAN Zeitlimit
+ITALIAN Limite di tempo
+SPANISH LÌmite de Tiempo
+RUSSIAN û∏∑. •∑≤õ≤™∞
+
+
+:TRANSLATION Kill Limit
+ENGLISH Kill Limit
+FRENCH Limite Kills
+GERMAN Treffergrenze
+ITALIAN Limite uccisioni
+SPANISH LÌmite de Muertes
+RUSSIAN û∏∑. ©®ù≤ß
+
+
+:TRANSLATION (Minutes)
+ENGLISH (Minutes)
+FRENCH (Minutes)
+GERMAN (Minuten)
+ITALIAN (minuti)
+SPANISH (Minutos)
+RUSSIAN (ï∞™.)
+
+
+:TRANSLATION Passive
+ENGLISH Passive
+FRENCH Passif
+GERMAN Passiv
+ITALIAN Passivo
+SPANISH Pasivo
+RUSSIAN Æ≤ü¶∑π¨´™πØ
+
+
+:TRANSLATION Hostile
+ENGLISH Hostile
+FRENCH Hostile
+GERMAN Feindlich
+ITALIAN Ostile
+SPANISH Hostil
+RUSSIAN ≥∑π†ß≤ù™πØ
+
+
+:TRANSLATION No Games
+ENGLISH No Games
+FRENCH Aucune Partie
+GERMAN Keine Spiele
+ITALIAN Nessuna partita
+SPANISH Ning˙n Juego
+RUSSIAN Æ≤¶ ∞∏∑
+
+
+:TRANSLATION Elapsed Time
+ENGLISH Elapsed Time
+FRENCH Temps EcoulÈ
+GERMAN Verstrichene Zeit
+ITALIAN Tempo scaduto
+SPANISH Tiempo Transcurrido
+RUSSIAN ö±¶≤¥ã≤≤ •∑≤õØ
+
+
+:TRANSLATION days
+ENGLISH days
+FRENCH jours
+GERMAN Tage
+ITALIAN giorni
+SPANISH dÌas
+RUSSIAN ß™≤ü
+
+
+:TRANSLATION UNRECOGNISED_WARZONE
+ENGLISH Server using unrecognised warzone
+FRENCH Serveur utilise zone inconnue
+GERMAN Server verwendet unbekannte Kriegszone
+ITALIAN Il server utilizza una zona di guerra sconosciuta
+SPANISH El Servidor usa un campo de batalla no reconocido
+RUSSIAN ú≤∑•≤∑ ∞±©®¨´µ∂≤¶ ™≤∞µ•≤±¶™∂ò µ®™∂ ù®≤•¢å ß≤ü±¶•∞ü
+
+
+:TRANSLATION INVALID_SAVED_GAME
+ENGLISH Invalid Saved Game
+FRENCH Partie EnregistrÈe Non Valable
+GERMAN Gespeichertes Spiel ung¸ltig
+ITALIAN Partita salvata non valida
+SPANISH Partida guardada no v·lida
+RUSSIAN Æ≤•®µõ®†™® µπ∏∑∂µ∞¶´ ±®å∑π™≤™™∂ò ∞∏∑∂
+
+
+:TRANSLATION NO_DEBRIEF_AVAILABLE
+ENGLISH No Debrief Available
+FRENCH Aucun DÈbrief Disponible
+GERMAN Keine Einsatzauswertung verf¸gbar
+ITALIAN Nessun rapporto disponibile
+SPANISH Informe no disponible
+RUSSIAN î®™¶≤¥±¶™πØ ∞™§®∑õπô∞Ø ®¶±∂¶±¶•∂≤¶
+
+
+:TRANSLATION Gunship
+ENGLISH Gunship
+FRENCH HÈlicoptËre
+GERMAN Hubschrauber
+ITALIAN Elicottero
+SPANISH Aparato
+RUSSIAN ≥≤∑¶®¨≤¶
+
+
+:TRANSLATION RAH-66 Comanche
+ENGLISH RAH-66 Comanche
+FRENCH RAH-66 Comanche
+GERMAN RAH-66 Comanche
+ITALIAN RAH-66 Comanche
+SPANISH RAH-66 Comanche
+RUSSIAN RAH-66 Comanche
+
+
+:TRANSLATION KA-52 Hokum B
+ENGLISH KA-52 Hokum B
+FRENCH KA-52 Hokum B
+GERMAN KA-52 Hokum B
+ITALIAN KA-52 Hokum B
+SPANISH KA-52 Hokum B
+RUSSIAN îí-52
+
+
+:TRANSLATION SELECT
+ENGLISH SELECT
+FRENCH SELECTIONNER
+GERMAN WƒHLEN
+ITALIAN SELEZIONA
+SPANISH SELECCIONAR
+RUSSIAN ≥Üóéíëê
+
+
+:TRANSLATION ENGAGE
+ENGLISH ENGAGE
+FRENCH ENGAGER
+GERMAN ANGREIFEN
+ITALIAN ATTACCA
+SPANISH VOLAR
+RUSSIAN ñéöúëçñöëê
+
+
+:TRANSLATION Balance of Power
+ENGLISH Balance of Power
+FRENCH Equilibre
+GERMAN Kr‰fteverh‰ltnisse
+ITALIAN Bilancio di potenza
+SPANISH Balance de Fuerzas
+RUSSIAN ú®®¶™®ã≤™∞≤ ±∞¨
+
+
+:TRANSLATION Difficulty Rating
+ENGLISH Difficulty Rating
+FRENCH Niv. DifficultÈ
+GERMAN Schwierigkeitsgrad
+ITALIAN Livello di difficolt‡
+SPANISH Nivel de dificultad
+RUSSIAN ç∑®•≤™´ ±¨®†™®±¶∞
+
+
+:TRANSLATION Generating Campaign
+ENGLISH Generating Campaign
+FRENCH CrÈation de la Campagne
+GERMAN Erzeuge Kampagne
+ITALIAN Generazione campagna
+SPANISH Generando CampaÒa
+RUSSIAN ú®µßπ™∞≤ ¥πõ©π™∞∞
+
+
+:TRANSLATION Connecting
+ENGLISH Connecting
+FRENCH Connexion
+GERMAN Verbinde
+ITALIAN In connessione
+SPANISH Conectando
+RUSSIAN ç±¶π™®•¥π ±®≤ß∞™≤™∞Ø
+
+
+:TRANSLATION EXIT
+ENGLISH Exit
+FRENCH Quitter
+GERMAN Beenden
+ITALIAN Esci
+SPANISH Salir
+RUSSIAN ≥¢å®ß
+
+
+:TRANSLATION UI_BACK
+ENGLISH BACK
+FRENCH RETOUR
+GERMAN ZUR‹CK
+ITALIAN INDIETRO
+SPANISH ATR¡S
+RUSSIAN Æí∫í°
+
+
+:TRANSLATION UI_OK
+ENGLISH OK
+FRENCH OK
+GERMAN OK
+ITALIAN OK
+SPANISH ACEPTAR
+RUSSIAN ûî
+
+
+:TRANSLATION UI_EXIT
+ENGLISH EXIT
+FRENCH QUITTER
+GERMAN BEENDEN
+ITALIAN ESCI
+SPANISH SALIR
+RUSSIAN ≥Ü~û°
+
+
+:TRANSLATION UI_CANCEL
+ENGLISH CANCEL
+FRENCH ANNULER
+GERMAN ABBRECHEN
+ITALIAN ANNULLA
+SPANISH CANCELAR
+RUSSIAN ûëïèÆí
+
+
+:TRANSLATION UI_CONFIRM
+ENGLISH CONFIRM
+FRENCH CONFIRMER
+GERMAN BESTƒTIGEN
+ITALIAN CONFERMA
+SPANISH CONFIRMAR
+RUSSIAN ñû°ë≥èé°öëê
+
+
+:TRANSLATION On
+ENGLISH On
+FRENCH On
+GERMAN Ein
+ITALIAN On
+SPANISH On
+RUSSIAN ≥¥¨.
+
+
+:TRANSLATION Off
+ENGLISH Off
+FRENCH Off
+GERMAN Aus
+ITALIAN Off
+SPANISH Off
+RUSSIAN ≥¢¥¨.
+
+
+:TRANSLATION Accept
+ENGLISH Accept
+FRENCH Accepter
+GERMAN Akzeptieren
+ITALIAN Accetta
+SPANISH Aceptar
+RUSSIAN ñ∑∞õ≤™∞¶´
+
+
+:TRANSLATION Credits
+ENGLISH Credits
+FRENCH CrÈdits
+GERMAN Mitarbeiter
+ITALIAN Ringraziamenti
+SPANISH CrÈditos
+RUSSIAN í•¶®∑¢
+
+
+:TRANSLATION Credits Graphics
+ENGLISH GRAPHICS
+FRENCH GRAPHISMES
+GERMAN GRAPHICS
+ITALIAN GRAPHICS
+SPANISH GRAPHICS
+RUSSIAN £∑π§∞¥π
+
+:TRANSLATION Credits Music
+ENGLISH MUSIC
+FRENCH MUSIQUE
+GERMAN MUSIC
+ITALIAN MUSIC
+SPANISH MUSIC
+RUSSIAN ï∂µ¢¥π
+
+
+:TRANSLATION Credits Code
+ENGLISH CODE
+FRENCH CODE
+GERMAN CODE
+ITALIAN CODE
+SPANISH CODE
+RUSSIAN ñ∑®∏∑πõõ∞∑®•π™∞≤
+
+
+:TRANSLATION Sword In The Sand
+ENGLISH Sword In The Sand
+FRENCH Une EpÈe dans le Sable
+GERMAN Schwerter im Sand
+ITALIAN Sword in the Sand
+SPANISH Espada en la Arena
+RUSSIAN ï≤≠ • ©≤±¥≤
+
+:TRANSLATION Task Force Lebanon
+ENGLISH Task Force Lebanon
+FRENCH Groupe Liban
+GERMAN Sonderkommando Libanon
+ITALIAN Task Force Lebanon
+SPANISH Task Force LÌbano
+RUSSIAN î®™¶∞™∏≤™¶ • ì∞•π™≤
+
+
+:TRANSLATION War Of Independence
+ENGLISH War Of Independence
+FRENCH La Guerre d'IndÈpendance
+GERMAN Unabh‰ngigkeitskrieg
+ITALIAN War of Independence
+SPANISH La Guerra de la Independencia
+RUSSIAN ≥®ü™π µπ ™≤µπ•∞±∞õ®±¶´
+
+:TRANSLATION Cuban Crisis
+ENGLISH Cuban Crisis
+FRENCH Crise ‡ Cuba
+GERMAN Kubakrise
+ITALIAN Crisi cubana
+SPANISH La crisis cubana
+RUSSIAN î∂ù∞™±¥∞ü ¥∑∞µ∞±
+
+
+:TRANSLATION The Opium War
+ENGLISH The Opium War
+FRENCH La guerre de l'opium
+GERMAN Der Opiumkrieg
+ITALIAN La guerra dell'oppio
+SPANISH La guerra del opio
+RUSSIAN û©∞∂õ™πØ •®ü™π
+
+
+:TRANSLATION Caspian Black Gold
+ENGLISH Caspian Black Gold
+FRENCH Or noir de la Caspienne
+GERMAN Schwarzes Gold vom Kaspischen Meer
+ITALIAN Oro nero del Caspio
+SPANISH El oro negro del Caspio
+RUSSIAN ≤∑™®≤ µ®¨®¶® îπ±©∞Ø
+
+
+:TRANSLATION Lebanon Skirmish 1
+ENGLISH Lebanon Skirmish 1
+FRENCH Escarmouche Liban 1
+GERMAN Lebanon Skirmish 1
+ITALIAN Lebanon Skirmish 1
+SPANISH Lebanon Skirmish 1
+RUSSIAN û©≤∑πô∞Ø • ì∞•π™≤ 1
+
+
+:TRANSLATION Lebanon Skirmish 2
+ENGLISH Lebanon Skirmish 2
+FRENCH Escarmouche Liban 2
+GERMAN Lebanon Skirmish 2
+ITALIAN Lebanon Skirmish 2
+SPANISH Lebanon Skirmish 2
+RUSSIAN û©≤∑πô∞Ø • ì∞•π™≤ 2
+
+
+:TRANSLATION Lebanon Skirmish 3
+ENGLISH Lebanon Skirmish 3
+FRENCH Escarmouche Liban 3
+GERMAN Lebanon Skirmish 3
+ITALIAN Lebanon Skirmish 3
+SPANISH Lebanon Skirmish 3
+RUSSIAN û©≤∑πô∞Ø • ì∞•π™≤ 3
+
+
+:TRANSLATION Lebanon Skirmish 4
+ENGLISH Lebanon Skirmish 4
+FRENCH Escarmouche Liban 4
+GERMAN Lebanon Skirmish 4
+ITALIAN Lebanon Skirmish 4
+SPANISH Lebanon Skirmish 4
+RUSSIAN û©≤∑πô∞Ø • ì∞•π™≤ 4
+
+
+:TRANSLATION Taiwan Skirmish 1
+ENGLISH Taiwan Skirmish 1
+FRENCH Escarmouche Taiwan 1
+GERMAN Taiwan Skirmish 1
+ITALIAN Taiwan Skirmish 1
+SPANISH Taiwan Skirmish 1
+RUSSIAN û©≤∑πô∞Ø • ëπü•π™≤ 1
+
+
+:TRANSLATION Taiwan Skirmish 2
+ENGLISH Taiwan Skirmish 2
+FRENCH Escarmouche Taiwan 2
+GERMAN Taiwan Skirmish 2
+ITALIAN Taiwan Skirmish 2
+SPANISH Taiwan Skirmish 2
+RUSSIAN û©≤∑πô∞Ø • ëπü•π™≤ 2
+
+
+:TRANSLATION Taiwan Skirmish 3
+ENGLISH Taiwan Skirmish 3
+FRENCH Escarmouche Taiwan 3
+GERMAN Taiwan Skirmish 3
+ITALIAN Taiwan Skirmish 3
+SPANISH Taiwan Skirmish 3
+RUSSIAN û©≤∑πô∞Ø • ëπü•π™≤ 3
+
+
+:TRANSLATION Taiwan Skirmish 4
+ENGLISH Taiwan Skirmish 4
+FRENCH Escarmouche Taiwan 4
+GERMAN Taiwan Skirmish 4
+ITALIAN Taiwan Skirmish 4
+SPANISH Taiwan Skirmish 4
+RUSSIAN û©≤∑πô∞Ø • ëπü•π™≤ 4
+
+
+:TRANSLATION Yemen Skirmish 1
+ENGLISH Yemen Skirmish 1
+FRENCH Escarmouche EpÈe 1
+GERMAN Yemen Skirmish 1
+ITALIAN Yemen Skirmish 1
+SPANISH Yemen Skirmish 1
+RUSSIAN û©≤∑πô∞Ø • Ö≤õ≤™≤ 1
+
+
+:TRANSLATION Yemen Skirmish 2
+ENGLISH Yemen Skirmish 2
+FRENCH Escarmouche EpÈe 2
+GERMAN Yemen Skirmish 2
+ITALIAN Yemen Skirmish 2
+SPANISH Yemen Skirmish 2
+RUSSIAN û©≤∑πô∞Ø • Ö≤õ≤™≤ 2
+
+
+:TRANSLATION Yemen Skirmish 3
+ENGLISH Yemen Skirmish 3
+FRENCH Escarmouche EpÈe 3
+GERMAN Yemen Skirmish 3
+ITALIAN Yemen Skirmish 3
+SPANISH Yemen Skirmish 3
+RUSSIAN û©≤∑πô∞Ø • Ö≤õ≤™≤ 3
+
+
+:TRANSLATION Yemen Skirmish 4
+ENGLISH Yemen Skirmish 4
+FRENCH Escarmouche EpÈe 4
+GERMAN Yemen Skirmish 4
+ITALIAN Yemen Skirmish 4
+SPANISH Yemen Skirmish 4
+RUSSIAN û©≤∑πô∞Ø • Ö≤õ≤™≤ 4
+
+
+:TRANSLATION_PARAGRAPH Campaign Yemen Text
+ENGLISH For ten years both Saudi Arabia and Yemen have been squabbling over the exact course of their mutual border, resulting in frequent armed clashes.
+As both sides re-arm with state of the art equipment from their respective superpower patrons the discovery of rich oil deposits in the disputed region escalates the tension.
+Finally, another confrontation on the border triggers one or both sides to lose patience and the desert reverberates to the sound of helicopter engines as battle is joined over a 'line in the sand'.
+:FRENCH Depuis dix ans, le YÈmen et l'Arabie Saoudite se querellent sur le tracÈ de leur frontiËre commune et plusieurs escarmouches ont ÈclatÈ.
+Alors que les deux pays se lancent dans une course au rÈarmement et font appel ‡ leurs protecteurs respectifs, la dÈcouverte de nouvelles rÈserves pÈtroliËres dans la rÈgion concernÈe a mis le feu aux poudres.
+Le bruit des pales trouble le calme du dÈsert...
+:GERMAN Seit zehn Jahren streiten sich Saudi-Arabien und der Jemen ¸ber den genauen Verlauf der beiderseitigen Grenze und liefern sich dabei immer wieder bewaffnete Auseinandersetzungen.
+W‰hrend beide Seiten mit modernster, von ihren verb¸ndeten Superm‰chten gelieferter Technik aufr¸sten, sorgt die Entdeckung groﬂer ÷lvorkommen in der umstrittenen Region f¸r eine Eskalation der Spannungen.
+Eine weitere Konfrontation an der Grenze f¸hrt schlieﬂlich dazu, dass bei beiden Seiten die Nerven blank liegen.
+In der W¸ste heulen die Hubschraubermotoren auf und die Schlacht um eine 'Linie im Sand' beginnt.
+:ITALIAN Per oltre dieci anni l'Arabia Saudita e lo Yemen hanno litigato per determinare l'esatta conformazione dei confini che li dividono, arrivando anche ad alcune azioni belliche.
+Dal momento che entrambi gli stati si riarmano con gli armamenti forniti dalla tecnologia avanzata delle superpotenze loro alleate, la scoperta di ricchi giacimenti di petrolio nella regione ha reso ancora pi˘ aspra la contesa\: infine, scoppia un altro scontro proprio sul confine e il deserto riverbera il suono dei motori degli elicotteri non appena la battaglia ha inizio su 'una linea nel deserto'.
+:SPANISH Durante diez aÒos, Arabia SaudÌ y Yemen se han disputado el trazado exacto de su frontera m˙tua, lo que ha derivado en frecuentes choques armados.
+Mientras ambas facciones se rearman con equipamiento de alta tecnologÌa por parte de sus respectivas superpotencias aliadas, el descubrimiento de ricos depÛsitos petrolÌferos en la regiÛn disputada ha causado una escalada en la tensiÛn.
+Finalmente, una nueva confrontaciÛn en la frontera hace que uno o ambos lados pierdan la paciencia y el desierto reverbera con el sonido de los motores de helicÛpteros, al tiempo que las fuerzas entablan combate por una 'lÌnea en la arena'.
+:RUSSIAN Æπ ©∑®¶Ø†≤™∞∞ ß≤±Ø¶∞ ¨≤¶ õ≤†ß∂ úπ∂ß®•±¥®ü í∑π•∞≤ü ∞ Ö≤õ≤™®õ ã≤¨ ©®∏∑π™∞≠™¢ü ±©®∑, • å®ß≤ ¥®¶®∑®∏® ©≤∑∞®ß∞≠≤±¥∞ ©∑®∞±å®ß∞¨∞ •®®∑∂†≤™™¢≤ ±¶®¨¥™®•≤™∞Ø. ûù≤ ±¶®∑®™¢ ©≤∑≤®±™πäπò¶ ±•®∞ •®®∑∂†≤™™¢≤ ±∞¨¢ ±πõ¢õ ±®•∑≤õ≤™™¢õ ®∑∂†∞≤õ ∞ ù®≤•®ü ¶≤å™∞¥®ü, ©®¨∂≠≤™™¢õ∞ ®¶ ©®¥∑®•∞¶≤¨´±¶•∂òä∞å ∞õ ±•≤∑åß≤∑†π•. Æ≤®†∞ßπ™™® ™π ±©®∑™®ü ¶≤∑∑∞¶®∑∞∞ ®ù™π∑∂†∞•πò¶±Ø ù®¨´ã∞≤ µπ©π±¢ ™≤§¶∞. ≥ ∑≤µ∂¨´¶π¶≤, ≤±¶≤±¶•≤™™®, ™π©∑Ø†≤™™®±¶´ ≤ä≤ ù®¨≤≤ ∂±∞¨∞•π≤¶±Ø, ∞ ®≠≤∑≤ß™®ü ©∑∞∏∑π™∞≠™¢ü ∞™ô∞ß≤™¶ ©∑∞•®ß∞¶ ¥ ¶®õ∂, ≠¶® ®ß™π ∞µ ±¶®∑®™ (∞¨∞ ®ù≤) ¶≤∑Øò¶ ¶≤∑©≤™∞≤. ñ∂±¶¢™Ø •µ∑¢•π≤¶±Ø ®¶ ∏∂¨π •≤∑¶®¨≤¶™¢å õ®¶®∑®•, ∞ ∞µ-µπ "¨∞™∞∞ ™π ©≤±¥≤" ™π≠∞™π≤¶±Ø ™π±¶®ØäπØ •®ü™π.
+:
+
+:TRANSLATION_PARAGRAPH Campaign Lebanon Text
+ENGLISH The discovery of a plot by terrorists to detonate a nuclear warhead in Baltimore has made the US determined to renew the war against terrorism.
+The perpetrators are discovered to be sheltering in Lebanon and elements of the US 6th Fleet are dispatched to the area.
+The Lebanese militias, backed up with Russian hardware supplied through Syria, are determined to defend their homeland from American incursions and a 'swift surgical strike' soon degenerates into a much wider conflict.
+:FRENCH La dÈcouverte d'un complot terroriste visant ‡ faire exploser une bombe nuclÈaire ‡ Baltimore pousse les Etats-Unis ‡ se remettre en guerre contre le terrorisme international.
+Les terroristes se terrent au Liban et des ÈlÈments de la SixiËme Flotte sont envoyÈs sur la zone.
+Les milices libanaises, dotÈes de matÈriels russes livrÈs par la Syrie, sont bien dÈcidÈes ‡ dÈfendre leur patrie contre les incursions amÈricaines.
+La frappe 'chirurgicale' se transforme rapidement en un conflit bien plus important.
+:GERMAN Nach der Aufdeckung einer terroristischen Verschwˆrung zur Z¸ndung eines Atomsprengkopfs in Baltimore an der amerikanischen Ostk¸ste sehen sich die USA veranlasst, den Kampf gegen den Terrorismus wieder aufzunehmen.
+Da die T‰ter im Libanon untergetaucht sind, werden Teile der 6. US-Flotte in den Nahen Osten entsandt.
+Die ¸ber Syrien mit russischen Waffen belieferten libanesischen Milizen sind fest entschlossen, ihre Heimat gegen die amerikanischen Eindringlinge zu verteidigen. Was zun‰chst wie ein 'schneller und gezielter Schlag' aussah, eskaliert schon bald zu einem ausgedehnten Konflikt.
+:ITALIAN La scoperta di un piano terroristico per far esplodere un ordigno nucleare a Baltimora ha indotto gli americani a riprendere la guerra contro il terrorismo.
+Si scopre che i terroristi sono nascosti in Libano e alcune squadre della 6a flotta degli Stati Uniti vengono inviate in zona.
+Le milizie libanesi, rifornite di materiale bellico russo attraverso la Siria, sono determinate a difendere il proprio territorio dalle forze americane e quello che doveva essere un intervento chirurgico presto degenera in un pi˘ ampio conflitto.
+:SPANISH El descubrimiento de una trama terrorista destinada a detonar una cabeza nuclear en Baltimore, ha determinado a los E.E.U.U. a renovar su guerra con el terrorismo.
+Se ha descubierto que los terroristas se refugian en el LÌbano, con lo que se han desplazado efectivos de la Sexta Flota a ese ·rea.
+Las milicias libanesas, reforzadas con armamento ruso  abastecido a travÈs de Siria, est·n determinadas a defender su hogar de las incursiones americanas y una 'r·pida operaciÛn quir˙rgica' pronto degenera en un conflicto mucho mayor.
+:RUSSIAN ñ®±¨≤ ¶®∏® ¥π¥ ù¢¨ ∑π±¥∑¢¶ ®≠≤∑≤ß™®ü µπ∏®•®∑ ¶≤∑∑®∑∞±¶®•, ™πõ≤∑≤•π•ã∞å±Ø •µ®∑•π¶´ • óπ¨¶∞õ®∑≤ Øß≤∑™∂ò ù®≤∏®¨®•¥∂, úÇí ∑≤ãπò¶ •®µ®ù™®•∞¶´ ©∑®¶∞• ™∞å ©®¨™®õπ±ã¶πù™∂ò •®ü™∂. ≥¢Ø±™Ø≤¶±Ø, ≠¶® ∏¨π•™¢≤ •∞™®•™∞¥∞ ±¥∑¢•πò¶±Ø • ì∞•π™≤, ∞ • â¶®¶ ∑πü®™ ™π©∑π•¨Ø≤¶±Ø ≠π±¶´ 6-∏® §¨®¶π úÇí. ûß™π¥® ¨∞•π™±¥∞≤ ®©®¨≠≤™ô¢, ®±™πä≤™™¢≤ ©®¨∂≠≤™™¢õ ∞µ ú∞∑∞∞ ∑®±±∞ü±¥∞õ ®∑∂†∞≤õ, ±®ù∞∑πò¶±Ø •±≤õ∞ ±∞¨πõ∞ µπä∞äπ¶´ ±•®ò ∑®ß∞™∂ ®¶ πõ≤∑∞¥π™±¥®∏® •¶®∑†≤™∞Ø, ¶π¥ ≠¶® µπ©¨π™∞∑®•π™™¢ü "õ®¨™∞≤™®±™¢ü å∞∑∂∑∏∞≠≤±¥∞ü ∂ßπ∑" ±¥®∑® ©≤∑≤∑π±¶π≤¶ • µ™π≠∞¶≤¨´™® ù®¨≤≤ ±≤∑´≤µ™¢ü ¥®™§¨∞¥¶.
+:
+
+:TRANSLATION_PARAGRAPH Campaign Taiwan Text
+ENGLISH Beijing has always considered Taiwan to be part of China and talks between the two to resolve this have continually broken down.
+For the Chinese the final straw was the surprising victory of the Taiwan Independence Party (TIP) in the 2001 elections.
+The PLA, having spent the last decade re-equipping with state of the art Russian equipment, sees a window of opportunity to settle the issue by force of arms and under cover of large scale naval manoeuvres launch a sudden invasion and rapidly seize the northern side of the island.
+With the UN Security Council prevented from taking action by the Russian veto the Americans rush a task force to the area determined to prevent the Chinese from consolidating their bridgehead.
+:FRENCH PÈkin a toujours considÈrÈ que TaÔwan appartenait ‡ la Chine, et les pourparlers entre les deux nations se sont toujours rÈvÈlÈs infructueux.
+La goutte qui fit dÈborder le vase fut la victoire aux Èlections de 2001 du parti pour l'indÈpendance de TaÔwan, le PIT.
+L'armÈe populaire de Chine, rÈarmÈe au cours de la derniËre dÈcennie avec du matÈriel russe ‡ la pointe de la technologie, y voit une opportunitÈ de rÈgler cette affaire par les armes.
+Sous couvert de grandes manoeuvres aÈronavales, elle lance alors une attaque-surprise et s'empare rapidement du nord de l'Óle.
+Le Conseil de SÈcuritÈ de l'ONU ne pouvant agir ‡ cause du vÈto russe, les AmÈricains dÈpÍchent sur place un groupe aÈronaval destinÈ ‡ empÍcher les Chinois de consolider leur tÍte de pont.
+:GERMAN Peking betrachtet Taiwan seit jeher als Teil Chinas.
+Gespr‰che zwischen beiden Seiten zur Beilegung der Angelegenheit sind wiederholt fehlgeschlagen.
+Der Sieg der 'Taiwanesischen Unabh‰ngigkeitspartei' bei den Wahlen 2001 bringt das Fass f¸r die Chinesen zum ‹berlaufen.
+Die chinesische Volksbefreiungsarmee hatte im vorangegangenen Jahrzehnt mit modernster russischer Technik aufger¸stet und wittert plˆtzlich eine Chance, die Sache mit Waffengewalt und unter dem Deckmantel eines groﬂ angelegten Marinemanˆvers zu lˆsen.
+In einer Blitzaktion landen die Chinesen in Taiwan und bringen schnell den nˆrdlichen Teil der Insel unter Kontrolle.
+Da dem UN-Sicherheitsrat infolge des Vetos der Russen die H‰nde gebunden sind, entsenden die Amerikaner ein Sonderkommando in das Gebiet, um die Chinesen an der Festigung ihres Br¸ckenkopfes zu hindern.
+:ITALIAN Pechino ha sempre considerato Taiwan come una parte della Cina e i dialoghi tra i due stati per risolvere la questione sono continuamente stati interrotti.
+Per i cinesi la goccia che ha fatto traboccare il vaso Ë stata la sorprendente vittoria del Taiwan Independence Party (TIP - Partito per l'Indipendenza di Taiwan) nelle elezioni del 2001.
+Il PLA, avendo passato l'ultimo decennio a equipaggiarsi delle ultime tecnologie belliche sovietiche, intravede la possibilit‡ di risolvere la questione usando la forza delle armi e sotto la copertura di vaste manovre navali, lancia un'improvvisa invasione e si impadronisce rapidamente della parte nord dell'isola.
+Con le Nazioni Unite impossibilitate a intervenire a causa del veto posto dalla Russia, gli americani inviano in fretta una Task Force nella zona, il cui compito Ë impedire ai cinesi di consolidare la propria testa di ponte.
+:SPANISH Beijing siempre ha considerado a Taiwan una parte de China y las conversaciones entre las dos partes para resolver este problema se han interrumpido siempre.
+Para los chinos, la gota que colmÛ el vaso fue la sorprendente victoria del Partido Independentista de Taiwan (TIP) en las elecciones del 2001.
+El PLA, empleÛ la pasada dÈcada en rearmarse con equipamiento Ruso de alta tecnologÌa, y ve en esto una oportunidad de zanjar el asunto mediante el uso de las armas.
+Bajo la cobertura de maniobras navales a gran escala, lanzan una invasiÛn rel·mpago y r·pidamente se hacen con la zona norte de la isla.
+Ante la imposibilidad de que el Consejo de Seguridad de la ONU tome alguna acciÛn, debido al veto de Rusia, los americanos lanzan una fuerza al ·rea, determinados a impedir que los chinos consoliden su cabeza de puente.
+:RUSSIAN ñ≤¥∞™ •±≤∏ßπ ±≠∞¶π¨ ëπü•π™´ ≠π±¶´ò î∞¶πØ, ∞ •±≤ ©≤∑≤∏®•®∑¢ õ≤†ß∂ ß•∂õØ ±¶®∑®™πõ∞, ™π©∑π•¨≤™™¢≤ ™π ∑≤ã≤™∞≤ â¶®∏® •®©∑®±π, ™≤∞µù≤†™® ¥®™≠π¨∞±´ ©∑®•π¨®õ. ñ®±¨≤ß™≤ü ¥π©¨≤ü ß¨Ø ¥∞¶πüô≤• ±¶π¨π ™≤®†∞ßπ™™πØ ©®ù≤ßπ ¶πü•π™´±¥®ü ©π∑¶∞∞ ™≤µπ•∞±∞õ®±¶∞ ™π •¢ù®∑πå 2001 ∏. î∞¶πü±¥πØ π∑õ∞Ø, ®±™πä≤™™πØ • ©∑≤ßã≤±¶•∂òä∞≤ ß≤±Ø¶´ ¨≤¶ ™®•≤üã∞õ ∑®±±∞ü±¥∞õ ®∑∂†∞≤õ ∞ ¶≤å™∞¥®ü, ∑≤ã∞¨π •®±©®¨´µ®•π¶´±Ø â¶∞õ ©∑≤ß¨®∏®õ ∞ ∑πµ ∞ ™π•±≤∏ßπ ©®¥®™≠∞¶´ ± â¶®ü ©∑®ù¨≤õ®ü ± ©®õ®ä´ò •®≤™™®ü ±∞¨¢. ñ®ß ©∑∞¥∑¢¶∞≤õ ã∞∑®¥®õπ±ã¶πù™¢å •®≤™™®-õ®∑±¥∞å õπ™≤•∑®• î∞¶πü ™πõ≤∑≤•π≤¶±Ø ®±∂ä≤±¶•∞¶´ õ®¨™∞≤™®±™¢ü µπå•π¶ ±≤•≤∑™®ü ≠π±¶∞ ®±¶∑®•π. ú®•≤¶ ó≤µ®©π±™®±¶∞ ûûÆ ™∞≠≤∏® ™≤ õ®†≤¶ ©∑≤ß©∑∞™Ø¶´ ∞µ-µπ ∑®±±∞ü±¥®∏® •≤¶®, ∞ πõ≤∑∞¥π™ô¢ ™π©∑π•¨Øò¶ • ∑≤∏∞®™ ®©≤∑π¶∞•™∂ò ù®≤•∂ò ∏∑∂©©∂. ñ≤∑≤ß ™≤ü ©®±¶π•¨≤™π µπßπ≠π ™≤ ß®©∂±¶∞¶´ ¥∞¶πü±¥®ü ®¥¥∂©πô∞∞ ëπü•π™Ø.
+:
+
+:TRANSLATION_PARAGRAPH Campaign Thailand Text
+ENGLISH In THE GOLDEN TRIANGLE where Myanmar, Laos and Thailand come together and most of the world's opium poppies grow, the Chinese have mounted the biggest drugs bust of all time.
+But they didn't have a search warrant for Thailand.
+Can the US face down the spectre of Vietnam and come to the aid of its ally? 
+:FRENCH Le TRIANGLE D'OR est une rÈgion regroupant une partie du Myanmar, du Laos et de la ThaÔlande.
+C'est de l‡ que provient la majoritÈ de la production mondiale de pavot ‡ opium.
+Les Chinois ont montÈ la plus grande opÈration anti-drogue de tous les temps.
+Ils ont malheureusement oubliÈ de se munir d'un mandat de perquisition pour la ThaÔlande.
+Les Etats-Unis feront-ils disparaÓtre une bonne fois pour toutes le spectre du ViÍt-nam en venant en aide ‡ leur alliÈ ?
+:GERMAN Im GOLDENEN DREIECK, wo Myanmar, Laos und Thailand aneinandergrenzen und sich die grˆﬂten Schlafmohnfelder der Welt befinden, haben chinesische Streitkr‰fte die grˆﬂte Drogenrazzia aller Zeiten durchgef¸hrt.
+Allerdings fehlte ihnen dabei ein Durchsuchungsbefehl f¸r Thailand.
+Kˆnnen die USA dem Schreckgespenst Vietnam ins Gesicht sehen und ihrem Verb¸ndeten zu Hilfe kommen?
+:ITALIAN Nel TRIANGOLO D'ORO in cui Laos, Tailandia e Myanmar hanno unito le loro forze, e dove si trovano le principali coltivazioni di papaveri da oppio del mondo, i cinesi hanno lanciato la pi˘ grande offensiva al traffico di droga di tutti i tempi.
+Purtroppo non avevano un permesso di perquisizione per la Tailandia.
+Riusciranno gli Stati Uniti a superare lo spettro del Vietnam e venire in aiuto dei loro alleati?
+:SPANISH En el Tri·ngulo Dorado, donde se encuentran Myanmar, Laos y Tailandia, y donde crece la mayorÌa de amapolas de opio del mundo, los chinos han puesto en marcha la mayor operaciÛn anti-droga del mundo.
+Pero carecÌan de permiso para poder entrar en Tailandia.
+øPodr·n los EE.UU. enfrentarse al fantasma de Vietnam y ayudar a su aliado?
+:RUSSIAN ≥ ∫ûìûëûï ëéèç£ûìêÆöîè, ∏ß≤ ©≤∑≤±≤¥πò¶±Ø ∏∑π™∞ô¢ ï´Ø™õ¢, ìπ®±π ∞ ëπ∞¨π™ßπ, ∑π±©®¨®†≤™¢ ±πõ¢≤ ù®¨´ã∞≤ • õ∞∑≤ ©®¨Ø ®©∞∂õ™®∏® õπ¥π.  î∞¶πüô¢ ∑≤ã∞¨∞ ∂±¶∑®∞¶´ ∏∑π™ß∞®µ™∂ò ®ù¨π•∂ ™π ™π∑¥®¶®∑∏®•ô≤•, ™® µπù¢¨∞ µπ©π±¶∞±´ ®∑ß≤∑®õ ™π ®ù¢±¥ ëπ∞¨π™ßπ.  úõ®∏∂¶ ¨∞ úÇí ©®ù®∑®¶´ ±¶∑πå ©≤∑≤ß ©∑∞µ∑π¥®õ ≥´≤¶™πõπ ∞ ©®õ®≠´ ±•®≤õ∂ ±®òµ™∞¥∂?   
+:
+
+:TRANSLATION_PARAGRAPH Campaign Cuba Text
+ENGLISH In CUBA, Fidel Castro's heirs want the US out of Guantanamo Bay, and they're saying it with artillery.
+The USA has only two options, evacuate or invade, and one of those is unthinkable...
+:FRENCH A CUBA, les hÈritiers de Fidel Castro veulent que les Etats-Unis quittent la baie de Guant·namo, et ils expriment leurs revendications au moyen de l'artillerie.
+Seules deux options s'ouvrent aux USA\:
+l'Èvacuation ou l'invasion, et l'une de ces options est hors de question...
+:GERMAN In KUBA geben Fidel Castros Erben den USA mit Artillerieeinsatz zu verstehen, daﬂ sie aus der Bucht von Guant·namo abziehen sollen.
+Die USA haben die Wahl zwischen abziehen und einmarschieren, doch eine von beiden Mˆglichkeiten ist undenkbar...
+:ITALIAN A CUBA, gli eredi di Fidel Castro vogliono espellere gli americani dalla baia di Guant·namo e sono intenzionati a farlo con l'artiglieria.
+Gli USA hanno solo due possibilit‡\: evacuare o invadere l'area; la scelta Ë ovviamente obbligata.
+:SPANISH En Cuba, los seguidores de Fidel Castro quieren expulsar a las fuerzas americanas de la bahÌa de Guant·namo.
+Los EE.UU. sÛlo tienen dos opciones\:
+evacuar o invadir, y una de ellas es absolutamente inviable...
+:RUSSIAN Æπ îçóè ™π±¨≤ß™∞¥∞ É∞ß≤¨Ø ©®¨™¢ ∑≤ã∞õ®±¶∞ •¢∏™π¶´ úÇí ∞µ µπ¨∞•π £∂π™¶π™πõ®, ∞ ©®ß¶•≤∑†ßπò¶ ±•®∞ ¶∑≤ù®•π™∞Ø π∑¶∞¨¨≤∑∞ü±¥∞õ∞ µπ¨©πõ∞.  ç úÇí •±≤∏® ß•π •π∑∞π™¶π - ß∑π¶´±Ø ∞¨∞ ù≤†π¶´, •©∑®≠≤õ, ®ß∞™ ∞µ ™∞å ±®•≤∑ã≤™™® ™≤õ¢±¨∞õ.
+:
+
+:TRANSLATION_PARAGRAPH Campaign Georgia Text
+ENGLISH In GEORGIA a brand new hyper-nationalistic Russian government is determined to wipe out the humiliations of the post-Soviet era and take control of the Caspian Sea oilfields.
+The only force that can stand in the way of their whirlwind advance is a battalion of US attack helicopters in north-eastern Turkey.
+:FRENCH En GEORGIE, un nouveau gouvernement ultra-nationaliste est dÈterminÈ ‡ balayer les humiliations de l'Ëre post-soviÈtique et ‡ prendre le contrÙle des puits de pÈtrole de la mer Caspienne.
+La seule unitÈ capable d'arrÍter cette invasion Èclair est un bataillon amÈricain d'hÈlicoptËres d'attaque basÈ au nord-est de la Turquie.
+:GERMAN In GEORGIEN ist die neue, hypernationalistische Regierung Ruﬂlands fest dazu entschlossen, den Dem¸tigungen der post-sowjetischen ƒra ein Ende zu bereiten und die ÷lfelder im Kaspischen Meer in ihre Gewalt zu bringen.
+Die einzige Streitmacht, die sich ihrem wirbelsturmartigen Anmarsch in den Weg stellen kann, ist ein Geschwader von US-Kampfhubschraubern im Nordosten der T¸rkei.
+:ITALIAN In GEORGIA il governo ipernazionalista russo appena costituitosi Ë deciso a spazzare via le umiliazioni dell'era post sovietica e assumere il controllo dei giacimenti di petrolio del mar Caspio.
+La sola forza che puÚ opporsi all'avanzata russa Ë un battaglione di elicotteri d'attacco statunitensi nella Turchia nord-orientale.
+:SPANISH En Georgia, un nuevo gobierno ruso ultra-nacionalista est· decidido a vengar las humillaciones de la Època post-soviÈtica y hacerse con el control de los campos petrolÌferos del mar Caspio.
+La ˙nica fuerza capaz de detener su avance es un batallÛn de helicÛpteros de ataque americanos que tienen su base en el noreste de TurquÌa.
+:RUSSIAN ≥ £éç∫öö ™®•®≤ ™πô∞®™π¨∞±¶∞≠≤±¥®≤ ©∑π•∞¶≤¨´±¶•® é®±±∞∞ ∑≤ã∞¨® ©®¨®†∞¶´ ¥®™≤ô ∂™∞†≤™∞Øõ ©®±¶±®•≤¶±¥®ü â∑¢ ∞ •≤∑™∂¶´ ¥®™¶∑®¨´ ™πß ¥π±©∞ü±¥®ü ™≤§¶´ò.  èß∞™±¶•≤™™πØ ±∞¨π, ±©®±®ù™πØ •±¶π¶´ ™π ©∂¶∞ †≤¨≤µ™®∏® •∞å∑Ø - πõ≤∑∞¥π™±¥∞ü •≤∑¶®¨≤¶™¢ü ùπ¶π¨´®™, ùπµ∞∑∂òä∞ü±Ø ™π ±≤•≤∑®-•®±¶®¥≤ ë∂∑ô∞∞.
+:
+
+:END
+

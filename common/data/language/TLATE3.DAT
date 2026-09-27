@@ -1,0 +1,271 @@
+:START  
+
+:TRANSLATION Duration
+ENGLISH Duration
+FRENCH DurÈe 
+GERMAN Dauer 
+ITALIAN Durata 
+SPANISH DuraciÛn
+RUSSIAN ñ∑®ß®¨†∞¶≤¨´™®±¶´
+
+:TRANSLATION Est. Duration
+ENGLISH Est. Duration
+FRENCH DurÈe Est. 
+GERMAN Gsch. Dauer 
+ITALIAN Durata Stimata 
+SPANISH DuraciÛn Est.
+RUSSIAN éπ±≠. ñ∑®ß®¨†.
+
+:TRANSLATION Camera
+ENGLISH Camera
+FRENCH CamÈra 
+GERMAN Kamera 
+ITALIAN Telecamera 
+SPANISH C·mara
+RUSSIAN îπõ≤∑π
+
+
+:TRANSLATION Quit Campaign
+ENGLISH Quit Campaign
+FRENCH Abandonner Campagne 
+GERMAN Kampagne beenden 
+ITALIAN Abbandona Campagna 
+SPANISH Salir de CampaÒa
+RUSSIAN ≥¢ü¶∞ ∞µ ¥πõ©π™∞∞
+
+
+:TRANSLATION Quit Free Flight
+ENGLISH Quit Free Flight
+FRENCH Quitter Vol Libre 
+GERMAN Freiflug beenden 
+ITALIAN Abbandona volo libero 
+SPANISH Salir de Vuelo Libre
+RUSSIAN ≥¢ü¶∞ ∞µ ±•®ù®ß™®∏® ©®¨≤¶π
+
+
+:TRANSLATION Air to Air
+ENGLISH Air to Air
+FRENCH Air-Air 
+GERMAN Luft-Luft 
+ITALIAN Aria-Aria 
+SPANISH Aire-Aire 
+RUSSIAN ≥®µß∂å-•®µß∂å
+
+
+:TRANSLATION Air to Ground
+ENGLISH Air to Ground
+FRENCH Air-Sol 
+GERMAN Luft-Boden 
+ITALIAN Aria-Terra 
+SPANISH Aire-Tierra
+RUSSIAN ≥®µß∂å-µ≤õ¨Ø
+
+
+:TRANSLATION Default Payload
+ENGLISH Default Payload
+FRENCH Armement par DÈfaut 
+GERMAN Standard-Nutzlast 
+ITALIAN Armi Standard 
+SPANISH Carga ˙til por defecto
+RUSSIAN ú¶π™ßπ∑¶™®≤ ±™π∑Ø†≤™∞≤
+
+
+:TRANSLATION Accept Gunship
+ENGLISH Accept Gunship
+FRENCH Accepter HÈlicoptËre 
+GERMAN Hubschrauber annehmen 
+ITALIAN Seleziona Velivolo 
+SPANISH Aceptar HelicÛptero
+RUSSIAN ≥¢ù∑π¶´ •≤∑¶®¨≤¶
+
+
+:TRANSLATION Accept Mission
+ENGLISH Accept Mission
+FRENCH Accepter Mission 
+GERMAN Einsatz annehmen 
+ITALIAN Inizia Missione 
+SPANISH Aceptar MisiÛn
+RUSSIAN ≥¢ù∑π¶´ µπßπ™∞≤
+
+
+:TRANSLATION Yes
+ENGLISH Yes
+FRENCH Oui
+GERMAN Ja
+ITALIAN SÏ
+SPANISH SÌ
+RUSSIAN °π
+
+
+:TRANSLATION No
+ENGLISH No
+FRENCH Non
+GERMAN Nein
+ITALIAN No
+SPANISH No
+RUSSIAN Æ≤¶
+
+
+:TRANSLATION All Up Weight
+ENGLISH All Up Weight
+FRENCH Poids Total  
+GERMAN Gesamtgewicht 
+ITALIAN Peso Totale 
+SPANISH Peso total 
+RUSSIAN ≥µ¨≤¶™πØ õπ±±π
+
+
+:TRANSLATION Filename
+ENGLISH Filename
+FRENCH Fichier
+GERMAN Dateiname
+ITALIAN Nome file
+SPANISH Fichero
+RUSSIAN öõØ §πü¨π
+
+
+:TRANSLATION Messages
+ENGLISH Messages
+FRENCH Messages
+GERMAN Nachricht
+ITALIAN Messaggio
+SPANISH Mensaje
+RUSSIAN ú®®ùä≤™∞Ø
+
+
+:TRANSLATION Destination
+ENGLISH Destination
+FRENCH Destination
+GERMAN Zieleinheit
+ITALIAN Destinazione
+SPANISH DestinaciÛn
+RUSSIAN ñ∂™¥¶ ™πµ™π≠≤™∞Ø
+
+
+:TRANSLATION Main rotor
+ENGLISH Main rotor
+FRENCH Rotor principal
+GERMAN Hauptrotor
+ITALIAN Rotore principale
+SPANISH Rotor Primario
+RUSSIAN Æ≤±∂ä∞ü •∞™¶
+
+
+:TRANSLATION Tail rotor
+ENGLISH Tail rotor
+FRENCH Rotore de queue
+GERMAN Heckrotor
+ITALIAN Rotore di coda
+SPANISH Rotor de la Cola
+RUSSIAN ~•®±¶®•®ü •∞™¶
+
+
+:TRANSLATION Left engine
+ENGLISH Left engine
+FRENCH Moteur gauche
+GERMAN Linkes Triebwerk
+ITALIAN Motore sinistro
+SPANISH Motor Izquierdo
+RUSSIAN ì≤•¢ü ß•∞∏π¶≤¨´
+
+
+:TRANSLATION Right engine
+ENGLISH Right engine
+FRENCH Moteur droit
+GERMAN Rechtes Triebwerk
+ITALIAN Motore destro
+SPANISH Motor Derecho
+RUSSIAN ñ∑π•¢ü ß•∞∏π¶≤¨´
+
+
+:TRANSLATION Left engine fire
+ENGLISH Left engine fire
+FRENCH Incendie moteur gauche
+GERMAN Triebwerkfeuer rechts
+ITALIAN Fuoco nel motore sinistro
+SPANISH Fuego en el motor izquierdo
+RUSSIAN ñ®†π∑ ¨≤•®∏® ß•∞∏π¶≤¨Ø
+
+
+:TRANSLATION Right engine fire
+ENGLISH Right engine fire
+FRENCH Incendie moteur droit
+GERMAN Triebwerkfeuer links
+ITALIAN Fuoco nel motore destro
+SPANISH Fuego en el motor derecho
+RUSSIAN ñ®†π∑ ©∑π•®∏® ß•∞∏π¶≤¨Ø
+
+
+:TRANSLATION Low hydraulics pressure
+ENGLISH Low hydraulics pressure
+FRENCH Pression hydraulique basse
+GERMAN Wasserdruck niedrig
+ITALIAN Bassa pressione idraulica
+SPANISH PresiÛn baja de la hidr·ulica
+RUSSIAN Æ∞µ¥®≤ ßπ•¨≤™∞≤ • ∏∞ß∑®±∞±¶≤õ≤
+
+
+:TRANSLATION Stabiliser
+ENGLISH Stabiliser
+FRENCH Stabilisateur
+GERMAN Stabilisator
+ITALIAN Stabilizzatore
+SPANISH Estabilizador
+RUSSIAN ú¶πù∞¨∞µπ¶®∑
+
+
+:TRANSLATION Fuel leak
+ENGLISH Fuel leak
+FRENCH Fuite de carburant
+GERMAN Tankleck
+ITALIAN Perdita di combustibile
+SPANISH Escape del combustible
+RUSSIAN ç¶≤≠¥π ¶®©¨∞•π
+
+
+:TRANSLATION Low oil pressure
+ENGLISH Low oil pressure
+FRENCH Pression d'huile basse
+GERMAN ÷ldruck niedrig
+ITALIAN Pressione bassa dell'olio
+SPANISH PresiÛn baja del aceite
+RUSSIAN Æ∞µ¥®≤ ßπ•¨≤™∞≤ õπ±¨π
+
+
+:TRANSLATION High oil pressure
+ENGLISH High oil pressure
+FRENCH Pression d'huile haute
+GERMAN ÷ldruck hoch
+ITALIAN Pressione alta dell'olio
+SPANISH PresiÛn alta del aceite
+RUSSIAN ≥¢±®¥®≤ ßπ•¨≤™∞≤ õπ±¨π
+
+
+:TRANSLATION Avionics
+ENGLISH Avionics
+FRENCH Avionique
+GERMAN Avionik 
+ITALIAN Aeroelettronica
+GERMAN Avionik
+RUSSIAN í•∞®™∞¥π
+
+
+:TRANSLATION INVALID
+ENGLISH Exit INVALID
+FRENCH Exit INVALID
+GERMAN Exit INVALID
+ITALIAN Exit INVALID
+SPANISH Exit INVALID
+RUSSIAN Æè°èÖúë≥öëèìêÆû
+
+
+:TRANSLATION Exit Demo? (Y/N)
+ENGLISH Exit Demo? (Y/N)
+GERMAN Demo beenden? (Y/N)
+FRENCH Quitter la dÈmo? (Y/N)
+ITALIAN Exit Demo? (Y/N)
+SPANISH øExit Demo? (Y/N)
+RUSSIAN ≥¢ü¶∞ ∞µ ß≤õ®±¶∑πô∞∞ (Y/N)
+
+
+:END
